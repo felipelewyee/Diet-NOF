@@ -6,7 +6,13 @@ root: intro
 parts:
   - caption: Perfect Pairing Diet030
     chapters:
-      - file: Diet030-GNOF-ncwo1.ipynb
+      - file: Diet030-GNOFm-PP.ipynb
+      - file: Diet030-GNOF-PP.ipynb
+      - file: Diet030-PNOF7-PP.ipynb
+      - file: Diet030-PNOF5-PP.ipynb
   - caption: Extended Pairing Diet030
     chapters:
-      - file: Diet030-GNOF-ncwomax.ipynb
+      - file: Diet030-GNOFm-EP.ipynb
+      - file: Diet030-GNOF-EP.ipynb
+      - file: Diet030-PNOF7-EP.ipynb
+      - file: Diet030-PNOF5-EP.ipynb

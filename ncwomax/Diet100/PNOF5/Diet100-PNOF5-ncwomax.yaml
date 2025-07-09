@@ -1,0 +1,2531 @@
+SCONF:
+  10:
+    Species:
+      C1:
+        Charge: "0"
+        E_NOF: -648.8834458
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "C1"
+      C11:
+        Charge: "0"
+        E_NOF: -648.8831234
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "C11"
+    dE_NOF: 0.202305999933742
+    APD: 96.41936283303112
+    AD: 5.447694000066258
+    dE_Ref: 5.65
+INV24:
+  12:
+    Species:
+      Dibenzocycloheptene:
+        Charge: "0"
+        E_NOF: -577.0469144
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "Dibenzocycloheptene"
+      Dibenzocycloheptene_TS:
+        Charge: "0"
+        E_NOF: -577.0308544
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "Dibenzocycloheptene_TS"
+    dE_NOF: 10.077650000050198
+    APD: 2.1587378635903147
+    AD: 0.22234999994980242
+    dE_Ref: 10.3
+  19:
+    Species:
+      BN_Corannulene_TS:
+        Charge: "0"
+        E_NOF: -800.5990682
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "BN_Corannulene_TS"
+      BN_Corannulene:
+        Charge: "0"
+        E_NOF: -800.6086827
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "BN_Corannulene"
+    dE_NOF: 6.033098749991041
+    APD: 2.6919556453057982
+    AD: 0.1669012500089595
+    dE_Ref: 6.2
+  22:
+    Species:
+      BN_Sumanene:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: ~
+      BN_Sumanene_TS:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: ~
+    dE_NOF: 0.0
+    APD: 100.0
+    AD: 27.2
+    dE_Ref: 27.2
+CDIE20:
+  2:
+    Species:
+      R21:
+        Charge: "0"
+        E_NOF: -193.205161
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "R21"
+      P20:
+        Charge: "0"
+        E_NOF: -193.2006347
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "P20"
+    dE_NOF: 2.840253250004025
+    APD: 35.4487897726358
+    AD: 1.5597467499959752
+    dE_Ref: 4.4
+  14:
+    Species:
+      P48:
+        Charge: "0"
+        E_NOF: -271.5353924
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "P48"
+      R48:
+        Charge: "0"
+        E_NOF: -271.5394961
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "R48"
+    dE_NOF: 2.5750717500050087
+    APD: 41.47564204534071
+    AD: 1.8249282499949917
+    dE_Ref: 4.4
+ALKBDE10:
+  1:
+    Species:
+      f:
+        Charge: "0"
+        E_NOF: -99.4870111
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: 1
+        Filename: "f"
+      bef:
+        Charge: "0"
+        E_NOF: -114.2944166
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: -1
+        Filename: "bef"
+      be:
+        Charge: "0"
+        E_NOF: -14.644304
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "be"
+    dE_NOF: 102.34619124999881
+    APD: 26.210388428263286
+    AD: 36.35380875000118
+    dE_Ref: 138.7
+RG18:
+  1:
+    Species:
+      ne:
+        Charge: "0"
+        E_NOF: -128.6382654
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 2
+        Filename: "ne"
+      ne2:
+        Charge: "0"
+        E_NOF: -257.2764642
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "ne2"
+    dE_NOF: -0.04179149997071363
+    APD: 152.23937496339204
+    AD: 0.12179149997071363
+    dE_Ref: 0.08
+  15:
+    Species:
+      ne:
+        Charge: "0"
+        E_NOF: -128.6382654
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "ne"
+      c2h6:
+        Charge: "0"
+        E_NOF: -79.4965358
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "c2h6"
+      c2h6Ne:
+        Charge: "0"
+        E_NOF: -208.1348938
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "c2h6Ne"
+    dE_NOF: 0.05810649998602457
+    APD: 75.78895833915644
+    AD: 0.18189350001397542
+    dE_Ref: 0.24
+ACONF:
+  5:
+    Species:
+      H_ttt:
+        Charge: "0"
+        E_NOF: -236.0863534
+        Multiplicity: "1"
+        Ncwo: "29"
+        Count: -1
+        Filename: "H_ttt"
+      H_gtt:
+        Charge: "0"
+        E_NOF: -236.0842858
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "H_gtt"
+    dE_NOF: 1.2974190000095405
+    APD: 118.0536134469816
+    AD: 0.7024190000095405
+    dE_Ref: 0.595
+  2:
+    Species:
+      P_TG:
+        Charge: "0"
+        E_NOF: -196.9369706
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "P_TG"
+      P_TT:
+        Charge: "0"
+        E_NOF: -196.9389056
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "P_TT"
+    dE_NOF: 1.214212500010035
+    APD: 97.75447882899593
+    AD: 0.600212500010035
+    dE_Ref: 0.614
+  8:
+    Species:
+      H_ttt:
+        Charge: "0"
+        E_NOF: -236.0863534
+        Multiplicity: "1"
+        Ncwo: "29"
+        Count: -1
+        Filename: "H_ttt"
+      H_gtg:
+        Charge: "0"
+        E_NOF: -236.0825785
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "H_gtg"
+    dE_NOF: 2.3687497499922756
+    APD: 101.08232173109302
+    AD: 1.1907497499922757
+    dE_Ref: 1.178
+ISO34:
+  12:
+    Species:
+      E12:
+        Charge: "0"
+        E_NOF: -270.3849129
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "E12"
+      P12:
+        Charge: "0"
+        E_NOF: -270.3318591
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "P12"
+    dE_NOF: 33.29125950002344
+    APD: 27.07281599118632
+    AD: 12.358740499976555
+    dE_Ref: 45.65
+  7:
+    Species:
+      E7:
+        Charge: "0"
+        E_NOF: -155.3389283
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "E7"
+      P7:
+        Charge: "0"
+        E_NOF: -155.3187051
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "P7"
+    dE_NOF: 12.690058000007411
+    APD: 13.812179372263778
+    AD: 1.540058000007411
+    dE_Ref: 11.15
+BSR36:
+  4:
+    Species:
+      ch4:
+        Charge: "0"
+        E_NOF: -40.3499301
+        Multiplicity: "1"
+        Ncwo: "34"
+        Count: -4
+        Filename: "ch4"
+      c2h6:
+        Charge: "0"
+        E_NOF: -79.4965691
+        Multiplicity: "1"
+        Ncwo: "31"
+        Count: 5
+        Filename: "c2h6"
+      h4:
+        Charge: "0"
+        E_NOF: -236.0818791
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "h4"
+    dE_NOF: -0.7818649999971967
+    APD: 108.8346327683299
+    AD: 9.631864999997196
+    dE_Ref: 8.85
+  21:
+    Species:
+      ch4:
+        Charge: "0"
+        E_NOF: -40.3499301
+        Multiplicity: "1"
+        Ncwo: "34"
+        Count: -7
+        Filename: "ch4"
+      c2h6:
+        Charge: "0"
+        E_NOF: -79.4965691
+        Multiplicity: "1"
+        Ncwo: "31"
+        Count: 7
+        Filename: "c2h6"
+      r6:
+        Charge: "0"
+        E_NOF: -274.025368
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "r6"
+    dE_NOF: -0.693387499981327
+    APD: 107.08985173805037
+    AD: 10.473387499981326
+    dE_Ref: 9.78
+FH51:
+  25:
+    Species:
+      dimethylpyrrole:
+        Charge: "0"
+        E_NOF: -287.5839272
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "dimethylpyrrole"
+      methylpyridine:
+        Charge: "0"
+        E_NOF: -286.381075
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "methylpyridine"
+      H2:
+        Charge: "0"
+        E_NOF: -1.173218
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "H2"
+    dE_NOF: -18.595460499986075
+    APD: 8.261171682357793
+    AD: 1.6745395000139247
+    dE_Ref: -20.27
+BH76:
+  54:
+    Species:
+      RKT09:
+        Charge: "0"
+        E_NOF: -154.9499507
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: 1
+        Filename: "RKT09"
+      H2O:
+        Charge: "0"
+        E_NOF: -76.1811524
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "H2O"
+      C2H5:
+        Charge: "0"
+        E_NOF: -78.8270562
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: -1
+        Filename: "C2H5"
+    dE_NOF: 36.55683225001849
+    APD: 79.20015808832594
+    AD: 16.15683225001849
+    dE_Ref: 20.4
+  6:
+    Species:
+      hcl:
+        Charge: "0"
+        E_NOF: -460.2257447
+        Multiplicity: "1"
+        Ncwo: "10"
+        Count: -1
+        Filename: "hcl"
+      hclhts:
+        Charge: "0"
+        E_NOF: -460.6444914
+        Multiplicity: "2"
+        Ncwo: "13"
+        Count: 1
+        Filename: "hclhts"
+      h:
+        Charge: "0"
+        E_NOF: -0.4999833
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: -1
+        Filename: "h"
+    dE_NOF: 50.97596650000196
+    APD: 186.38183426967393
+    AD: 33.17596650000196
+    dE_Ref: 17.8
+  74:
+    Species:
+      ch3:
+        Charge: "0"
+        E_NOF: -39.6792196
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: -1
+        Filename: "ch3"
+      NH3:
+        Charge: "0"
+        E_NOF: -56.3478922
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "NH3"
+      RKT21:
+        Charge: "0"
+        E_NOF: -95.955581
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: 1
+        Filename: "RKT21"
+    dE_NOF: 44.88557700000092
+    APD: 165.59513017752028
+    AD: 27.985577000000923
+    dE_Ref: 16.9
+  18:
+    Species:
+      ch3cl:
+        Charge: "0"
+        E_NOF: -499.3686762
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "ch3cl"
+      cl-:
+        Charge: "-1"
+        E_NOF: -459.6736624
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "cl-"
+      clch3clts:
+        Charge: "-1"
+        E_NOF: -959.0249149
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "clch3clts"
+    dE_NOF: 10.933371750055812
+    APD: 337.3348700022325
+    AD: 8.433371750055812
+    dE_Ref: 2.5
+G2RC:
+  15:
+    Species:
+      1:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -3
+        Filename: ~
+      34:
+        Charge: "0"
+        E_NOF: -109.1406401
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "34"
+      11:
+        Charge: "0"
+        E_NOF: -343.0562906
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 2
+        Filename: "11"
+    dE_NOF: -362049.89304025006
+    APD: 918109.2138986815
+    AD: 362010.46304025006
+    dE_Ref: -39.43
+RC21:
+  4:
+    Species:
+      2p2:
+        Charge: "0"
+        E_NOF: -153.8049295
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: 1
+        Filename: "2p2"
+      2e:
+        Charge: "1"
+        E_NOF: -232.4111365
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: -1
+        Filename: "2e"
+      2p3:
+        Charge: "1"
+        E_NOF: -78.5504016
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "2p3"
+    dE_NOF: 35.01788849999866
+    APD: 41.086997812922846
+    AD: 24.422111500001336
+    dE_Ref: 59.44
+MB16-43:
+  4:
+    Species:
+      O2:
+        Charge: "0"
+        E_NOF: -149.7789983
+        Multiplicity: "3"
+        Ncwo: "0"
+        Count: 1
+        Filename: "O2"
+      BH3:
+        Charge: "0"
+        E_NOF: -26.5168195
+        Multiplicity: "1"
+        Ncwo: "35"
+        Count: 6
+        Filename: "BH3"
+      CH4:
+        Charge: "0"
+        E_NOF: -40.3499831
+        Multiplicity: "1"
+        Ncwo: "34"
+        Count: 2
+        Filename: "CH4"
+      AlH3:
+        Charge: "0"
+        E_NOF: -243.7946553
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 2
+        Filename: "AlH3"
+      04:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -2
+        Filename: ~
+      F2:
+        Charge: "0"
+        E_NOF: -198.9907916
+        Multiplicity: "1"
+        Ncwo: "11"
+        Count: 1
+        Filename: "F2"
+      SiH4:
+        Charge: "0"
+        E_NOF: -291.4369731
+        Multiplicity: "1"
+        Ncwo: "20"
+        Count: 4
+        Filename: "SiH4"
+      H2:
+        Charge: "0"
+        E_NOF: -1.173223
+        Multiplicity: "1"
+        Ncwo: "59"
+        Count: -17
+        Filename: "H2"
+    dE_NOF: -1.39428183590025e6
+    APD: 390821.3842248985
+    AD: 1.39463868400025e6
+    dE_Ref: 356.8481
+  31:
+    Species:
+      O2:
+        Charge: "0"
+        E_NOF: -149.7789983
+        Multiplicity: "3"
+        Ncwo: "0"
+        Count: 1
+        Filename: "O2"
+      BH3:
+        Charge: "0"
+        E_NOF: -26.5168195
+        Multiplicity: "1"
+        Ncwo: "35"
+        Count: 4
+        Filename: "BH3"
+      CH4:
+        Charge: "0"
+        E_NOF: -40.3499831
+        Multiplicity: "1"
+        Ncwo: "34"
+        Count: 2
+        Filename: "CH4"
+      AlH3:
+        Charge: "0"
+        E_NOF: -243.7946553
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 2
+        Filename: "AlH3"
+      31:
+        Charge: "0"
+        E_NOF: -762.7920597
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -2
+        Filename: "31"
+      P2:
+        Charge: "0"
+        E_NOF: -681.675771
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 4
+        Filename: "P2"
+      F2:
+        Charge: "0"
+        E_NOF: -198.9907916
+        Multiplicity: "1"
+        Ncwo: "11"
+        Count: 1
+        Filename: "F2"
+      Cl2:
+        Charge: "0"
+        E_NOF: -919.2082289
+        Multiplicity: "1"
+        Ncwo: "7"
+        Count: 1
+        Filename: "Cl2"
+      H2:
+        Charge: "0"
+        E_NOF: -1.173223
+        Multiplicity: "1"
+        Ncwo: "59"
+        Count: -8
+        Filename: "H2"
+    dE_NOF: -1.9666275157605e6
+    APD: 367762.44396581943
+    AD: 1.9671624160605e6
+    dE_Ref: 534.9003
+PCONF21:
+  7:
+    Species:
+      99:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: ~
+      412:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: ~
+    dE_NOF: 0.0
+    APD: 100.0
+    AD: 2.18
+    dE_Ref: 2.18
+  18:
+    Species:
+      SER_ab:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: ~
+      SER_b:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: ~
+    dE_NOF: 0.0
+    APD: 100.0
+    AD: 2.74
+    dE_Ref: 2.74
+  8:
+    Species:
+      99:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: ~
+      691:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: ~
+    dE_NOF: 0.0
+    APD: 100.0
+    AD: 1.61
+    dE_Ref: 1.61
+Amino20x4:
+  23:
+    Species:
+      GLN_xai:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: ~
+      GLN_xap:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: ~
+    dE_NOF: 0.0
+    APD: 100.0
+    AD: 4.045
+    dE_Ref: 4.045
+  48:
+    Species:
+      LYS_xap:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: ~
+      LYS_xat:
+        Charge: "0"
+        E_NOF: -667.2349208
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "LYS_xat"
+    dE_NOF: -418689.912802
+    APD: 7.75352690374074e7
+    AD: 418690.452802
+    dE_Ref: 0.54
+  56:
+    Species:
+      PHE_xal:
+        Charge: "0"
+        E_NOF: -724.8289494
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "PHE_xal"
+      PHE_xaw:
+        Charge: "0"
+        E_NOF: -723.9752613
+        Multiplicity: "1"
+        Ncwo: "22"
+        Count: -1
+        Filename: "PHE_xaw"
+    dE_NOF: -535.6892827500124
+    APD: 28458.352713076358
+    AD: 537.5782827500124
+    dE_Ref: 1.889
+ADIM6:
+  2:
+    Species:
+      AM3:
+        Charge: "0"
+        E_NOF: -118.6443854
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 2
+        Filename: "AM3"
+      AD3:
+        Charge: "0"
+        E_NOF: -237.2865102
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "AD3"
+    dE_NOF: -1.4185264999978244
+    APD: 171.28273869335803
+    AD: 3.4085264999978246
+    dE_Ref: 1.99
+RSE43:
+  43:
+    Species:
+      E1:
+        Charge: "0"
+        E_NOF: -40.349967
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "E1"
+      E45:
+        Charge: "0"
+        E_NOF: -196.9394374
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "E45"
+      P1:
+        Charge: "0"
+        E_NOF: -39.6792145
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: -1
+        Filename: "P1"
+      P45:
+        Charge: "0"
+        E_NOF: -196.2695387
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: 1
+        Filename: "P45"
+    dE_NOF: -0.5357595000241417
+    APD: 76.70610869460252
+    AD: 1.764240499975858
+    dE_Ref: -2.3
+  28:
+    Species:
+      E30:
+        Charge: "0"
+        E_NOF: -228.2428585
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "E30"
+      E1:
+        Charge: "0"
+        E_NOF: -40.349967
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "E1"
+      P1:
+        Charge: "0"
+        E_NOF: -39.6792145
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: -1
+        Filename: "P1"
+      P30:
+        Charge: "0"
+        E_NOF: -227.5685588
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: 1
+        Filename: "P30"
+    dE_NOF: 2.2258679999795277
+    APD: 137.09779999965878
+    AD: 8.225867999979528
+    dE_Ref: -6.0
+  30:
+    Species:
+      P32:
+        Charge: "0"
+        E_NOF: -114.6441319
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: 1
+        Filename: "P32"
+      E32:
+        Charge: "0"
+        E_NOF: -115.3168747
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "E32"
+      E1:
+        Charge: "0"
+        E_NOF: -40.349967
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "E1"
+      P1:
+        Charge: "0"
+        E_NOF: -39.6792145
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: -1
+        Filename: "P1"
+    dE_NOF: 1.2489132499904372
+    APD: 129.04449418582414
+    AD: 5.548913249990437
+    dE_Ref: -4.3
+BHROT27:
+  1:
+    Species:
+      ethane_st:
+        Charge: "0"
+        E_NOF: -79.4963614
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "ethane_st"
+      ethane_ecl:
+        Charge: "0"
+        E_NOF: -79.4915765
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "ethane_ecl"
+    dE_NOF: 3.002524750001612
+    APD: 9.982591575150627
+    AD: 0.27252475000161214
+    dE_Ref: 2.73
+  20:
+    Species:
+      bithiophene_anti:
+        Charge: "0"
+        E_NOF: -1102.3822688
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "bithiophene_anti"
+      bithiophene_TS:
+        Charge: "0"
+        E_NOF: -1102.3823994
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "bithiophene_TS"
+    dE_NOF: -0.0819514999166131
+    APD: 104.60401684924791
+    AD: 1.8619514999166131
+    dE_Ref: 1.78
+  10:
+    Species:
+      h2s2_cis:
+        Charge: "0"
+        E_NOF: -796.488476
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "h2s2_cis"
+      h2s2:
+        Charge: "0"
+        E_NOF: -796.499765
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "h2s2"
+    dE_NOF: 7.083847500034608
+    APD: 11.78272104564622
+    AD: 0.9461524999653914
+    dE_Ref: 8.03
+ISOL24:
+  13:
+    Species:
+      i13e:
+        Charge: "0"
+        E_NOF: -572.2906389
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "i13e"
+      i13p:
+        Charge: "0"
+        E_NOF: -572.2530417
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "i13p"
+    dE_NOF: 23.592242999991868
+    APD: 28.551656571799317
+    AD: 9.427757000008135
+    dE_Ref: 33.02
+SIE4x4:
+  10:
+    Species:
+      nh3:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: ~
+      nh3+:
+        Charge: "1"
+        E_NOF: -56.0029212
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: 1
+        Filename: "nh3+"
+      nh32+_1.25:
+        Charge: "1"
+        E_NOF: -112.3603378
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: -1
+        Filename: "nh32+_1.25"
+    dE_NOF: 35364.27891649999
+    APD: 136441.6174382239
+    AD: 35338.37891649999
+    dE_Ref: 25.9
+  7:
+    Species:
+      he+:
+        Charge: "1"
+        E_NOF: 0
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: 1
+        Filename: ~
+      he2+_1.5:
+        Charge: "1"
+        E_NOF: -4.9114836
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: -1
+        Filename: "he2+_1.5"
+      he:
+        Charge: "0"
+        E_NOF: -2.9018177
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "he"
+    dE_NOF: 1261.0653522500004
+    APD: 3928.962786741215
+    AD: 1229.7653522500004
+    dE_Ref: 31.3
+HAL59:
+  1:
+    Species:
+      PCH:
+        Charge: "0"
+        E_NOF: -379.3276691
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "PCH"
+      PCH_PhBr:
+        Charge: "0"
+        E_NOF: -3182.5277819
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "PCH_PhBr"
+      PhBr:
+        Charge: "0"
+        E_NOF: -2803.2023935
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "PhBr"
+    dE_NOF: -1.4311392500530928
+    APD: 268.369323535658
+    AD: 2.281139250053093
+    dE_Ref: 0.85
+  21:
+    Species:
+      NH3:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: ~
+      FCl:
+        Charge: "0"
+        E_NOF: -559.1150238
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "FCl"
+      NH3_FCl:
+        Charge: "0"
+        E_NOF: -615.4623286
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "NH3_FCl"
+    dE_NOF: 35357.93376199994
+    APD: 335364.26719165035
+    AD: 35347.39376199994
+    dE_Ref: 10.54
+  38:
+    Species:
+      BrBr_OCH2:
+        Charge: "0"
+        E_NOF: -5259.2389373
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "BrBr_OCH2"
+      BrBr:
+        Charge: "0"
+        E_NOF: -5145.1274463
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "BrBr"
+      OCH2:
+        Charge: "0"
+        E_NOF: -114.1090291
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "OCH2"
+    dE_NOF: 1.5448422500048764
+    APD: 64.96956349195293
+    AD: 2.8651577499951237
+    dE_Ref: 4.41
+  43:
+    Species:
+      pyr:
+        Charge: "0"
+        E_NOF: -247.2289417
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "pyr"
+      MeI:
+        Charge: "0"
+        E_NOF: -2478.4316319
+        Multiplicity: "1"
+        Ncwo: "6"
+        Count: 1
+        Filename: "MeI"
+      MeI_pyr:
+        Charge: "0"
+        E_NOF: -2727.0046574
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "MeI_pyr"
+    dE_NOF: 843.412584500009
+    APD: 23263.229487534874
+    AD: 839.802584500009
+    dE_Ref: 3.61
+  56:
+    Species:
+      27_CH3Br-benAB:
+        Charge: "0"
+        E_NOF: -2843.5514374
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "27_CH3Br-benAB"
+      27_CH3Br-benB:
+        Charge: "0"
+        E_NOF: -2612.3182212
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "27_CH3Br-benB"
+      27_CH3Br-benA:
+        Charge: "0"
+        E_NOF: -231.2346184
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "27_CH3Br-benA"
+    dE_NOF: -0.8798805002588779
+    APD: 148.61218233474463
+    AD: 2.689880500258878
+    dE_Ref: 1.81
+  8:
+    Species:
+      PhI:
+        Charge: "0"
+        E_NOF: -2670.4361383
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "PhI"
+      NCH:
+        Charge: "0"
+        E_NOF: -93.0675144
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "NCH"
+      NCH_PhI:
+        Charge: "0"
+        E_NOF: -2764.2059738
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "NCH_PhI"
+    dE_NOF: 440.7064902498387
+    APD: 23467.19199196998
+    AD: 438.8364902498387
+    dE_Ref: 1.87
+CARBHB12:
+  4:
+    Species:
+      4O_A:
+        Charge: "0"
+        E_NOF: -303.5402488
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "4O_A"
+      4O_B:
+        Charge: "0"
+        E_NOF: -76.1805903
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "4O_B"
+      4O:
+        Charge: "0"
+        E_NOF: -379.7252448
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "4O"
+    dE_NOF: 2.764576749999833
+    APD: 72.26269940804823
+    AD: 7.202423250000168
+    dE_Ref: 9.967
+  6:
+    Species:
+      2N:
+        Charge: "0"
+        E_NOF: -593.5537125
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "2N"
+      2N_A:
+        Charge: "0"
+        E_NOF: -56.3478282
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "2N_A"
+      2N_B:
+        Charge: "0"
+        E_NOF: -537.205857
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "2N_B"
+    dE_NOF: 0.01713074988219887
+    APD: 99.43294439317448
+    AD: 3.003869250117801
+    dE_Ref: 3.021
+  11:
+    Species:
+      3CL:
+        Charge: "0"
+        E_NOF: -750.400453
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "3CL"
+      3CL_A:
+        Charge: "0"
+        E_NOF: -460.2253288
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "3CL_A"
+      3CL_B:
+        Charge: "0"
+        E_NOF: -290.1755635
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "3CL_B"
+    dE_NOF: -0.2756607500487007
+    APD: 108.50542271054306
+    AD: 3.516660750048701
+    dE_Ref: 3.241
+  3:
+    Species:
+      3O:
+        Charge: "0"
+        E_NOF: -366.3573546
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "3O"
+      3O_B:
+        Charge: "0"
+        E_NOF: -290.1753003
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "3O_B"
+      3O_A:
+        Charge: "0"
+        E_NOF: -76.1811562
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "3O_A"
+    dE_NOF: 0.5635577499924693
+    APD: 76.72210863310742
+    AD: 1.8574422500075305
+    dE_Ref: 2.421
+HEAVY28:
+  24:
+    Species:
+      teh2_h2s:
+        Charge: "0"
+        E_NOF: -2690.8759804
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "teh2_h2s"
+      h2s:
+        Charge: "0"
+        E_NOF: -398.8514024
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "h2s"
+      teh2:
+        Charge: "0"
+        E_NOF: -2291.8851679
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "teh2"
+    dE_NOF: 87.47983775025932
+    APD: 18124.966197970694
+    AD: 86.99983775025932
+    dE_Ref: 0.48
+  5:
+    Species:
+      bih3_hbr:
+        Charge: "0"
+        E_NOF: -7046.303812
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "bih3_hbr"
+      hbr:
+        Charge: "0"
+        E_NOF: -2573.1714058
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "hbr"
+      bih3:
+        Charge: "0"
+        E_NOF: -4472.0331542
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "bih3"
+    dE_NOF: 689.7806299997028
+    APD: 70285.77857139824
+    AD: 688.8006299997028
+    dE_Ref: 0.98
+UPU23:
+  5:
+    Species:
+      2p:
+        Charge: "-1"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: ~
+      1p:
+        Charge: "-1"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: ~
+    dE_NOF: 0.0
+    APD: 100.0
+    AD: 2.02
+    dE_Ref: 2.02
+BUT14DIOL:
+  39:
+    Species:
+      B1:
+        Charge: "0"
+        E_NOF: -307.7335029
+        Multiplicity: "1"
+        Ncwo: "24"
+        Count: -1
+        Filename: "B1"
+      B40:
+        Charge: "0"
+        E_NOF: -307.7333419
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "B40"
+    dE_NOF: 0.10102750000078231
+    APD: 96.74104838707154
+    AD: 2.9989724999992178
+    dE_Ref: 3.1
+  63:
+    Species:
+      B64:
+        Charge: "0"
+        E_NOF: -307.7306802
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "B64"
+      B1:
+        Charge: "0"
+        E_NOF: -307.7335029
+        Multiplicity: "1"
+        Ncwo: "24"
+        Count: -1
+        Filename: "B1"
+    dE_NOF: 1.771244250034215
+    APD: 58.903845706862754
+    AD: 2.5387557499657847
+    dE_Ref: 4.31
+  28:
+    Species:
+      B1:
+        Charge: "0"
+        E_NOF: -307.7335029
+        Multiplicity: "1"
+        Ncwo: "24"
+        Count: -1
+        Filename: "B1"
+      B29:
+        Charge: "0"
+        E_NOF: -307.7331284
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "B29"
+    dE_NOF: 0.2349987500347197
+    APD: 91.69615724258941
+    AD: 2.5950012499652804
+    dE_Ref: 2.83
+DC13:
+  12:
+    Species:
+      o3:
+        Charge: "0"
+        E_NOF: -224.6666985
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "o3"
+      o3_c2h4_add:
+        Charge: "0"
+        E_NOF: -303.0373335
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "o3_c2h4_add"
+      c2h4:
+        Charge: "0"
+        E_NOF: -78.2658492
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "c2h4"
+    dE_NOF: -65.75308950000908
+    APD: 12.015484667817852
+    AD: 7.053089500009079
+    dE_Ref: -58.7
+  6:
+    Species:
+      carbooxo1:
+        Charge: "0"
+        E_NOF: -566.1449036
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "carbooxo1"
+      carbooxo2:
+        Charge: "0"
+        E_NOF: -566.0525709
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "carbooxo2"
+    dE_NOF: -57.93876925006043
+    APD: 125.44268190684993
+    AD: 32.23876925006043
+    dE_Ref: -25.7
+BH76RC:
+  16:
+    Species:
+      ch3:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: -1
+        Filename: ~
+      CH4:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: ~
+      h:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: 1
+        Filename: ~
+      H2:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: ~
+    dE_NOF: 0.0
+    APD: 100.0
+    AD: 3.11
+    dE_Ref: -3.11
+PArel:
+  20:
+    Species:
+      c2cl43:
+        Charge: "1"
+        E_NOF: -1914.5592892
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "c2cl43"
+      c2cl41:
+        Charge: "1"
+        E_NOF: -1914.5393044
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "c2cl41"
+    dE_NOF: 12.540461999829859
+    APD: 483.2773023176679
+    AD: 10.390461999829858
+    dE_Ref: 2.15
+  10:
+    Species:
+      sugar2:
+        Charge: "1"
+        E_NOF: -649.9195843
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "sugar2"
+      sugar0:
+        Charge: "1"
+        E_NOF: -649.9226283
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "sugar0"
+    dE_NOF: 1.9101099999970756
+    APD: 35.902348993386724
+    AD: 1.0698900000029243
+    dE_Ref: 2.98
+  5:
+    Species:
+      T3:
+        Charge: "1"
+        E_NOF: -452.7388467
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "T3"
+      T1:
+        Charge: "1"
+        E_NOF: -452.7418328
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "T1"
+    dE_NOF: 1.8737777500064112
+    APD: 73.93911335178845
+    AD: 5.316222249993589
+    dE_Ref: 7.19
+  3:
+    Species:
+      T0:
+        Charge: "1"
+        E_NOF: -452.7376072
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "T0"
+      T1:
+        Charge: "1"
+        E_NOF: -452.7418328
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "T1"
+    dE_NOF: 2.65156399999978
+    APD: 9.810748299327201
+    AD: 0.28843600000021974
+    dE_Ref: 2.94
+G21EA:
+  21:
+    Species:
+      EA_21n:
+        Charge: "0"
+        E_NOF: -129.4364361
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: 1
+        Filename: "EA_21n"
+      EA_21:
+        Charge: "-1"
+        E_NOF: -129.3889015
+        Multiplicity: "3"
+        Ncwo: "0"
+        Count: -1
+        Filename: "EA_21"
+    dE_NOF: -29.827961500006495
+    APD: 14813.980750003248
+    AD: 29.627961500006496
+    dE_Ref: -0.2
+  5:
+    Species:
+      EA_p-:
+        Charge: "-1"
+        E_NOF: -340.7741709
+        Multiplicity: "3"
+        Ncwo: "0"
+        Count: -1
+        Filename: "EA_p-"
+      EA_p:
+        Charge: "0"
+        E_NOF: -340.7693205
+        Multiplicity: "4"
+        Ncwo: "0"
+        Count: 1
+        Filename: "EA_p"
+    dE_NOF: 3.043625999998767
+    APD: 82.40678612717475
+    AD: 14.256374000001234
+    dE_Ref: 17.3
+  25:
+    Species:
+      EA_25n:
+        Charge: "0"
+        E_NOF: -919.2072904
+        Multiplicity: "1"
+        Ncwo: "7"
+        Count: 1
+        Filename: "EA_25n"
+      EA_25:
+        Charge: "-1"
+        E_NOF: -919.2571289
+        Multiplicity: "2"
+        Ncwo: "7"
+        Count: -1
+        Filename: "EA_25"
+    dE_NOF: 31.27365874988027
+    APD: 42.82694926895746
+    AD: 23.426341250119734
+    dE_Ref: 54.7
+BHPERI:
+  1:
+    Species:
+      TS1:
+        Charge: "0"
+        E_NOF: -155.2418028
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "TS1"
+      Cyclobutene:
+        Charge: "0"
+        E_NOF: -155.3186836
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "Cyclobutene"
+    dE_NOF: 48.242702000017744
+    APD: 36.66487818701911
+    AD: 12.942702000017746
+    dE_Ref: 35.3
+  26:
+    Species:
+      09r:
+        Charge: "0"
+        E_NOF: -551.7912755
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "09r"
+      00r:
+        Charge: "0"
+        E_NOF: -78.2661863
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "00r"
+      09ts:
+        Charge: "0"
+        E_NOF: -629.9630134
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "09ts"
+    dE_NOF: 59.266370999917854
+    APD: 89.34942811475352
+    AD: 27.966370999917853
+    dE_Ref: 31.3
+  17:
+    Species:
+      13ts_7a:
+        Charge: "0"
+        E_NOF: -247.3596211
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "13ts_7a"
+      13r_7:
+        Charge: "0"
+        E_NOF: -169.1523878
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "13r_7"
+      13_c2h4:
+        Charge: "0"
+        E_NOF: -78.2662013
+        Multiplicity: "1"
+        Ncwo: "28"
+        Count: -1
+        Filename: "13_c2h4"
+    dE_NOF: 37.00242000000435
+    APD: 182.46122137407897
+    AD: 23.902420000004348
+    dE_Ref: 13.1
+  23:
+    Species:
+      05r:
+        Charge: "0"
+        E_NOF: -209.2806217
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "05r"
+      06ts:
+        Charge: "0"
+        E_NOF: -287.4677267
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "06ts"
+      00r:
+        Charge: "0"
+        E_NOF: -78.2661863
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "00r"
+    dE_NOF: 49.623515749990474
+    APD: 78.50185521579307
+    AD: 21.823515749990474
+    dE_Ref: 27.8
+IL16:
+  3:
+    Species:
+      147B:
+        Charge: "-1"
+        E_NOF: -524.6320086
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "147B"
+      147:
+        Charge: "0"
+        E_NOF: -659.8117356
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "147"
+      147A:
+        Charge: "1"
+        E_NOF: -135.0080187
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "147A"
+    dE_NOF: -107.74695825006347
+    APD: 7.837688606566184
+    AD: 9.163041749936525
+    dE_Ref: -116.91
+AHB21:
+  1:
+    Species:
+      1A:
+        Charge: "-1"
+        E_NOF: -99.5551865
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "1A"
+      1:
+        Charge: "-1"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: ~
+      1B:
+        Charge: "0"
+        E_NOF: -56.345429
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "1B"
+    dE_NOF: 97827.63622625
+    APD: 550002.3958754919
+    AD: 97845.42622625
+    dE_Ref: -17.79
+  15:
+    Species:
+      15:
+        Charge: "-1"
+        E_NOF: -454.6192807
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "15"
+      15A:
+        Charge: "-1"
+        E_NOF: -398.2625819
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "15A"
+      15B:
+        Charge: "0"
+        E_NOF: -56.3472327
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "15B"
+    dE_NOF: -5.939977749978425
+    APD: 31.09074535987905
+    AD: 2.6800222500215742
+    dE_Ref: -8.62
+W4-11:
+  39:
+    Species:
+      c:
+        Charge: "0"
+        E_NOF: -37.7277132
+        Multiplicity: "3"
+        Ncwo: "0"
+        Count: 3
+        Filename: "c"
+      propyne:
+        Charge: "0"
+        E_NOF: -116.1678426
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "propyne"
+      h:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: 4
+        Filename: ~
+    dE_NOF: 1872.9011325000029
+    APD: 165.43195307572972
+    AD: 1167.2961325000028
+    dE_Ref: 705.605
+  104:
+    Species:
+      cs2:
+        Charge: "0"
+        E_NOF: -833.2041067
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "cs2"
+      c:
+        Charge: "0"
+        E_NOF: -37.7277132
+        Multiplicity: "3"
+        Ncwo: "0"
+        Count: 1
+        Filename: "c"
+      s:
+        Charge: "0"
+        E_NOF: -397.5795784
+        Multiplicity: "3"
+        Ncwo: "0"
+        Count: 2
+        Filename: "s"
+    dE_NOF: 199.06602925003972
+    APD: 29.1019847530648
+    AD: 81.7119707499603
+    dE_Ref: 280.778
+  12:
+    Species:
+      b2h6:
+        Charge: "0"
+        E_NOF: -53.0534789
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "b2h6"
+      b:
+        Charge: "0"
+        E_NOF: -24.5814057
+        Multiplicity: "2"
+        Ncwo: "27"
+        Count: 2
+        Filename: "b"
+      h:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: 6
+        Filename: ~
+    dE_NOF: 2441.393856249997
+    APD: 302.1913265642318
+    AD: 1834.370856249997
+    dE_Ref: 607.023
+  138:
+    Species:
+      o3:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: ~
+      o:
+        Charge: "0"
+        E_NOF: -74.8660857
+        Multiplicity: "3"
+        Ncwo: "17"
+        Count: 3
+        Filename: "o"
+    dE_NOF: -140935.40633025
+    APD: 95696.09187552569
+    AD: 141082.83433025
+    dE_Ref: 147.428
+  58:
+    Species:
+      cl:
+        Charge: "0"
+        E_NOF: -459.5720102
+        Multiplicity: "2"
+        Ncwo: "7"
+        Count: 2
+        Filename: "cl"
+      becl2:
+        Charge: "0"
+        E_NOF: -934.076942
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "becl2"
+      be:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: ~
+    dE_NOF: 9370.40830400004
+    APD: 4059.5604925557504
+    AD: 9145.134304000041
+    dE_Ref: 225.274
+  85:
+    Species:
+      c:
+        Charge: "0"
+        E_NOF: -37.7277132
+        Multiplicity: "3"
+        Ncwo: "0"
+        Count: 1
+        Filename: "c"
+      o:
+        Charge: "0"
+        E_NOF: -74.8660857
+        Multiplicity: "3"
+        Ncwo: "17"
+        Count: 2
+        Filename: "o"
+      co2:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: ~
+    dE_NOF: -117631.0775865
+    APD: 30250.914050689367
+    AD: 118021.2185865
+    dE_Ref: 390.141
+  37:
+    Species:
+      c:
+        Charge: "0"
+        E_NOF: -37.7277132
+        Multiplicity: "3"
+        Ncwo: "0"
+        Count: 2
+        Filename: "c"
+      ch2ch:
+        Charge: "0"
+        E_NOF: -77.5787843
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: -1
+        Filename: "ch2ch"
+      h:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: 3
+        Filename: ~
+    dE_NOF: 1332.4070822499998
+    APD: 198.69173586187256
+    AD: 886.3260822499998
+    dE_Ref: 446.081
+  136:
+    Species:
+      cl:
+        Charge: "0"
+        E_NOF: -459.5720102
+        Multiplicity: "2"
+        Ncwo: "7"
+        Count: 1
+        Filename: "cl"
+      o:
+        Charge: "0"
+        E_NOF: -74.8660857
+        Multiplicity: "3"
+        Ncwo: "17"
+        Count: 2
+        Filename: "o"
+      cloo:
+        Charge: "0"
+        E_NOF: -609.3541177
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: -1
+        Filename: "cloo"
+    dE_NOF: 31.334902749978937
+    APD: 75.20678660443966
+    AD: 95.05009725002107
+    dE_Ref: 126.385
+  92:
+    Species:
+      n2:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: ~
+      n:
+        Charge: "0"
+        E_NOF: -54.4231327
+        Multiplicity: "4"
+        Ncwo: "0"
+        Count: 2
+        Filename: "n"
+    dE_NOF: -68301.0315385
+    APD: 29993.00459045451
+    AD: 68529.5165385
+    dE_Ref: 228.485
+PNICO23:
+  17:
+    Species:
+      17a:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: ~
+      17:
+        Charge: "0"
+        E_NOF: -497.9966352
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "17"
+      17b:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: ~
+    dE_NOF: 312492.88858800003
+    APD: 4.401208289971832e6
+    AD: 312485.78858800005
+    dE_Ref: 7.1
+  13:
+    Species:
+      13a:
+        Charge: "0"
+        E_NOF: -155.2455964
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "13a"
+      13b:
+        Charge: "0"
+        E_NOF: -155.2456304
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "13b"
+      13:
+        Charge: "0"
+        E_NOF: -310.4931627
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "13"
+    dE_NOF: 1.2147772500029532
+    APD: 69.47795854263936
+    AD: 2.7652227499970468
+    dE_Ref: 3.98
+YBDE18:
+  1:
+    Species:
+      f2s:
+        Charge: "0"
+        E_NOF: -596.7546077
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "f2s"
+      f2s-cbh22:
+        Charge: "0"
+        E_NOF: -686.5470963
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "f2s-cbh22"
+    dE_NOF: -805271.81926
+    APD: 1.4086566193108275e6
+    AD: 805328.9892600001
+    dE_Ref: 57.17
+WATER27:
+  20:
+    Species:
+      OHm:
+        Charge: "-1"
+        E_NOF: -75.5232396
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "OHm"
+      H2O:
+        Charge: "0"
+        E_NOF: -76.1811524
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "H2O"
+      OHmH2O:
+        Charge: "-1"
+        E_NOF: -151.7331202
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "OHmH2O"
+    dE_NOF: 18.026945499994326
+    APD: 32.45046089858611
+    AD: 8.660054500005675
+    dE_Ref: 26.687
+  17:
+    Species:
+      H2O:
+        Charge: "0"
+        E_NOF: -76.1811524
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 3
+        Filename: "H2O"
+      H3Op:
+        Charge: "1"
+        E_NOF: -76.4653377
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "H3Op"
+      H3OpH2O3:
+        Charge: "1"
+        E_NOF: -305.1022815
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "H3OpH2O3"
+    dE_NOF: 58.66284150001593
+    APD: 23.571309360932926
+    AD: 18.092158499984066
+    dE_Ref: 76.755
+MCONF:
+  7:
+    Species:
+      1:
+        Charge: "0"
+        E_NOF: -761.8664256
+        Multiplicity: "1"
+        Ncwo: "22"
+        Count: -1
+        Filename: "1"
+      8:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: ~
+    dE_NOF: 478071.182064
+    APD: 1.6372200755616441e7
+    AD: 478068.262064
+    dE_Ref: 2.92
+  42:
+    Species:
+      1:
+        Charge: "0"
+        E_NOF: -761.8664256
+        Multiplicity: "1"
+        Ncwo: "22"
+        Count: -1
+        Filename: "1"
+      43:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: ~
+    dE_NOF: 478071.182064
+    APD: 6.530927077377048e6
+    AD: 478063.862064
+    dE_Ref: 7.32
+  22:
+    Species:
+      1:
+        Charge: "0"
+        E_NOF: -761.8664256
+        Multiplicity: "1"
+        Ncwo: "22"
+        Count: -1
+        Filename: "1"
+      23:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: ~
+    dE_NOF: 478071.182064
+    APD: 9.003123767683616e6
+    AD: 478065.872064
+    dE_Ref: 5.31
+  30:
+    Species:
+      1:
+        Charge: "0"
+        E_NOF: -761.8664256
+        Multiplicity: "1"
+        Ncwo: "22"
+        Count: -1
+        Filename: "1"
+      31:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: ~
+    dE_NOF: 478071.182064
+    APD: 9.83675559802469e6
+    AD: 478066.322064
+    dE_Ref: 4.86
+S66:
+  24:
+    Species:
+      24:
+        Charge: "0"
+        E_NOF: -462.466331
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "24"
+      24A:
+        Charge: "0"
+        E_NOF: -231.2347476
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "24A"
+      24B:
+        Charge: "0"
+        E_NOF: -231.2357202
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "24B"
+    dE_NOF: -2.595841999980621
+    APD: 192.0511347510859
+    AD: 5.415841999980621
+    dE_Ref: 2.82
+  17:
+    Species:
+      17:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: ~
+      17A:
+        Charge: "0"
+        E_NOF: -413.237797
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "17A"
+      17B:
+        Charge: "0"
+        E_NOF: -413.2380717
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "17B"
+    dE_NOF: -518613.60760925
+    APD: 3.0188055157697904e6
+    AD: 518630.78760925
+    dE_Ref: 17.18
+  31:
+    Species:
+      31A:
+        Charge: "0"
+        E_NOF: -413.2399029
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "31A"
+      31:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: ~
+      31B:
+        Charge: "0"
+        E_NOF: -78.266037
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "31B"
+    dE_NOF: -308419.97728725
+    APD: 9.124951399031065e6
+    AD: 308423.35728725
+    dE_Ref: 3.38
+  45:
+    Species:
+      45:
+        Charge: "0"
+        E_NOF: -273.9469093
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "45"
+      45A:
+        Charge: "0"
+        E_NOF: -77.0101617
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "45A"
+      45B:
+        Charge: "0"
+        E_NOF: -196.9387087
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "45B"
+    dE_NOF: -1.2305902499938384
+    APD: 170.31944285679077
+    AD: 2.9805902499938384
+    dE_Ref: 1.75
+  11:
+    Species:
+      11B:
+        Charge: "0"
+        E_NOF: -247.5705494
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "11B"
+      11:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: ~
+      11A:
+        Charge: "0"
+        E_NOF: -95.4851827
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "11A"
+    dE_NOF: -215267.47189275
+    APD: 3.971824573666975e6
+    AD: 215272.89189275002
+    dE_Ref: 5.42
+ICONF:
+  16:
+    Species:
+      H4P2O7_3:
+        Charge: "0"
+        E_NOF: -1209.2300893
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "H4P2O7_3"
+      H4P2O7_1:
+        Charge: "0"
+        E_NOF: -1209.2305382
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "H4P2O7_1"
+    dE_NOF: 0.28168475010897964
+    APD: 92.30369535221367
+    AD: 3.3783152498910205
+    dE_Ref: 3.66
+CHB6:
+  1:
+    Species:
+      22A:
+        Charge: "1"
+        E_NOF: -7.2688162
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "22A"
+      22:
+        Charge: "1"
+        E_NOF: -83.5051754
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: 1
+        Filename: "22"
+      22B:
+        Charge: "0"
+        E_NOF: -76.1810411
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "22B"
+    dE_NOF: -34.71210774999781
+    APD: 0.8193661051345138
+    AD: 0.2821077499978131
+    dE_Ref: -34.43
+G21IP:
+  28:
+    Species:
+      26:
+        Charge: "0"
+        E_NOF: -78.2661643
+        Multiplicity: "1"
+        Ncwo: "0"
+        Count: -1
+        Filename: "26"
+      IP_72:
+        Charge: "1"
+        E_NOF: -77.9139968
+        Multiplicity: "2"
+        Ncwo: "0"
+        Count: 1
+        Filename: "IP_72"
+    dE_NOF: 220.98510624999471
+    APD: 9.324191453744133
+    AD: 22.72389375000529
+    dE_Ref: 243.709
