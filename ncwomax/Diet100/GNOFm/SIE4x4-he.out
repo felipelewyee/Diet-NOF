@@ -1,0 +1,91 @@
+he_C.jld2 not found
+he_n.jld2 not found
+Computing Integrals
+NVIDIA GeForce RTX 3090
+Elapsed time:    5.07 Seconds
+
+Number of basis functions                   (NBF)    = 30
+Number of auxiliary basis functions         (NBFAUX) = 23
+Inactive Doubly occupied orbitals up to     (NO1)    = 0
+No. considered Strongly Doubly occupied MOs (NDOC)   = 1
+No. considered Strongly Singly occupied MOs (NSOC)   = 0
+NO. of Weakly occ. per St. Doubly occ.  MOs (NCWO)   = 29
+Dimension of the Nat. Orb. subspace         (NBF5)   = 30
+No. of electrons                                     = 2
+    No. of alpha electrons                           = 1
+    No. of beta electrons                            = 1
+Multiplicity                                         = 1
+
+Geometry
+========
+He       0.0000000       0.0000000       0.0000000
+
+No violations of the orthonormality
+No violations of the orthonormality
+ 
+PNOF9/ADABelief Calculation
+==================
+ 
+  Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    MaxGrad_orb  Grad_occ
+     1      10    4.6e+01   17    3.7e+01    -2.86168539    -2.86168539 -10001.86168539   0.053024   2.0e-01   1.4e-04 0.01
+     2      10    2.9e-02    9    6.0e-03    -2.89385479    -2.89385479    -0.03216940   0.015099   6.0e-02   1.2e-04 0.01
+     3      10    2.7e-02    5    3.3e-03    -2.89990295    -2.89990295    -0.00604816   0.018170   7.3e-02   1.1e-04 0.01
+     4      10    2.7e-02    4    2.5e-03    -2.90126661    -2.90126661    -0.00136366   0.013162   5.3e-02   1.0e-04 0.01
+     5      10    2.7e-02    1    1.7e-03    -2.90153847    -2.90153847    -0.00027185   0.012619   5.0e-02   1.5e-04 0.01
+     6      10    2.7e-02    0    1.3e-03    -2.90155666    -2.90155666    -0.00001819   0.012619   5.0e-02   1.5e-04 0.01
+     7      18    4.5e-02    4    2.9e-03    -2.90178410    -2.90178410    -0.00022744   0.000462   1.8e-03   1.3e-04 0.01
+ 
+RESULTS OF THE OCCUPATION OPTIMIZATION
+========================================
+   1    1.9835951  -0.94993424
+   2    0.0077971  -0.01126015
+   3    0.0026626  -0.00437376
+   4    0.0026540  -0.00436924
+   5    0.0026251  -0.00435473
+   6    0.0001255  -0.00035502
+   7    0.0000862  -0.00030665
+   8    0.0000856  -0.00030511
+   9    0.0000851  -0.00030445
+  10    0.0000440  -0.00017795
+  11    0.0000439  -0.00017780
+  12    0.0000439  -0.00017785
+  13    0.0000438  -0.00017773
+  14    0.0000437  -0.00017763
+  15    0.0000271  -0.00009187
+  16    0.0000076  -0.00005672
+  17    0.0000075  -0.00005693
+  18    0.0000075  -0.00005640
+  19    0.0000027  -0.00003193
+  20    0.0000027  -0.00003186
+  21    0.0000026  -0.00003186
+  22    0.0000026  -0.00003170
+  23    0.0000026  -0.00003163
+  24    0.0000002  0.00000301
+  25    0.0000002  0.00000301
+  26    0.0000002  0.00000301
+  27    0.0000002  0.00000301
+  28    0.0000002  0.00000301
+  29    0.0000002  0.00000301
+  30    0.0000002  0.00000301
+ 
+----------------
+ Final Energies 
+----------------
+Final NOF Total Energy =      -2.9017841
+ 
+Total Orbital Internal Iterations = 78
+Total Occupation Internal Iterations = 40
+ 
+Elapsed time:  113.69 Seconds
+
+---------------------------------
+   Lowdin Population Analysis    
+---------------------------------
+ Idx  Atom   Population   Charge 
+---------------------------------
+  1    He     2.000       0.000
+
+---------------------------------
+   M Diagnostic: 0.01
+---------------------------------
+

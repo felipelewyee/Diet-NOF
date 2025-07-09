@@ -1,0 +1,61 @@
+23_C.jld2 not found
+23_n.jld2 not found
+Computing Integrals
+NVIDIA GeForce RTX 3090
+Elapsed time:  140.08 Seconds
+
+Number of basis functions                   (NBF)    = 1449
+Number of auxiliary basis functions         (NBFAUX) = 1571
+Inactive Doubly occupied orbitals up to     (NO1)    = 0
+No. considered Strongly Doubly occupied MOs (NDOC)   = 62
+No. considered Strongly Singly occupied MOs (NSOC)   = 0
+NO. of Weakly occ. per St. Doubly occ.  MOs (NCWO)   = 1
+Dimension of the Nat. Orb. subspace         (NBF5)   = 124
+No. of electrons                                     = 124
+    No. of alpha electrons                           = 62
+    No. of beta electrons                            = 62
+Multiplicity                                         = 1
+
+Geometry
+========
+ N       0.5252100       2.5182500      -0.2545800
+ C       1.4436500       1.7580800      -0.9452100
+ C       0.8772200       0.5575100      -1.3118700
+ C      -0.4674900       0.5773700      -0.8097100
+ C      -1.5270700      -0.3496600      -0.8432000
+ C      -2.7266100      -0.0050500      -0.2449900
+ C      -2.9026400       1.2445500       0.3909700
+ C      -1.8727000       2.1703500       0.4443000
+ C      -0.6560300       1.8208400      -0.1544900
+ H       0.6997700       3.4319300       0.1226000
+ H       2.4442600       2.1240400      -1.1086800
+ H      -1.4359200      -1.3097000      -1.3347600
+ H      -3.8679200       1.4759800       0.8206600
+ H      -2.0132300       3.1293900       0.9259500
+ O      -3.7900500      -0.8877300      -0.3125900
+ C      -4.0308800      -1.5501400       0.9258400
+ H      -4.2656500      -0.8375300       1.7194100
+ H      -3.1608100      -2.1401900       1.2244100
+ H      -4.8813400      -2.2082500       0.7682400
+ C       1.5662500      -0.5999900      -1.9597300
+ C       2.1657600      -1.5631100      -0.9168100
+ N       3.2205400      -0.9496200      -0.1316600
+ C       3.0745200      -0.2486000       1.0409000
+ C       1.8227700      -0.5137700       1.8503400
+ H       2.3693600      -0.2484700      -2.6120500
+ H       0.8658700      -1.1544900      -2.5895900
+ H       2.5758900      -2.4407900      -1.4203200
+ H       1.3846800      -1.9121400      -0.2441700
+ H       4.0549900      -0.6795900      -0.6317000
+ O       3.9507100       0.5123100       1.4291200
+ H       1.6869200      -1.5812000       2.0248000
+ H       0.9382600      -0.1377400       1.3367600
+ H       1.9317200      -0.0028200       2.8017800
+
+No violations of the orthonormality
+No violations of the orthonormality
+ 
+PNOF8/ADABelief Calculation
+==================
+ 
+  Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    MaxGrad_orb  Grad_occ

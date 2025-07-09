@@ -1,0 +1,85 @@
+Computing Integrals
+NVIDIA GeForce RTX 4060
+Elapsed time:    2.60 Seconds
+
+Number of basis functions                   (NBF)    = 291
+Number of auxiliary basis functions         (NBFAUX) = 297
+Inactive Doubly occupied orbitals up to     (NO1)    = 0
+No. considered Strongly Doubly occupied MOs (NDOC)   = 10
+No. considered Strongly Singly occupied MOs (NSOC)   = 0
+NO. of Weakly occ. per St. Doubly occ.  MOs (NCWO)   = 1
+Dimension of the Nat. Orb. subspace         (NBF5)   = 20
+No. of electrons                                     = 20
+    No. of alpha electrons                           = 10
+    No. of beta electrons                            = 10
+Multiplicity                                         = 1
+
+Geometry
+========
+ C       0.0000000       0.0000000       0.0000000
+ B       0.0000000       0.0000000       1.4304300
+ B       0.0000000       0.0000000      -1.4304300
+ H       0.0000000       1.0483500       1.9934500
+ H       0.0000000      -1.0483500       1.9934500
+ H       0.0000000       1.0483500      -1.9934500
+ H       0.0000000      -1.0483500      -1.9934500
+
+No violations of the orthonormality
+No violations of the orthonormality
+ 
+PNOF8/ADABelief Calculation
+==================
+ 
+  Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    MaxGrad_orb  Grad_occ
+     1      10    2.3e+01    0    1.8e+01  -135.09464774   -89.78032442 -10134.09464774   0.000315   1.3e-03   1.4e-04 0.03
+ 
+RESULTS OF THE OCCUPATION OPTIMIZATION
+========================================
+   1    1.9996294  -11.27322578
+   2    1.9993806  -7.59076405
+   3    1.9993743  -7.59054613
+   4    1.9824323  -0.80185837
+   5    1.9823397  -0.79983139
+   6    1.9776857  -0.58255243
+   7    1.9775945  -0.58065856
+   8    1.9764154  -0.54728329
+   9    1.9764177  -0.54646093
+  10    1.9667818  -0.39581770
+  11    0.0332182  -0.02896719
+  12    0.0235823  -0.02241726
+  13    0.0235846  -0.02243072
+  14    0.0224055  -0.02191209
+  15    0.0223143  -0.02185214
+  16    0.0176603  -0.02548276
+  17    0.0175677  -0.02540027
+  18    0.0006257  -0.00811701
+  19    0.0006194  -0.00803253
+  20    0.0003706  -0.00717374
+ 
+----------------
+ Final Energies 
+----------------
+Final NOF Total Energy =     -89.7803244
+ 
+Total Orbital Internal Iterations = 10
+Total Occupation Internal Iterations = 0
+ 
+Elapsed time:   53.82 Seconds
+
+---------------------------------
+   Lowdin Population Analysis    
+---------------------------------
+ Idx  Atom   Population   Charge 
+---------------------------------
+  1     C     5.683       0.317
+  2     B     5.091      -0.091
+  3     B     5.091      -0.091
+  4     H     1.033      -0.033
+  5     H     1.034      -0.034
+  6     H     1.034      -0.034
+  7     H     1.033      -0.033
+
+---------------------------------
+   M Diagnostic: 0.03
+---------------------------------
+

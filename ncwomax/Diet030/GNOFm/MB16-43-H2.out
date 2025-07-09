@@ -1,0 +1,61 @@
+Computing Integrals
+NVIDIA GeForce RTX 4060
+Elapsed time:    2.20 Seconds
+
+Number of basis functions                   (NBF)    = 60
+Number of auxiliary basis functions         (NBFAUX) = 36
+Inactive Doubly occupied orbitals up to     (NO1)    = 0
+No. considered Strongly Doubly occupied MOs (NDOC)   = 1
+No. considered Strongly Singly occupied MOs (NSOC)   = 0
+NO. of Weakly occ. per St. Doubly occ.  MOs (NCWO)   = 1
+Dimension of the Nat. Orb. subspace         (NBF5)   = 2
+No. of electrons                                     = 2
+    No. of alpha electrons                           = 1
+    No. of beta electrons                            = 1
+Multiplicity                                         = 1
+
+Geometry
+========
+ H       0.0000000       0.0000000      -0.3717600
+ H       0.0000000       0.0000000       0.3717600
+
+No violations of the orthonormality
+No violations of the orthonormality
+ 
+PNOF9/ADABelief Calculation
+==================
+ 
+  Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    MaxGrad_orb  Grad_occ
+     1      10    2.2e+01    3    1.8e+01    -1.85434010    -1.14262269 -10000.85434010   0.009316   3.7e-02   1.3e-06 0.02
+     2      10    6.5e-03    2    3.5e-04    -1.86331031    -1.15159291    -0.00897021   0.009766   3.9e-02   5.6e-06 0.02
+     3      10    6.5e-03    1    2.9e-04    -1.86349721    -1.15177980    -0.00018690   0.009092   3.6e-02   3.0e-05 0.02
+     4      10    6.3e-03    0    2.7e-04    -1.86351222    -1.15179481    -0.00001500   0.009092   3.6e-02   3.0e-05 0.02
+     5      16    8.9e-03    0    2.8e-04    -1.86384512    -1.15212771    -0.00033290   0.000299   1.2e-03   9.2e-05 0.02
+ 
+RESULTS OF THE OCCUPATION OPTIMIZATION
+========================================
+   1    1.9759210  -0.60315609
+   2    0.0240790  -0.01636717
+ 
+----------------
+ Final Energies 
+----------------
+Final NOF Total Energy =      -1.1521277
+ 
+Total Orbital Internal Iterations = 56
+Total Occupation Internal Iterations = 6
+ 
+Elapsed time:   52.37 Seconds
+
+---------------------------------
+   Lowdin Population Analysis    
+---------------------------------
+ Idx  Atom   Population   Charge 
+---------------------------------
+  1     H     1.000       0.000
+  2     H     1.000      -0.000
+
+---------------------------------
+   M Diagnostic: 0.02
+---------------------------------
+

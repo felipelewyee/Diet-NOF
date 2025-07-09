@@ -1,0 +1,99 @@
+/home/pobleyef/.juliaup/bin/julia
+C60ISO-4
+Job runing on nagpu01
+Choosing scratch ...
+Automatic scratch folder selection
+/scratch/pobleyef/159623
+/scratch/pobleyef/159623 directory
+cp C60ISO-4.jl C60ISO-4.jld2 to  /scratch/pobleyef/159623/.
+C60ISO-4_C.jld2 not found
+C60ISO-4_n.jld2 not found
+Computing Integrals
+Elapsed time: 1573.87 Seconds
+
+Number of basis functions                   (NBF)    = 3420
+Number of auxiliary basis functions         (NBFAUX) = 4500
+Inactive Doubly occupied orbitals up to     (NO1)    = 0
+No. considered Strongly Doubly occupied MOs (NDOC)   = 180
+No. considered Strongly Singly occupied MOs (NSOC)   = 0
+NO. of Weakly occ. per St. Doubly occ.  MOs (NCWO)   = 1
+Dimension of the Nat. Orb. subspace         (NBF5)   = 360
+No. of electrons                                     = 360
+    No. of alpha electrons                           = 180
+    No. of beta electrons                            = 180
+Multiplicity                                         = 1
+
+Geometry
+========
+ C       3.6955200       0.5834900       0.4425600
+ C       3.1343100       1.6845200      -0.2455700
+ C       2.9382300       1.2558100      -1.6339100
+ C       3.6955200      -0.5834900      -0.4425600
+ C       3.2479800      -0.1771300      -1.7174400
+ C       3.1343100      -1.6845200       0.2455700
+ C       3.2479800       0.1771300       1.7174400
+ C       2.9382300      -1.2558100       1.6339100
+ C       2.3924400       1.0406600       2.4162700
+ C       2.1699400       2.5298800       0.4062100
+ C       1.8967700       2.2387900       1.7833500
+ C       1.1059700       3.1441600      -0.4062100
+ C       1.8829300       1.7630200      -2.3615400
+ C       0.9904600       2.7620400      -1.7833500
+ C       1.1039800       0.8954200      -3.2423700
+ C       2.3924400      -1.0406600      -2.4162700
+ C       1.3367600      -0.4847000      -3.2495600
+ C       2.1699400      -2.5298800      -0.4062100
+ C       1.8967700      -2.2387900      -1.7833500
+ C       1.1059700      -3.1441600       0.4062100
+ C       1.8829300      -1.7630200       2.3615400
+ C       0.9904600      -2.7620400       1.7833500
+ C       1.3367600       0.4847000       3.2495600
+ C       1.1039800      -0.8954200       3.2423700
+ C       0.5853600       2.5121800       2.3615400
+ C       0.2234600       1.4037800       3.2423700
+ C      -0.1083200       3.5566500       0.2455700
+ C      -0.3815500       3.1724900       1.6339100
+ C      -1.3424500       3.4921600      -0.4425600
+ C      -0.2949800       2.5922500      -2.4162700
+ C      -0.2486100       1.4000200      -3.2495600
+ C      -1.4705900       2.9014000      -1.7174400
+ C      -1.3274400       0.5083700      -3.2423700
+ C       0.2234600      -1.4037800      -3.2423700
+ C       0.5853600      -2.5121800      -2.3615400
+ C      -1.0881400      -0.9153100      -3.2495600
+ C      -0.1083200      -3.5566500      -0.2455700
+ C      -0.3815500      -3.1724900      -1.6339100
+ C      -1.3424500      -3.4921600       0.4425600
+ C      -0.2949800      -2.5922500       2.4162700
+ C      -0.2486100      -1.4000200       3.2495600
+ C      -1.4705900      -2.9014000       1.7174400
+ C      -1.0881400       0.9153100       3.2495600
+ C      -1.3274400      -0.5083700       3.2423700
+ C      -1.7773900       2.7242700       1.7174400
+ C      -2.3530700       2.9086700       0.4425600
+ C      -2.0974600       1.5515800       2.4162700
+ C      -2.5566800       1.9166800      -1.6339100
+ C      -2.4682900       0.7491500      -2.3615400
+ C      -3.0259900       1.8721300      -0.2455700
+ C      -2.0974600      -1.5515800      -2.4162700
+ C      -1.7773900      -2.7242700      -1.7174400
+ C      -2.3530700      -2.9086700      -0.4425600
+ C      -2.8872300      -0.5232500      -1.7833500
+ C      -2.5566800      -1.9166800       1.6339100
+ C      -2.4682900      -0.7491500       2.3615400
+ C      -2.8872300       0.5232500       1.7833500
+ C      -3.2759000       0.6142800       0.4062100
+ C      -3.0259900      -1.8721300       0.2455700
+ C      -3.2759000      -0.6142800      -0.4062100
+
+No violations of the orthonormality
+No violations of the orthonormality
+ 
+PNOF5/ADABelief Calculation
+==================
+ 
+  Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    MaxGrad_orb  Grad_occ
+Recovering execution output...
+Moving from /scratch/pobleyef/159623 to /home-nas/pobleyef/DietGMTKN55/ncwo1/050/PNOF5/arina.159623
+mkdir -p /home-nas/pobleyef/DietGMTKN55/ncwo1/050/PNOF5/arina.159623
+mv /scratch/pobleyef/159623/* /home-nas/pobleyef/DietGMTKN55/ncwo1/050/PNOF5/arina.159623

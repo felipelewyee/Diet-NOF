@@ -1,0 +1,15 @@
+/home/pobleyef/.juliaup/bin/julia
+C60ISO-1
+Job runing on na13
+Choosing scratch ...
+Automatic scratch folder selection
+/scratch/pobleyef/159601
+/scratch/pobleyef/159601 directory
+cp C60ISO-1.jl C60ISO-1.jld2 to  /scratch/pobleyef/159601/.
+C60ISO-1_C.jld2 not found
+C60ISO-1_n.jld2 not found
+Computing Integrals
+Recovering execution output...
+Moving from /scratch/pobleyef/159601 to /home-nas/pobleyef/DietGMTKN55/ncwo1/050/PNOF5/arina.159601
+mkdir -p /home-nas/pobleyef/DietGMTKN55/ncwo1/050/PNOF5/arina.159601
+mv /scratch/pobleyef/159601/* /home-nas/pobleyef/DietGMTKN55/ncwo1/050/PNOF5/arina.159601

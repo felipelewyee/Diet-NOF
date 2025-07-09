@@ -1,0 +1,55 @@
+Computing Integrals
+Elapsed time:    4.75 Seconds
+
+Number of basis functions                   (NBF)    = 35
+Number of auxiliary basis functions         (NBFAUX) = 51
+Inactive Doubly occupied orbitals up to     (NO1)    = 0
+No. considered Strongly Doubly occupied MOs (NDOC)   = 1
+No. considered Strongly Singly occupied MOs (NSOC)   = 0
+NO. of Weakly occ. per St. Doubly occ.  MOs (NCWO)   = 1
+Dimension of the Nat. Orb. subspace         (NBF5)   = 2
+No. of electrons                                     = 2
+    No. of alpha electrons                           = 1
+    No. of beta electrons                            = 1
+Multiplicity                                         = 1
+
+Geometry
+========
+Li       0.0000000       0.0000000       0.0000000
+
+No violations of the orthonormality
+No violations of the orthonormality
+ 
+PNOF5/ADABelief Calculation
+==================
+ 
+  Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    MaxGrad_orb  Grad_occ
+     1      20    1.8e+01    0    4.0e-01    -7.25091961    -7.25091961 -10006.25091961   0.000243   9.7e-04   1.1e-04 0.00
+     2      26    5.1e-02    0    1.4e-04    -7.25091972    -7.25091972    -0.00000011   0.000002   6.5e-06   1.1e-04 0.00
+ 
+RESULTS OF THE OCCUPATION OPTIMIZATION
+========================================
+   1    1.9973512  -2.80423489
+   2    0.0026488  -0.01109760
+ 
+----------------
+ Final Energies 
+----------------
+Final NOF Total Energy =      -7.2509197
+ 
+Total Orbital Internal Iterations = 46
+Total Occupation Internal Iterations = 0
+ 
+Elapsed time:   99.44 Seconds
+
+---------------------------------
+   Lowdin Population Analysis    
+---------------------------------
+ Idx  Atom   Population   Charge 
+---------------------------------
+  1    Li     2.000       1.000
+
+---------------------------------
+   M Diagnostic: 0.00
+---------------------------------
+

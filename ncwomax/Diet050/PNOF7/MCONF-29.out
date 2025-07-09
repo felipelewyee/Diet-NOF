@@ -1,0 +1,62 @@
+29_C.jld2 not found
+29_n.jld2 not found
+Computing Integrals
+Elapsed time:   65.68 Seconds
+
+Number of basis functions                   (NBF)    = 1449
+Number of auxiliary basis functions         (NBFAUX) = 1571
+Inactive Doubly occupied orbitals up to     (NO1)    = 0
+No. considered Strongly Doubly occupied MOs (NDOC)   = 62
+No. considered Strongly Singly occupied MOs (NSOC)   = 0
+NO. of Weakly occ. per St. Doubly occ.  MOs (NCWO)   = 22
+Dimension of the Nat. Orb. subspace         (NBF5)   = 1426
+No. of electrons                                     = 124
+    No. of alpha electrons                           = 62
+    No. of beta electrons                            = 62
+Multiplicity                                         = 1
+
+Geometry
+========
+ N      -0.3096700       2.2954700      -0.5840600
+ C       0.7278500       1.4397800      -0.8903800
+ C       0.3274700       0.1328700      -0.7086400
+ C      -1.0358200       0.1922300      -0.2605300
+ C      -1.9795000      -0.7931500       0.0863000
+ C      -3.2364100      -0.3865200       0.4984900
+ C      -3.5835700       0.9811700       0.5721100
+ C      -2.6743100       1.9688500       0.2281900
+ C      -1.4026600       1.5589600      -0.1908200
+ H      -0.2589600       3.2972800      -0.6116800
+ H       1.6771500       1.8316600      -1.2172500
+ H      -1.7458100      -1.8491000       0.0507700
+ H      -4.5723700       1.2453800       0.9221400
+ H      -2.9412200       3.0158100       0.2926300
+ O      -4.1615600      -1.3389000       0.8878200
+ C      -5.1466200      -1.5821600      -0.1132600
+ H      -4.6837200      -1.9604500      -1.0278600
+ H      -5.7062200      -0.6738900      -0.3476400
+ H      -5.8239000      -2.3305100       0.2897700
+ C       1.1198900      -1.1176900      -0.9647100
+ C       2.6232900      -0.8831600      -1.0557500
+ N       3.1266700      -0.3588300       0.2031100
+ C       4.4609300      -0.3084300       0.4696000
+ C       4.8378400       0.3130000       1.7999700
+ H       0.7866800      -1.5833700      -1.8960300
+ H       0.9228000      -1.8402100      -0.1680500
+ H       2.8558100      -0.1993400      -1.8773200
+ H       3.1432100      -1.8159500      -1.2664000
+ H       2.4813000       0.1135100       0.8115700
+ O       5.3006500      -0.7475200      -0.3043800
+ H       5.3833300      -0.4252200       2.3845300
+ H       3.9790800       0.6584500       2.3728400
+ H       5.5083800       1.1499700       1.6149900
+
+No violations of the orthonormality
+No violations of the orthonormality
+ 
+PNOF7/ADABelief Calculation
+==================
+ 
+  Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    MaxGrad_orb  Grad_occ
+     1      10    1.4e+03   24    2.4e+02 -1784.63572846  -640.13426191 -11783.63572846   4.538571   1.8e+01   2.0e-04 0.00
+     2      10    1.4e+03  105    5.6e+02 -1825.98793229  -681.48646574   -41.35220383   2.764268   1.1e+01   2.3e-04 0.02

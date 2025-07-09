@@ -1,0 +1,2186 @@
+FH51:
+  25:
+    Species:
+      dimethylpyrrole:
+        Charge: 0
+        E_NOF: -287.3620661
+        Multiplicity: 0
+        Count: 1
+      methylpyridine:
+        Charge: 0
+        E_NOF: -286.1790026
+        Multiplicity: 0
+        Count: -1
+      H2:
+        Charge: 0
+        E_NOF: -1.1521959
+        Multiplicity: 0
+        Count: -1
+    APD: 4.4429255056641495
+    Energy: -19.369419000001876
+    E_Ref: -20.27
+    AD: 0.9005809999981231
+    WTMAD2: 0.016480632299965655
+    Weight: 1.83
+INV24:
+  22:
+    Species:
+      BN_Sumanene:
+        Charge: 0
+        E_NOF: 0
+        Multiplicity: 0
+        Count: -1
+      BN_Sumanene_TS:
+        Charge: 0
+        E_NOF: -834.8352625
+        Multiplicity: 0
+        Count: 1
+    APD: 1.9260526735983458e6
+    Energy: -523859.12721875
+    E_Ref: 27.2
+    AD: 523886.32721875
+    WTMAD2: 9325.17662449375
+    Weight: 1.78
+  12:
+    Species:
+      Dibenzocycloheptene:
+        Charge: 0
+        E_NOF: -575.8941638
+        Multiplicity: 0
+        Count: -1
+      Dibenzocycloheptene_TS:
+        Charge: 0
+        E_NOF: -575.8757025
+        Multiplicity: 0
+        Count: 1
+    APD: 12.470541262213105
+    Energy: 11.58446575000795
+    E_Ref: 10.3
+    AD: 1.28446575000795
+    WTMAD2: 0.02286349035014151
+    Weight: 1.78
+  19:
+    Species:
+      BN_Corannulene_TS:
+        Charge: 0
+        E_NOF: -799.2170243
+        Multiplicity: 0
+        Count: 1
+      BN_Corannulene:
+        Charge: 0
+        E_NOF: -799.2285059
+        Multiplicity: 0
+        Count: -1
+    APD: 16.204903224905085
+    Energy: 7.204703999944115
+    E_Ref: 6.2
+    AD: 1.0047039999441152
+    WTMAD2: 0.01788373119900525
+    Weight: 1.78
+ISO34:
+  7:
+    Species:
+      E7:
+        Charge: 0
+        E_NOF: -155.2063985
+        Multiplicity: 0
+        Count: -1
+      P7:
+        Charge: 0
+        E_NOF: -155.1824554
+        Multiplicity: 0
+        Count: 1
+    APD: 34.74704260087871
+    Energy: 15.024295249997976
+    E_Ref: 11.15
+    AD: 3.874295249997976
+    WTMAD2: 0.15109751474992106
+    Weight: 3.9
+  12:
+    Species:
+      E12:
+        Charge: 0
+        E_NOF: -270.171569
+        Multiplicity: 0
+        Count: -1
+      P12:
+        Charge: 0
+        E_NOF: -270.1209531
+        Multiplicity: 0
+        Count: 1
+    APD: 30.423927163241675
+    Energy: 31.761477249980175
+    E_Ref: 45.65
+    AD: 13.888522750019824
+    WTMAD2: 0.5416523872507731
+    Weight: 3.9
+RG18:
+  15:
+    Species:
+      ne:
+        Charge: 0
+        E_NOF: -128.6085803
+        Multiplicity: 0
+        Count: 1
+      c2h6:
+        Charge: 0
+        E_NOF: -79.3954382
+        Multiplicity: 0
+        Count: 1
+      c2h6Ne:
+        Charge: 0
+        E_NOF: -208.0038061
+        Multiplicity: 0
+        Count: -1
+    APD: 155.53375000246774
+    Energy: -0.13328100000592258
+    E_Ref: 0.24
+    AD: 0.37328100000592257
+    WTMAD2: 0.3658153800058041
+    Weight: 98.0
+  1:
+    Species:
+      ne:
+        Charge: 0
+        E_NOF: -128.6085803
+        Multiplicity: 0
+        Count: 2
+      ne2:
+        Charge: 0
+        E_NOF: -257.2170706
+        Multiplicity: 0
+        Count: -1
+    APD: 170.59375000011417
+    Energy: -0.05647500000009131
+    E_Ref: 0.08
+    AD: 0.13647500000009133
+    WTMAD2: 0.1337455000000895
+    Weight: 98.0
+SCONF:
+  10:
+    Species:
+      C1:
+        Charge: 0
+        E_NOF: -648.5008266
+        Multiplicity: 0
+        Count: -1
+      C11:
+        Charge: 0
+        E_NOF: -648.4997456
+        Multiplicity: 0
+        Count: 1
+    APD: 87.99420353983166
+    Energy: 0.6783274999995115
+    E_Ref: 5.65
+    AD: 4.971672500000489
+    WTMAD2: 0.6144987210000604
+    Weight: 12.36
+ALKBDE10:
+  1:
+    Species:
+      f:
+        Charge: 0
+        E_NOF: -99.4582839
+        Multiplicity: 1
+        Count: 1
+      bef:
+        Charge: 0
+        E_NOF: -114.2294549
+        Multiplicity: 1
+        Count: -1
+      be:
+        Charge: 0
+        E_NOF: -14.603443
+        Multiplicity: 0
+        Count: 1
+    APD: 24.117289113196204
+    Energy: 105.24931999999686
+    E_Ref: 138.7
+    AD: 33.45068000000313
+    WTMAD2: 0.18732380800001758
+    Weight: 0.56
+ACONF:
+  5:
+    Species:
+      H_ttt:
+        Charge: 0
+        E_NOF: -235.8238914
+        Multiplicity: 0
+        Count: -1
+      H_gtt:
+        Charge: 0
+        E_NOF: -235.498513
+        Multiplicity: 0
+        Count: 1
+    APD: 34215.11697479048
+    Energy: 204.17494600000333
+    E_Ref: 0.595
+    AD: 203.57994600000333
+    WTMAD2: 63.08942526540103
+    Weight: 30.99
+  2:
+    Species:
+      P_TG:
+        Charge: 0
+        E_NOF: -196.4480265
+        Multiplicity: 0
+        Count: 1
+      P_TT:
+        Charge: 0
+        E_NOF: -196.7167159
+        Multiplicity: 0
+        Count: -1
+    APD: 27359.70659609116
+    Energy: 168.60259849999971
+    E_Ref: 0.614
+    AD: 167.9885984999997
+    WTMAD2: 52.05966667514991
+    Weight: 30.99
+  8:
+    Species:
+      H_ttt:
+        Charge: 0
+        E_NOF: -235.8238914
+        Multiplicity: 0
+        Count: -1
+      H_gtg:
+        Charge: 0
+        E_NOF: -235.8203041
+        Multiplicity: 0
+        Count: 1
+    APD: 91.08919779397897
+    Energy: 2.251030750013072
+    E_Ref: 1.178
+    AD: 1.0730307500130722
+    WTMAD2: 0.33253222942905103
+    Weight: 30.99
+CDIE20:
+  2:
+    Species:
+      R21:
+        Charge: 0
+        E_NOF: -193.053341
+        Multiplicity: 0
+        Count: -1
+      P20:
+        Charge: 0
+        E_NOF: -193.0498027
+        Multiplicity: 0
+        Count: 1
+    APD: 49.5390170454198
+    Energy: 2.220283250001529
+    E_Ref: 4.4
+    AD: 2.1797167499984713
+    WTMAD2: 0.3055962883497857
+    Weight: 14.02
+  14:
+    Species:
+      P48:
+        Charge: 0
+        E_NOF: -271.3028501
+        Multiplicity: 0
+        Count: 1
+      R48:
+        Charge: 0
+        E_NOF: -271.3033169
+        Multiplicity: 0
+        Count: -1
+    APD: 93.34279545416719
+    Energy: 0.29291700001664367
+    E_Ref: 4.4
+    AD: 4.107082999983357
+    WTMAD2: 0.5758130365976666
+    Weight: 14.02
+BSR36:
+  4:
+    Species:
+      ch4:
+        Charge: 0
+        E_NOF: -40.2888051
+        Multiplicity: 0
+        Count: -4
+      c2h6:
+        Charge: 0
+        E_NOF: -79.3951377
+        Multiplicity: 0
+        Count: 5
+      h4:
+        Charge: 0
+        E_NOF: -235.8197046
+        Multiplicity: 0
+        Count: -1
+    APD: 105.4135169495912
+    Energy: -0.47909625003882184
+    E_Ref: 8.85
+    AD: 9.329096250038821
+    WTMAD2: 0.3274512783763626
+    Weight: 3.51
+  21:
+    Species:
+      ch4:
+        Charge: 0
+        E_NOF: -40.2888051
+        Multiplicity: 0
+        Count: -7
+      c2h6:
+        Charge: 0
+        E_NOF: -79.3951377
+        Multiplicity: 0
+        Count: 7
+      r6:
+        Charge: 0
+        E_NOF: -273.7430722
+        Multiplicity: 0
+        Count: -1
+    APD: 108.05869120735127
+    Energy: -0.788140000078954
+    E_Ref: 9.78
+    AD: 10.568140000078953
+    WTMAD2: 0.37094171400277126
+    Weight: 3.51
+BH76:
+  6:
+    Species:
+      hcl:
+        Charge: 0
+        E_NOF: -460.1751659
+        Multiplicity: 0
+        Count: -1
+      hclhts:
+        Charge: 0
+        E_NOF: -460.600629
+        Multiplicity: 1
+        Count: 1
+      h:
+        Charge: 0
+        E_NOF: -0.4999833
+        Multiplicity: 1
+        Count: -1
+    APD: 162.7046376404433
+    Energy: 46.76142549999891
+    E_Ref: 17.8
+    AD: 28.961425499998906
+    WTMAD2: 0.8833234777499667
+    Weight: 3.05
+  54:
+    Species:
+      RKT09:
+        Charge: 0
+        E_NOF: -154.6960536
+        Multiplicity: 1
+        Count: 1
+      H2O:
+        Charge: 0
+        E_NOF: -76.1342075
+        Multiplicity: 0
+        Count: -1
+      C2H5:
+        Charge: 0
+        E_NOF: -78.7399377
+        Multiplicity: 1
+        Count: -1
+    APD: 447.80626960784895
+    Energy: 111.75247900000119
+    E_Ref: 20.4
+    AD: 91.35247900000118
+    WTMAD2: 2.786250609500036
+    Weight: 3.05
+  18:
+    Species:
+      ch3cl:
+        Charge: 0
+        E_NOF: -499.1992354
+        Multiplicity: 0
+        Count: -1
+      cl-:
+        Charge: -1
+        E_NOF: -459.5873825
+        Multiplicity: 0
+        Count: -1
+      clch3clts:
+        Charge: -1
+        E_NOF: -958.8898209
+        Multiplicity: 0
+        Count: 1
+    APD: 2690.3953000001934
+    Energy: -64.75988250000484
+    E_Ref: 2.5
+    AD: 67.25988250000484
+    WTMAD2: 2.0514264162501474
+    Weight: 3.05
+  74:
+    Species:
+      ch3:
+        Charge: 0
+        E_NOF: -39.6318891
+        Multiplicity: 1
+        Count: -1
+      NH3:
+        Charge: 0
+        E_NOF: -56.3012337
+        Multiplicity: 0
+        Count: -1
+      RKT21:
+        Charge: 0
+        E_NOF: -95.866267
+        Multiplicity: 1
+        Count: 1
+    APD: 148.23677218939827
+    Energy: 41.9520145000083
+    E_Ref: 16.9
+    AD: 25.052014500008305
+    WTMAD2: 0.7640864422502532
+    Weight: 3.05
+G2RC:
+  15:
+    Species:
+      34:
+        Charge: 0
+        E_NOF: -109.1043896
+        Multiplicity: 0
+        Count: -1
+      11:
+        Charge: 0
+        E_NOF: -56.3012804
+        Multiplicity: 0
+        Count: 2
+      1:
+        Charge: 0
+        E_NOF: -1.1521232
+        Multiplicity: 0
+        Count: -3
+    APD: 33.47576971848511
+    Energy: -26.23050400000132
+    E_Ref: -39.43
+    AD: 13.199495999998678
+    WTMAD2: 0.14651440559998533
+    Weight: 1.11
+RC21:
+  4:
+    Species:
+      2p2:
+        Charge: 0
+        E_NOF: -153.6917032
+        Multiplicity: 1
+        Count: 1
+      2e:
+        Charge: 1
+        E_NOF: -232.2160296
+        Multiplicity: 1
+        Count: -1
+      2p3:
+        Charge: 1
+        E_NOF: -78.4608041
+        Multiplicity: 0
+        Count: 1
+    APD: 32.94037138290452
+    Energy: 39.86024325000155
+    E_Ref: 59.44
+    AD: 19.579756749998445
+    WTMAD2: 0.3113181323249753
+    Weight: 1.59
+MB16-43:
+  4:
+    Species:
+      H2:
+        Charge: 0
+        E_NOF: -1.1521283
+        Multiplicity: 0
+        Count: -17
+      4:
+        Charge: 0
+        E_NOF: -1109.5839056
+        Multiplicity: 0
+        Count: -2
+      BH3:
+        Charge: 0
+        E_NOF: -26.4535532
+        Multiplicity: 0
+        Count: 6
+      CH4:
+        Charge: 0
+        E_NOF: -40.2892193
+        Multiplicity: 0
+        Count: 2
+      AlH3:
+        Charge: 0
+        E_NOF: -243.7254144
+        Multiplicity: 0
+        Count: 2
+      F2:
+        Charge: 0
+        E_NOF: -198.9366715
+        Multiplicity: 0
+        Count: 1
+      SiH4:
+        Charge: 0
+        E_NOF: -291.3525873
+        Multiplicity: 0
+        Count: 4
+      O2:
+        Charge: 0
+        E_NOF: -149.7402515
+        Multiplicity: 2
+        Count: 1
+    APD: 466.4377724723124
+    Energy: -1307.6262287497698
+    E_Ref: 356.8481
+    AD: 1664.4743287497697
+    WTMAD2: 1.9973691944997236
+    Weight: 0.12
+  31:
+    Species:
+      H2:
+        Charge: 0
+        E_NOF: -1.1521283
+        Multiplicity: 0
+        Count: -8
+      BH3:
+        Charge: 0
+        E_NOF: -26.4535532
+        Multiplicity: 0
+        Count: 4
+      CH4:
+        Charge: 0
+        E_NOF: -40.2892193
+        Multiplicity: 0
+        Count: 2
+      AlH3:
+        Charge: 0
+        E_NOF: -243.7254144
+        Multiplicity: 0
+        Count: 2
+      31:
+        Charge: 0
+        E_NOF: -2329.7795131
+        Multiplicity: 0
+        Count: -2
+      P2:
+        Charge: 0
+        E_NOF: -681.6244195
+        Multiplicity: 0
+        Count: 4
+      F2:
+        Charge: 0
+        E_NOF: -198.9366715
+        Multiplicity: 0
+        Count: 1
+      Cl2:
+        Charge: 0
+        E_NOF: -919.1231504
+        Multiplicity: 0
+        Count: 1
+      O2:
+        Charge: 0
+        E_NOF: -149.7402515
+        Multiplicity: 2
+        Count: 1
+    APD: 25.52814468422802
+    Energy: 398.35017749963026
+    E_Ref: 534.9003
+    AD: 136.55012250036975
+    WTMAD2: 0.1638601470004437
+    Weight: 0.12
+Amino20x4:
+  56:
+    Species:
+      PHE_xal:
+        Charge: 0
+        E_NOF: -723.5025439
+        Multiplicity: 0
+        Count: 1
+      PHE_xaw:
+        Charge: 0
+        E_NOF: -723.5064443
+        Multiplicity: 0
+        Count: -1
+    APD: 29.565960826513233
+    Energy: 2.447501000012835
+    E_Ref: 1.889
+    AD: 0.558501000012835
+    WTMAD2: 0.13018658310299183
+    Weight: 23.31
+  23:
+    Species:
+      GLN_xai:
+        Charge: 0
+        E_NOF: -700.7478401
+        Multiplicity: 0
+        Count: -1
+      GLN_xap:
+        Charge: 0
+        E_NOF: -700.74476
+        Multiplicity: 0
+        Count: 1
+    APD: 52.218473425219806
+    Energy: 1.932762749949859
+    E_Ref: 4.045
+    AD: 2.112237250050141
+    WTMAD2: 0.4923625029866879
+    Weight: 23.31
+  48:
+    Species:
+      LYS_xap:
+        Charge: 0
+        E_NOF: -666.0552762
+        Multiplicity: 0
+        Count: -1
+      LYS_xat:
+        Charge: 0
+        E_NOF: -666.0539455
+        Multiplicity: 0
+        Count: 1
+    APD: 54.632268509902595
+    Energy: 0.8350142499534741
+    E_Ref: 0.54
+    AD: 0.29501424995347403
+    WTMAD2: 0.0687678216641548
+    Weight: 23.31
+BHROT27:
+  20:
+    Species:
+      bithiophene_anti:
+        Charge: 0
+        E_NOF: -1102.1006056
+        Multiplicity: 0
+        Count: -1
+      bithiophene_TS:
+        Charge: 0
+        E_NOF: -1102.0982923
+        Multiplicity: 0
+        Count: 1
+    APD: 18.44967695937377
+    Energy: 1.451595750123147
+    E_Ref: 1.78
+    AD: 0.3284042498768531
+    WTMAD2: 0.029753425038842894
+    Weight: 9.06
+  10:
+    Species:
+      h2s2_cis:
+        Charge: 0
+        E_NOF: -796.3852606
+        Multiplicity: 0
+        Count: 1
+      h2s2:
+        Charge: 0
+        E_NOF: -796.4011482
+        Multiplicity: 0
+        Count: -1
+    APD: 24.152789538666596
+    Energy: 9.969468999954927
+    E_Ref: 8.03
+    AD: 1.9394689999549275
+    WTMAD2: 0.17571589139591645
+    Weight: 9.06
+  1:
+    Species:
+      ethane_st:
+        Charge: 0
+        E_NOF: -79.2950431
+        Multiplicity: 0
+        Count: -1
+      ethane_ecl:
+        Charge: 0
+        E_NOF: -79.3389267
+        Multiplicity: 0
+        Count: 1
+    APD: 1108.6798168498378
+    Energy: -27.53695900000057
+    E_Ref: 2.73
+    AD: 30.266959000000572
+    WTMAD2: 2.742186485400052
+    Weight: 9.06
+ISOL24:
+  13:
+    Species:
+      i13e:
+        Charge: 0
+        E_NOF: -571.1798719
+        Multiplicity: 0
+        Count: -1
+      i13p:
+        Charge: 0
+        E_NOF: -571.1317559
+        Multiplicity: 0
+        Count: 1
+    APD: 8.562113870502609
+    Energy: 30.19278999996004
+    E_Ref: 33.02
+    AD: 2.827210000039962
+    WTMAD2: 0.073224739001035
+    Weight: 2.59
+PCONF21:
+  7:
+    Species:
+      412:
+        Charge: 0
+        E_NOF: 0
+        Multiplicity: 0
+        Count: 1
+      99:
+        Charge: 0
+        E_NOF: -966.4732075
+        Multiplicity: 0
+        Count: -1
+    APD: 2.7819254940653667e7
+    Energy: 606461.93770625
+    E_Ref: 2.18
+    AD: 606459.75770625
+    WTMAD2: 212564.1450760406
+    Weight: 35.05
+  18:
+    Species:
+      SER_ab:
+        Charge: 0
+        E_NOF: 0
+        Multiplicity: 0
+        Count: -1
+      SER_b:
+        Charge: 0
+        E_NOF: 0
+        Multiplicity: 0
+        Count: 1
+    APD: 100.0
+    Energy: 0.0
+    E_Ref: 2.74
+    AD: 2.74
+    WTMAD2: 0.9603700000000001
+    Weight: 35.05
+  8:
+    Species:
+      691:
+        Charge: 0
+        E_NOF: -966.4783609
+        Multiplicity: 0
+        Count: 1
+      99:
+        Charge: 0
+        E_NOF: -966.4732075
+        Multiplicity: 0
+        Count: -1
+    APD: 300.85456521895674
+    Energy: -3.2337585000252034
+    E_Ref: 1.61
+    AD: 4.843758500025204
+    WTMAD2: 1.6977373542588339
+    Weight: 35.05
+RSE43:
+  43:
+    Species:
+      E1:
+        Charge: 0
+        E_NOF: -40.2890923
+        Multiplicity: 0
+        Count: 1
+      E45:
+        Charge: 0
+        E_NOF: -196.7179872
+        Multiplicity: 0
+        Count: -1
+      P1:
+        Charge: 0
+        E_NOF: -39.6319592
+        Multiplicity: 1
+        Count: -1
+      P45:
+        Charge: 0
+        E_NOF: -196.0615565
+        Multiplicity: 1
+        Count: 1
+    APD: 80.836695653101
+    Energy: -0.440755999978677
+    E_Ref: -2.3
+    AD: 1.8592440000213228
+    WTMAD2: 0.13907145120159498
+    Weight: 7.48
+  30:
+    Species:
+      P32:
+        Charge: 0
+        E_NOF: -114.578522
+        Multiplicity: 1
+        Count: 1
+      E32:
+        Charge: 0
+        E_NOF: -115.2364432
+        Multiplicity: 0
+        Count: -1
+      E1:
+        Charge: 0
+        E_NOF: -40.2890923
+        Multiplicity: 0
+        Count: 1
+      P1:
+        Charge: 0
+        E_NOF: -39.6319592
+        Multiplicity: 1
+        Count: -1
+    APD: 111.5007616277168
+    Energy: 0.49453274999182284
+    E_Ref: -4.3
+    AD: 4.794532749991823
+    WTMAD2: 0.35863104969938836
+    Weight: 7.48
+  28:
+    Species:
+      E30:
+        Charge: 0
+        E_NOF: -228.1209513
+        Multiplicity: 0
+        Count: -1
+      E1:
+        Charge: 0
+        E_NOF: -40.2890923
+        Multiplicity: 0
+        Count: 1
+      P1:
+        Charge: 0
+        E_NOF: -39.6319592
+        Multiplicity: 1
+        Count: -1
+      P30:
+        Charge: 0
+        E_NOF: -227.4616048
+        Multiplicity: 1
+        Count: 1
+    APD: 123.14847499987494
+    Energy: 1.388908499992496
+    E_Ref: -6.0
+    AD: 7.388908499992496
+    WTMAD2: 0.5526903557994387
+    Weight: 7.48
+ADIM6:
+  2:
+    Species:
+      AM3:
+        Charge: 0
+        E_NOF: -118.3737984
+        Multiplicity: 0
+        Count: 2
+      AD3:
+        Charge: 0
+        E_NOF: -237.0041269
+        Multiplicity: 0
+        Count: -1
+    APD: 7989.077273869094
+    Energy: 160.972637749995
+    E_Ref: 1.99
+    AD: 158.98263774999498
+    WTMAD2: 26.91576057107415
+    Weight: 16.93
+SIE4x4:
+  7:
+    Species:
+      he+:
+        Charge: 1
+        E_NOF: -1.9998322
+        Multiplicity: 1
+        Count: 1
+      he2+_1.5:
+        Charge: 1
+        E_NOF: -4.8910291
+        Multiplicity: 1
+        Count: -1
+      he:
+        Charge: 0
+        E_NOF: -2.8777315
+        Multiplicity: 0
+        Count: 1
+    APD: 73.00466932907378
+    Energy: 8.449538499999905
+    E_Ref: 31.3
+    AD: 22.850461500000094
+    WTMAD2: 0.38617279935000154
+    Weight: 1.69
+  10:
+    Species:
+      nh3:
+        Charge: 0
+        E_NOF: -56.3012021
+        Multiplicity: 0
+        Count: 1
+      nh3+:
+        Charge: 1
+        E_NOF: -55.96324
+        Multiplicity: 1
+        Count: 1
+      nh32+_1.25:
+        Charge: 1
+        E_NOF: -112.2753556
+        Multiplicity: 1
+        Count: -1
+    APD: 73.55899131273911
+    Energy: 6.84822125000057
+    E_Ref: 25.9
+    AD: 19.05177874999943
+    WTMAD2: 0.32197506087499034
+    Weight: 1.69
+HAL59:
+  56:
+    Species:
+      27_CH3Br-benAB:
+        Charge: 0
+        E_NOF: -2843.3127356
+        Multiplicity: 0
+        Count: -1
+      27_CH3Br-benB:
+        Charge: 0
+        E_NOF: -2608.8691722
+        Multiplicity: 0
+        Count: 1
+      27_CH3Br-benA:
+        Charge: 0
+        E_NOF: -231.0634309
+        Multiplicity: 0
+        Count: 1
+    APD: 117084.15158840278
+    Energy: 2121.0331437500904
+    E_Ref: 1.81
+    AD: 2119.2231437500905
+    WTMAD2: 262.3598251962612
+    Weight: 12.38
+  21:
+    Species:
+      NH3:
+        Charge: 0
+        E_NOF: -56.3012335
+        Multiplicity: 0
+        Count: 1
+      FCl:
+        Charge: 0
+        E_NOF: -559.0470463
+        Multiplicity: 0
+        Count: 1
+      NH3_FCl:
+        Charge: 0
+        E_NOF: -615.3489226
+        Multiplicity: 0
+        Count: -1
+    APD: 96.17308349124133
+    Energy: 0.40335700002316344
+    E_Ref: 10.54
+    AD: 10.136642999976836
+    WTMAD2: 1.2549164033971323
+    Weight: 12.38
+  43:
+    Species:
+      pyr:
+        Charge: 0
+        E_NOF: -247.0666475
+        Multiplicity: 0
+        Count: 1
+      MeI:
+        Charge: 0
+        E_NOF: -2478.3358942
+        Multiplicity: 0
+        Count: 1
+      MeI_pyr:
+        Charge: 0
+        E_NOF: -2726.7403974
+        Multiplicity: 0
+        Count: -1
+    APD: 23154.97096260546
+    Energy: 839.5044517500571
+    E_Ref: 3.61
+    AD: 835.8944517500571
+    WTMAD2: 103.48373312665709
+    Weight: 12.38
+  38:
+    Species:
+      BrBr_OCH2:
+        Charge: 0
+        E_NOF: -5258.8454913
+        Multiplicity: 0
+        Count: -1
+      BrBr:
+        Charge: 0
+        E_NOF: -5138.3776347
+        Multiplicity: 0
+        Count: 1
+      OCH2:
+        Charge: 0
+        E_NOF: -114.0482667
+        Multiplicity: 0
+        Count: 1
+    APD: 91244.50481291553
+    Energy: 4028.292662249575
+    E_Ref: 4.41
+    AD: 4023.8826622495753
+    WTMAD2: 498.1566735864975
+    Weight: 12.38
+  8:
+    Species:
+      PhI:
+        Charge: 0
+        E_NOF: -2670.2274713
+        Multiplicity: 0
+        Count: 1
+      NCH:
+        Charge: 0
+        E_NOF: -93.0259307
+        Multiplicity: 0
+        Count: 1
+      NCH_PhI:
+        Charge: 0
+        E_NOF: -2763.951284
+        Multiplicity: 0
+        Count: -1
+    APD: 23318.232887698385
+    Energy: 437.9209549999598
+    E_Ref: 1.87
+    AD: 436.0509549999598
+    WTMAD2: 53.98310822899502
+    Weight: 12.38
+  1:
+    Species:
+      PCH:
+        Charge: 0
+        E_NOF: -379.279779
+        Multiplicity: 0
+        Count: 1
+      PCH_PhBr:
+        Charge: 0
+        E_NOF: -3182.3011367
+        Multiplicity: 0
+        Count: -1
+      PhBr:
+        Charge: 0
+        E_NOF: -2803.0224603
+        Multiplicity: 0
+        Count: 1
+    APD: 181.39782354379244
+    Energy: -0.6918815001222356
+    E_Ref: 0.85
+    AD: 1.5418815001222357
+    WTMAD2: 0.1908849297151328
+    Weight: 12.38
+BUT14DIOL:
+  39:
+    Species:
+      B1:
+        Charge: 0
+        E_NOF: -307.5134665
+        Multiplicity: 0
+        Count: -1
+      B40:
+        Charge: 0
+        E_NOF: -307.5132127
+        Multiplicity: 0
+        Count: 1
+    APD: 94.86259677427729
+    Energy: 0.15925949999740396
+    E_Ref: 3.1
+    AD: 2.940740500002596
+    WTMAD2: 0.5969703215005271
+    Weight: 20.3
+  63:
+    Species:
+      B64:
+        Charge: 0
+        E_NOF: -307.5105274
+        Multiplicity: 0
+        Count: 1
+      B1:
+        Charge: 0
+        E_NOF: -307.5134665
+        Multiplicity: 0
+        Count: -1
+    APD: 57.20915893283301
+    Energy: 1.844285249994897
+    E_Ref: 4.31
+    AD: 2.4657147500051027
+    WTMAD2: 0.5005400942510358
+    Weight: 20.3
+  28:
+    Species:
+      B1:
+        Charge: 0
+        E_NOF: -307.5134665
+        Multiplicity: 0
+        Count: -1
+      B29:
+        Charge: 0
+        E_NOF: -307.5129045
+        Multiplicity: 0
+        Count: 1
+    APD: 87.53869257945715
+    Energy: 0.35265500000136285
+    E_Ref: 2.83
+    AD: 2.477344999998637
+    WTMAD2: 0.5029010349997234
+    Weight: 20.3
+UPU23:
+  5:
+    Species:
+      2p:
+        Charge: -1
+        E_NOF: 0
+        Multiplicity: 0
+        Count: -1
+      1p:
+        Charge: -1
+        E_NOF: 0
+        Multiplicity: 0
+        Count: 1
+    APD: 100.0
+    Energy: 0.0
+    E_Ref: 2.02
+    AD: 2.02
+    WTMAD2: 0.200586
+    Weight: 9.93
+BH76RC:
+  16:
+    Species:
+      fch3fts:
+        Charge: -1
+        E_NOF: -238.6315599
+        Multiplicity: 0
+        Count: 1
+      fch3fcomp:
+        Charge: -1
+        E_NOF: -238.6512597
+        Multiplicity: 0
+        Count: -1
+    APD: 7.749070895598605
+    Energy: 12.361624499989787
+    E_Ref: 13.4
+    AD: 1.038375500010213
+    WTMAD2: 0.02762078830027167
+    Weight: 2.66
+CARBHB12:
+  4:
+    Species:
+      4O_A:
+        Charge: 0
+        E_NOF: -303.3212862
+        Multiplicity: 0
+        Count: 1
+      4O_B:
+        Charge: 0
+        E_NOF: -76.1437004
+        Multiplicity: 0
+        Count: 1
+      4O:
+        Charge: 0
+        E_NOF: -379.4701394
+        Multiplicity: 0
+        Count: -1
+    APD: 67.55912511275322
+    Energy: 3.2333820000118862
+    E_Ref: 9.967
+    AD: 6.733617999988114
+    WTMAD2: 0.6343068155988804
+    Weight: 9.42
+  6:
+    Species:
+      2N:
+        Charge: 0
+        E_NOF: -593.3920061
+        Multiplicity: 0
+        Count: -1
+      2N_A:
+        Charge: 0
+        E_NOF: -56.2242976
+        Multiplicity: 0
+        Count: 1
+      2N_B:
+        Charge: 0
+        E_NOF: -536.9277911
+        Multiplicity: 0
+        Count: 1
+    APD: 4883.388563388932
+    Energy: 150.54816849997962
+    E_Ref: 3.021
+    AD: 147.52716849997964
+    WTMAD2: 13.897059272698082
+    Weight: 9.42
+  11:
+    Species:
+      3CL:
+        Charge: 0
+        E_NOF: -750.2940894
+        Multiplicity: 0
+        Count: -1
+      3CL_A:
+        Charge: 0
+        E_NOF: -460.1335925
+        Multiplicity: 0
+        Count: 1
+      3CL_B:
+        Charge: 0
+        E_NOF: -290.1102737
+        Multiplicity: 0
+        Count: 1
+    APD: 872.3868559076645
+    Energy: 31.51505799996741
+    E_Ref: 3.241
+    AD: 28.27405799996741
+    WTMAD2: 2.6634162635969303
+    Weight: 9.42
+  3:
+    Species:
+      3O:
+        Charge: 0
+        E_NOF: -366.2603591
+        Multiplicity: 0
+        Count: -1
+      3O_B:
+        Charge: 0
+        E_NOF: -290.118008
+        Multiplicity: 0
+        Count: 1
+      3O_A:
+        Charge: 0
+        E_NOF: -76.1222976
+        Multiplicity: 0
+        Count: 1
+    APD: 419.76750309907766
+    Energy: 12.583571250028669
+    E_Ref: 2.421
+    AD: 10.16257125002867
+    WTMAD2: 0.9573142117527007
+    Weight: 9.42
+DC13:
+  6:
+    Species:
+      carbooxo1:
+        Charge: 0
+        E_NOF: -565.9236662
+        Multiplicity: 0
+        Count: 1
+      carbooxo2:
+        Charge: 0
+        E_NOF: -565.8241057
+        Multiplicity: 0
+        Count: -1
+    APD: 143.0903258753366
+    Energy: -62.47421374996151
+    E_Ref: -25.7
+    AD: 36.774213749961504
+    WTMAD2: 0.3787744016246035
+    Weight: 1.03
+  12:
+    Species:
+      o3:
+        Charge: 0
+        E_NOF: -224.5971405
+        Multiplicity: 0
+        Count: -1
+      o3_c2h4_add:
+        Charge: 0
+        E_NOF: -302.8891684
+        Multiplicity: 0
+        Count: 1
+      c2h4:
+        Charge: 0
+        E_NOF: -78.1896707
+        Multiplicity: 0
+        Count: -1
+    APD: 9.419323679757962
+    Energy: -64.22914300001793
+    E_Ref: -58.7
+    AD: 5.529143000017925
+    WTMAD2: 0.05695017290018463
+    Weight: 1.03
+HEAVY28:
+  5:
+    Species:
+      bih3_hbr:
+        Charge: 0
+        E_NOF: -7045.4347708
+        Multiplicity: 0
+        Count: -1
+      bih3:
+        Charge: 0
+        E_NOF: -4471.7202946
+        Multiplicity: 0
+        Count: 1
+      hbr:
+        Charge: 0
+        E_NOF: -2573.1467693
+        Multiplicity: 0
+        Count: 1
+    APD: 36250.62038261423
+    Energy: 356.2360797496194
+    E_Ref: 0.98
+    AD: 355.2560797496194
+    WTMAD2: 162.67175891735073
+    Weight: 45.79
+  24:
+    Species:
+      teh2_h2s:
+        Charge: 0
+        E_NOF: -2690.770226
+        Multiplicity: 0
+        Count: -1
+      h2s:
+        Charge: 0
+        E_NOF: -398.7918731
+        Multiplicity: 0
+        Count: 1
+      teh2:
+        Charge: 0
+        E_NOF: -2291.8367205
+        Multiplicity: 0
+        Count: 1
+    APD: 18415.485625021218
+    Energy: 88.87433100010185
+    E_Ref: 0.48
+    AD: 88.39433100010184
+    WTMAD2: 40.47576416494663
+    Weight: 45.79
+PArel:
+  5:
+    Species:
+      T3:
+        Charge: 1
+        E_NOF: -452.100847
+        Multiplicity: 0
+        Count: 1
+      T1:
+        Charge: 1
+        E_NOF: -452.504017
+        Multiplicity: 0
+        Count: -1
+    APD: 3418.6255215576202
+    Energy: 252.9891749999929
+    E_Ref: 7.19
+    AD: 245.7991749999929
+    WTMAD2: 30.184138689999127
+    Weight: 12.28
+  20:
+    Species:
+      c2cl43:
+        Charge: 1
+        E_NOF: -1914.3470978
+        Multiplicity: 0
+        Count: -1
+      c2cl41:
+        Charge: 1
+        E_NOF: -1914.3341078
+        Multiplicity: 0
+        Count: 1
+    APD: 279.1267441844475
+    Energy: 8.15122499996562
+    E_Ref: 2.15
+    AD: 6.00122499996562
+    WTMAD2: 0.7369504299957781
+    Weight: 12.28
+  10:
+    Species:
+      sugar2:
+        Charge: 1
+        E_NOF: -648.8420028
+        Multiplicity: 0
+        Count: 1
+      sugar0:
+        Charge: 1
+        E_NOF: -648.8409771
+        Multiplicity: 0
+        Count: -1
+    APD: 121.5982130875386
+    Energy: -0.6436267500086501
+    E_Ref: 2.98
+    AD: 3.62362675000865
+    WTMAD2: 0.4449813649010622
+    Weight: 12.28
+  3:
+    Species:
+      T0:
+        Charge: 1
+        E_NOF: -452.4931554
+        Multiplicity: 0
+        Count: 1
+      T1:
+        Charge: 1
+        E_NOF: -452.504017
+        Multiplicity: 0
+        Count: -1
+    APD: 131.8249659863596
+    Energy: 6.815653999998972
+    E_Ref: 2.94
+    AD: 3.875653999998972
+    WTMAD2: 0.4759303111998737
+    Weight: 12.28
+G21EA:
+  5:
+    Species:
+      EA_p-:
+        Charge: -1
+        E_NOF: -340.7459899
+        Multiplicity: 2
+        Count: -1
+      EA_p:
+        Charge: 0
+        E_NOF: -340.7522336
+        Multiplicity: 3
+        Count: 1
+    APD: 122.64694653189083
+    Energy: -3.917921750017115
+    E_Ref: 17.3
+    AD: 21.217921750017116
+    WTMAD2: 0.3585828775752893
+    Weight: 1.69
+  21:
+    Species:
+      EA_21n:
+        Charge: 0
+        E_NOF: -129.4001089
+        Multiplicity: 1
+        Count: 1
+      EA_21:
+        Charge: -1
+        E_NOF: -129.3525931
+        Multiplicity: 2
+        Count: -1
+    APD: 14808.082249995332
+    Energy: -29.816164499990663
+    E_Ref: -0.2
+    AD: 29.616164499990663
+    WTMAD2: 0.5005131800498421
+    Weight: 1.69
+  25:
+    Species:
+      EA_25n:
+        Charge: 0
+        E_NOF: -919.1230643
+        Multiplicity: 0
+        Count: 1
+      EA_25:
+        Charge: -1
+        E_NOF: -919.1763826
+        Multiplicity: 1
+        Count: -1
+    APD: 38.8350397623391
+    Energy: 33.45723325000051
+    E_Ref: 54.7
+    AD: 21.24276674999949
+    WTMAD2: 0.3590027580749913
+    Weight: 1.69
+BHPERI:
+  26:
+    Species:
+      09r:
+        Charge: 0
+        E_NOF: -551.6420122
+        Multiplicity: 0
+        Count: -1
+      00r:
+        Charge: 0
+        E_NOF: -78.0971876
+        Multiplicity: 0
+        Count: -1
+      09ts:
+        Charge: 0
+        E_NOF: -628.9879242
+        Multiplicity: 0
+        Count: 1
+    APD: 1406.1515623002902
+    Energy: 471.42543899999083
+    E_Ref: 31.3
+    AD: 440.1254389999908
+    WTMAD2: 11.97141194079975
+    Weight: 2.72
+  17:
+    Species:
+      13ts_7a:
+        Charge: 0
+        E_NOF: -246.929079
+        Multiplicity: 0
+        Count: 1
+      13r_7:
+        Charge: 0
+        E_NOF: -168.9705422
+        Multiplicity: 0
+        Count: -1
+      13_c2h4:
+        Charge: 0
+        E_NOF: -78.1898178
+        Multiplicity: 0
+        Count: -1
+    APD: 1007.8536450382151
+    Energy: 145.12882750000617
+    E_Ref: 13.1
+    AD: 132.02882750000617
+    WTMAD2: 3.591184108000168
+    Weight: 2.72
+  1:
+    Species:
+      TS1:
+        Charge: 0
+        E_NOF: -154.9671754
+        Multiplicity: 0
+        Count: 1
+      Cyclobutene:
+        Charge: 0
+        E_NOF: -154.9907391
+        Multiplicity: 0
+        Count: -1
+    APD: 58.11268626060355
+    Energy: 14.786221750006945
+    E_Ref: 35.3
+    AD: 20.513778249993052
+    WTMAD2: 0.5579747683998111
+    Weight: 2.72
+  23:
+    Species:
+      05r:
+        Charge: 0
+        E_NOF: -208.9491917
+        Multiplicity: 0
+        Count: -1
+      06ts:
+        Charge: 0
+        E_NOF: -287.2486061
+        Multiplicity: 0
+        Count: 1
+      00r:
+        Charge: 0
+        E_NOF: -78.0971876
+        Multiplicity: 0
+        Count: -1
+    APD: 556.4651690647925
+    Energy: -126.8973170000123
+    E_Ref: 27.8
+    AD: 154.6973170000123
+    WTMAD2: 4.207767022400335
+    Weight: 2.72
+AHB21:
+  15:
+    Species:
+      15:
+        Charge: -1
+        E_NOF: -454.4087069
+        Multiplicity: 0
+        Count: 1
+      15A:
+        Charge: -1
+        E_NOF: -398.1713755
+        Multiplicity: 0
+        Count: -1
+      15B:
+        Charge: 0
+        E_NOF: -56.2232739
+        Multiplicity: 0
+        Count: -1
+    APD: 2.3327291184317165
+    Energy: -8.821081250008813
+    E_Ref: -8.62
+    AD: 0.20108125000881394
+    WTMAD2: 0.005087355625222992
+    Weight: 2.53
+  1:
+    Species:
+      1A:
+        Charge: -1
+        E_NOF: -99.527095
+        Multiplicity: 0
+        Count: -1
+      1B:
+        Charge: 0
+        E_NOF: -56.2993463
+        Multiplicity: 0
+        Count: -1
+      1:
+        Charge: -1
+        E_NOF: -155.8252886
+        Multiplicity: 0
+        Count: 1
+    APD: 104.06587549186975
+    Energy: 0.7233192500036267
+    E_Ref: -17.79
+    AD: 18.513319250003626
+    WTMAD2: 0.46838697702509174
+    Weight: 2.53
+IL16:
+  3:
+    Species:
+      147B:
+        Charge: -1
+        E_NOF: -524.4694997
+        Multiplicity: 0
+        Count: -1
+      147:
+        Charge: 0
+        E_NOF: -659.5186385
+        Multiplicity: 0
+        Count: 1
+      147A:
+        Charge: 1
+        E_NOF: -134.7371506
+        Multiplicity: 0
+        Count: -1
+    APD: 67.45581686763121
+    Energy: -195.77259549994764
+    E_Ref: -116.91
+    AD: 78.86259549994764
+    WTMAD2: 0.4100854965997278
+    Weight: 0.52
+W4-11:
+  39:
+    Species:
+      c:
+        Charge: 0
+        E_NOF: -37.7199063
+        Multiplicity: 2
+        Count: 3
+      propyne:
+        Charge: 0
+        E_NOF: -116.0743011
+        Multiplicity: 0
+        Count: -1
+      h:
+        Charge: 0
+        E_NOF: -0.4999833
+        Multiplicity: 1
+        Count: 4
+    APD: 18.659554920954534
+    Energy: 573.9422474999988
+    E_Ref: 705.605
+    AD: 131.66275250000126
+    WTMAD2: 0.2501592297500024
+    Weight: 0.19
+  92:
+    Species:
+      n2:
+        Charge: 0
+        E_NOF: -109.1040745
+        Multiplicity: 0
+        Count: -1
+      n:
+        Charge: 0
+        E_NOF: -54.4146356
+        Multiplicity: 3
+        Count: 2
+    APD: 24.529369214608714
+    Energy: 172.4390707500013
+    E_Ref: 228.485
+    AD: 56.04592924999872
+    WTMAD2: 0.10648726557499756
+    Weight: 0.19
+  136:
+    Species:
+      cl:
+        Charge: 0
+        E_NOF: -459.5316578
+        Multiplicity: 1
+        Count: 1
+      o:
+        Charge: 0
+        E_NOF: -74.8439373
+        Multiplicity: 2
+        Count: 2
+      cloo:
+        Charge: 0
+        E_NOF: -609.2436616
+        Multiplicity: 1
+        Count: -1
+    APD: 88.01988131499905
+    Energy: 15.141073000038432
+    E_Ref: 126.385
+    AD: 111.24392699996157
+    WTMAD2: 0.211363461299927
+    Weight: 0.19
+  58:
+    Species:
+      cl:
+        Charge: 0
+        E_NOF: -459.5316578
+        Multiplicity: 1
+        Count: 2
+      becl2:
+        Charge: 0
+        E_NOF: -933.9761716
+        Multiplicity: 0
+        Count: -1
+      be:
+        Charge: 0
+        E_NOF: -14.6034418
+        Multiplicity: 0
+        Count: 1
+    APD: 13.812774443557355
+    Energy: 194.1574105000206
+    E_Ref: 225.274
+    AD: 31.116589499979398
+    WTMAD2: 0.05912152004996086
+    Weight: 0.19
+  12:
+    Species:
+      b2h6:
+        Charge: 0
+        E_NOF: -52.938073
+        Multiplicity: 0
+        Count: -1
+      b:
+        Charge: 0
+        E_NOF: -24.5603127
+        Multiplicity: 1
+        Count: 2
+      h:
+        Charge: 0
+        E_NOF: -0.4999833
+        Multiplicity: 1
+        Count: 6
+    APD: 15.487346525584575
+    Energy: 513.0112445000008
+    E_Ref: 607.023
+    AD: 94.01175549999925
+    WTMAD2: 0.17862233544999856
+    Weight: 0.19
+  85:
+    Species:
+      c:
+        Charge: 0
+        E_NOF: -37.7199063
+        Multiplicity: 2
+        Count: 1
+      o:
+        Charge: 0
+        E_NOF: -74.8439373
+        Multiplicity: 2
+        Count: 2
+      co2:
+        Charge: 0
+        E_NOF: -187.8689489
+        Multiplicity: 0
+        Count: -1
+    APD: 25.82606801130634
+    Energy: 289.38292000000934
+    E_Ref: 390.141
+    AD: 100.75807999999068
+    WTMAD2: 0.19144035199998233
+    Weight: 0.19
+  104:
+    Species:
+      cs2:
+        Charge: 0
+        E_NOF: -833.1228931
+        Multiplicity: 0
+        Count: -1
+      c:
+        Charge: 0
+        E_NOF: -37.7199063
+        Multiplicity: 2
+        Count: 1
+      s:
+        Charge: 0
+        E_NOF: -397.5485465
+        Multiplicity: 2
+        Count: 2
+    APD: 31.636966037217256
+    Energy: 191.94835950002215
+    E_Ref: 280.778
+    AD: 88.82964049997787
+    WTMAD2: 0.16877631694995796
+    Weight: 0.19
+  37:
+    Species:
+      c:
+        Charge: 0
+        E_NOF: -37.7199063
+        Multiplicity: 2
+        Count: 2
+      ch2ch:
+        Charge: 0
+        E_NOF: -77.5182234
+        Multiplicity: 1
+        Count: -1
+      h:
+        Charge: 0
+        E_NOF: -0.4999833
+        Multiplicity: 1
+        Count: 3
+    APD: 18.628183054198647
+    Energy: 362.98421475000015
+    E_Ref: 446.081
+    AD: 83.09678524999987
+    WTMAD2: 0.15788389197499975
+    Weight: 0.19
+  138:
+    Species:
+      o3:
+        Charge: 0
+        E_NOF: -224.6008792
+        Multiplicity: 0
+        Count: -1
+      o:
+        Charge: 0
+        E_NOF: -74.8439373
+        Multiplicity: 2
+        Count: 3
+    APD: 70.60278186639032
+    Energy: 43.33973075001808
+    E_Ref: 147.428
+    AD: 104.08826924998192
+    WTMAD2: 0.19776771157496564
+    Weight: 0.19
+PNICO23:
+  13:
+    Species:
+      13:
+        Charge: 0
+        E_NOF: -310.365574
+        Multiplicity: 0
+        Count: -1
+      13a:
+        Charge: 0
+        E_NOF: -155.1815646
+        Multiplicity: 0
+        Count: 1
+      13b:
+        Charge: 0
+        E_NOF: -155.1815614
+        Multiplicity: 0
+        Count: 1
+    APD: 61.40402010070897
+    Energy: 1.536119999991783
+    E_Ref: 3.98
+    AD: 2.443880000008217
+    WTMAD2: 0.32503604000109293
+    Weight: 13.3
+  17:
+    Species:
+      17a:
+        Charge: 0
+        E_NOF: -56.3012463
+        Multiplicity: 0
+        Count: 1
+      17b:
+        Charge: 0
+        E_NOF: -441.5614332
+        Multiplicity: 0
+        Count: 1
+      17:
+        Charge: 0
+        E_NOF: -497.8641347
+        Multiplicity: 0
+        Count: -1
+    APD: 87.13890140836739
+    Energy: 0.9131380000059153
+    E_Ref: 7.1
+    AD: 6.186861999994084
+    WTMAD2: 0.8228526459992132
+    Weight: 13.3
+YBDE18:
+  1:
+    Species:
+      f2s:
+        Charge: 0
+        E_NOF: -596.6589101
+        Multiplicity: 0
+        Count: 1
+      f2s-cbh22:
+        Charge: 0
+        E_NOF: -685.5725281
+        Multiplicity: 0
+        Count: -1
+      cbh22:
+        Charge: 0
+        E_NOF: -89.6268166
+        Multiplicity: 0
+        Count: 1
+    APD: 882.8093781703204
+    Energy: -447.5321214999722
+    E_Ref: 57.17
+    AD: 504.70212149997224
+    WTMAD2: 5.804074397249681
+    Weight: 1.15
+WATER27:
+  20:
+    Species:
+      OHm:
+        Charge: -1
+        E_NOF: -75.4908232
+        Multiplicity: 0
+        Count: 1
+      H2O:
+        Charge: 0
+        E_NOF: -76.1440845
+        Multiplicity: 0
+        Count: 1
+      OHmH2O:
+        Charge: -1
+        E_NOF: -151.6649543
+        Multiplicity: 0
+        Count: -1
+    APD: 29.1193928570959
+    Energy: 18.854241500012492
+    E_Ref: 26.6
+    AD: 7.7457584999875095
+    WTMAD2: 0.054220309499912564
+    Weight: 0.7
+  17:
+    Species:
+      H2O:
+        Charge: 0
+        E_NOF: -76.1440845
+        Multiplicity: 0
+        Count: 3
+      H3Op:
+        Charge: 1
+        E_NOF: -76.4259982
+        Multiplicity: 0
+        Count: 1
+      H3OpH2O3:
+        Charge: 1
+        E_NOF: -304.9542248
+        Multiplicity: 0
+        Count: -1
+    APD: 21.276966993433337
+    Energy: 60.2231202500235
+    E_Ref: 76.5
+    AD: 16.2768797499765
+    WTMAD2: 0.1139381582498355
+    Weight: 0.7
+MCONF:
+  22:
+    Species:
+      1:
+        Charge: 0
+        E_NOF: -761.3807615
+        Multiplicity: 0
+        Count: -1
+      23:
+        Charge: 0
+        E_NOF: -761.3773932
+        Multiplicity: 0
+        Count: 1
+    APD: 60.19570150753607
+    Energy: 2.1136082499498343
+    E_Ref: 5.31
+    AD: 3.1963917500501653
+    WTMAD2: 0.3653475770307339
+    Weight: 11.43
+  7:
+    Species:
+      8:
+        Charge: 0
+        E_NOF: -761.3792928
+        Multiplicity: 0
+        Count: 1
+      1:
+        Charge: 0
+        E_NOF: -761.3807615
+        Multiplicity: 0
+        Count: -1
+    APD: 68.43803938531308
+    Energy: 0.9216092499488582
+    E_Ref: 2.92
+    AD: 1.9983907500511418
+    WTMAD2: 0.2284160627308455
+    Weight: 11.43
+  30:
+    Species:
+      31:
+        Charge: 0
+        E_NOF: -761.3884044
+        Multiplicity: 0
+        Count: 1
+      1:
+        Charge: 0
+        E_NOF: -761.3807615
+        Multiplicity: 0
+        Count: -1
+    APD: 198.68147633828005
+    Energy: -4.795919750040412
+    E_Ref: 4.86
+    AD: 9.655919750040411
+    WTMAD2: 1.103671627429619
+    Weight: 11.43
+  42:
+    Species:
+      43:
+        Charge: 0
+        E_NOF: 0
+        Multiplicity: 0
+        Count: 1
+      1:
+        Charge: 0
+        E_NOF: -761.3807615
+        Multiplicity: 0
+        Count: -1
+    APD: 6.526763768323087e6
+    Energy: 477766.42784124997
+    E_Ref: 7.32
+    AD: 477759.10784124996
+    WTMAD2: 54607.86602625487
+    Weight: 11.43
+ICONF:
+  16:
+    Species:
+      H4P2O7_3:
+        Charge: 0
+        E_NOF: -1208.9998536
+        Multiplicity: 0
+        Count: 1
+      H4P2O7_1:
+        Charge: 0
+        E_NOF: -1209.0009303
+        Multiplicity: 0
+        Count: -1
+    APD: 81.54018442820077
+    Energy: 0.6756292499278516
+    E_Ref: 3.66
+    AD: 2.9843707500721486
+    WTMAD2: 0.5192805105125538
+    Weight: 17.4
+S66:
+  11:
+    Species:
+      11:
+        Charge: 0
+        E_NOF: -342.4721406
+        Multiplicity: 0
+        Count: -1
+      11B:
+        Charge: 0
+        E_NOF: -247.4012639
+        Multiplicity: 0
+        Count: 1
+      11A:
+        Charge: 0
+        E_NOF: -95.3964021
+        Multiplicity: 0
+        Count: 1
+    APD: 3868.7673154983613
+    Energy: -204.2671885000112
+    E_Ref: 5.42
+    AD: 209.6871885000112
+    WTMAD2: 21.80746760400116
+    Weight: 10.4
+  45:
+    Species:
+      45:
+        Charge: 0
+        E_NOF: -273.3976633
+        Multiplicity: 0
+        Count: -1
+      45A:
+        Charge: 0
+        E_NOF: -76.9592235
+        Multiplicity: 0
+        Count: 1
+      45B:
+        Charge: 0
+        E_NOF: -196.7166029
+        Multiplicity: 0
+        Count: 1
+    APD: 10074.134014286748
+    Energy: -174.5473452500181
+    E_Ref: 1.75
+    AD: 176.2973452500181
+    WTMAD2: 18.334923906001883
+    Weight: 10.4
+  31:
+    Species:
+      31A:
+        Charge: 0
+        E_NOF: -413.0465056
+        Multiplicity: 0
+        Count: 1
+      31:
+        Charge: 0
+        E_NOF: -491.2338405
+        Multiplicity: 0
+        Count: -1
+      31B:
+        Charge: 0
+        E_NOF: -78.1897793
+        Multiplicity: 0
+        Count: 1
+    APD: 145.38050295861103
+    Energy: -1.5338610000010533
+    E_Ref: 3.38
+    AD: 4.913861000001053
+    WTMAD2: 0.5110415440001096
+    Weight: 10.4
+  24:
+    Species:
+      24A:
+        Charge: 0
+        E_NOF: -231.0634856
+        Multiplicity: 0
+        Count: 1
+      24:
+        Charge: 0
+        E_NOF: -462.1224252
+        Multiplicity: 0
+        Count: -1
+      24B:
+        Charge: 0
+        E_NOF: -231.0634237
+        Multiplicity: 0
+        Count: 1
+    APD: 199.77917553157874
+    Energy: -2.8137727499905196
+    E_Ref: 2.82
+    AD: 5.63377274999052
+    WTMAD2: 0.5859123659990141
+    Weight: 10.4
+  17:
+    Species:
+      17A:
+        Charge: 0
+        E_NOF: -413.0449942
+        Multiplicity: 0
+        Count: 1
+      17:
+        Charge: 0
+        E_NOF: -826.0995599
+        Multiplicity: 0
+        Count: -1
+      17B:
+        Charge: 0
+        E_NOF: -413.045062
+        Multiplicity: 0
+        Count: 1
+    APD: 65.28770809066131
+    Energy: 5.963571750024386
+    E_Ref: 17.18
+    AD: 11.216428249975614
+    WTMAD2: 1.1665085379974638
+    Weight: 10.4
+CHB6:
+  1:
+    Species:
+      22:
+        Charge: 1
+        E_NOF: -83.4503068
+        Multiplicity: 0
+        Count: 1
+      22A:
+        Charge: 1
+        E_NOF: -7.25092
+        Multiplicity: 0
+        Count: -1
+      22B:
+        Charge: 0
+        E_NOF: -76.143988
+        Multiplicity: 0
+        Count: -1
+    APD: 0.9664449608269841
+    Energy: -34.76274700001273
+    E_Ref: -34.43
+    AD: 0.3327470000127306
+    WTMAD2: 0.007054236400269889
+    Weight: 2.12
+G21IP:
+  28:
+    Species:
+      IP_72:
+        Charge: 1
+        E_NOF: -77.8346709
+        Multiplicity: 1
+        Count: 1
+      26:
+        Charge: 0
+        E_NOF: -78.1896561
+        Multiplicity: 0
+        Count: -1
+    APD: 8.598692292860726
+    Energy: 222.75321299999206
+    E_Ref: 243.709
+    AD: 20.955787000007945
+    WTMAD2: 0.046102731400017485
+    Weight: 0.22

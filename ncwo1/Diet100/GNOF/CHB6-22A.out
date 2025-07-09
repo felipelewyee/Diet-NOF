@@ -1,0 +1,57 @@
+Computing Integrals
+Elapsed time:    4.54 Seconds
+
+Number of basis functions                   (NBF)    = 35
+Number of auxiliary basis functions         (NBFAUX) = 51
+Inactive Doubly occupied orbitals up to     (NO1)    = 0
+No. considered Strongly Doubly occupied MOs (NDOC)   = 1
+No. considered Strongly Singly occupied MOs (NSOC)   = 0
+NO. of Weakly occ. per St. Doubly occ.  MOs (NCWO)   = 1
+Dimension of the Nat. Orb. subspace         (NBF5)   = 2
+No. of electrons                                     = 2
+    No. of alpha electrons                           = 1
+    No. of beta electrons                            = 1
+Multiplicity                                         = 1
+
+Geometry
+========
+Li      -0.4090100      -1.9140400       0.0812900
+
+No violations of the orthonormality
+No violations of the orthonormality
+ 
+PNOF8/ADABelief Calculation
+==================
+ 
+  Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    MaxGrad_orb  Grad_occ
+     1      10    2.4e+01    0    4.2e+01    -7.24522202    -7.24522202 -10006.24522202   0.013576   5.4e-02   8.8e-05 0.00
+     2      20    2.2e-03    1    2.5e-02    -7.25058767    -7.25058767    -0.00536565   0.001294   5.2e-03   4.9e-05 0.00
+     3      16    1.8e-03    1    1.0e-04    -7.25087245    -7.25087245    -0.00028478   0.000601   2.4e-03   7.1e-05 0.00
+     4      20    2.8e-02    1    1.4e-04    -7.25091693    -7.25091693    -0.00004448   0.000226   9.0e-04   5.4e-06 0.00
+ 
+RESULTS OF THE OCCUPATION OPTIMIZATION
+========================================
+   1    1.9973678  -2.80425509
+   2    0.0026322  -0.01107804
+ 
+----------------
+ Final Energies 
+----------------
+Final NOF Total Energy =      -7.2509169
+ 
+Total Orbital Internal Iterations = 66
+Total Occupation Internal Iterations = 3
+ 
+Elapsed time:   98.95 Seconds
+
+---------------------------------
+   Lowdin Population Analysis    
+---------------------------------
+ Idx  Atom   Population   Charge 
+---------------------------------
+  1    Li     2.000       1.000
+
+---------------------------------
+   M Diagnostic: 0.00
+---------------------------------
+

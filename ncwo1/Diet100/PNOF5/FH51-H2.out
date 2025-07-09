@@ -1,0 +1,59 @@
+Computing Integrals
+Elapsed time:    3.42 Seconds
+
+Number of basis functions                   (NBF)    = 60
+Number of auxiliary basis functions         (NBFAUX) = 36
+Inactive Doubly occupied orbitals up to     (NO1)    = 0
+No. considered Strongly Doubly occupied MOs (NDOC)   = 1
+No. considered Strongly Singly occupied MOs (NSOC)   = 0
+NO. of Weakly occ. per St. Doubly occ.  MOs (NCWO)   = 1
+Dimension of the Nat. Orb. subspace         (NBF5)   = 2
+No. of electrons                                     = 2
+    No. of alpha electrons                           = 1
+    No. of beta electrons                            = 1
+Multiplicity                                         = 1
+
+Geometry
+========
+ H       0.0717300      -0.9908900       0.0000000
+ H      -0.6790200      -0.9908900       0.0000000
+
+No violations of the orthonormality
+No violations of the orthonormality
+ 
+PNOF5/ADABelief Calculation
+==================
+ 
+  Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    MaxGrad_orb  Grad_occ
+     1      10    1.4e+01    3    3.2e+01    -1.84409710    -1.13923380 -10000.84409710   0.023007   9.2e-02   4.0e-05 0.02
+     2      10    2.9e-03    1    1.7e-04    -1.85678426    -1.15192096    -0.01268716   0.008738   3.5e-02   7.8e-05 0.03
+     3      10    2.7e-03    0    1.0e-04    -1.85681791    -1.15195460    -0.00003364   0.008738   3.5e-02   7.8e-05 0.03
+     4      19    4.5e-03    0    1.1e-04    -1.85705924    -1.15219594    -0.00024133   0.000032   1.3e-04   8.5e-05 0.03
+ 
+RESULTS OF THE OCCUPATION OPTIMIZATION
+========================================
+   1    1.9749857  -0.60100035
+   2    0.0250143  -0.01671980
+ 
+----------------
+ Final Energies 
+----------------
+Final NOF Total Energy =      -1.1521959
+ 
+Total Orbital Internal Iterations = 49
+Total Occupation Internal Iterations = 4
+ 
+Elapsed time:   76.18 Seconds
+
+---------------------------------
+   Lowdin Population Analysis    
+---------------------------------
+ Idx  Atom   Population   Charge 
+---------------------------------
+  1     H     1.000       0.000
+  2     H     1.000      -0.000
+
+---------------------------------
+   M Diagnostic: 0.03
+---------------------------------
+

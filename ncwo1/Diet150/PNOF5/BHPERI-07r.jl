@@ -1,0 +1,33 @@
+using DoNOF
+
+mol = """
+0 1
+   P         -0.29583691     -1.58651577      0.00000000
+   C         -0.08286083     -0.32282431      1.28601846
+   C         -0.08286083     -0.32282431     -1.28601846
+   C         -0.08286083      0.90939312      0.72894826
+   C         -0.08286083      0.90939312     -0.72894826
+   H          0.99164355     -2.19229798      0.00000000
+   H         -0.09867284     -0.52734039      2.34781184
+   H         -0.09867284     -0.52734039     -2.34781184
+   H         -0.08350883      1.83017845      1.30240546
+   H         -0.08350883      1.83017845     -1.30240546
+"""
+
+bset,p = DoNOF.molecule(mol,"def2-qzvp",spherical=true)
+
+p.title = "BHPERI-07r"
+
+p.ipnof = 5
+
+p.RI = true
+p.maxit = 40
+
+p.maxloop = 10
+
+DoNOF.set_ncwo(p,1)
+
+C = DoNOF.read_C(title=p.title)
+n = DoNOF.read_n(title=p.title)
+
+DoNOF.energy(bset,p,C=C,n=n,do_hfidr=false,do_m_diagnostic=true)

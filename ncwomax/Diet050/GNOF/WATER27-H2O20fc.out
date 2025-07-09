@@ -1,0 +1,17 @@
+H2O20fc_C.jld2 not found
+H2O20fc_n.jld2 not found
+Computing Integrals
+Elapsed time:  293.21 Seconds
+
+Number of basis functions                   (NBF)    = 2340
+Number of auxiliary basis functions         (NBFAUX) = 2260
+Inactive Doubly occupied orbitals up to     (NO1)    = 0
+No. considered Strongly Doubly occupied MOs (NDOC)   = 100
+No. considered Strongly Singly occupied MOs (NSOC)   = 0
+NO. of Weakly occ. per St. Doubly occ.  MOs (NCWO)   = 22
+Dimension of the Nat. Orb. subspace         (NBF5)   = 2300
+No. of electrons                                     = 200
+    No. of alpha electrons                           = 100
+    No. of beta electrons                            = 100
+Multiplicity                                         = 1
+
