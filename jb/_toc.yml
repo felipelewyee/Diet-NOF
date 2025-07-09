@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Perfect Pairing Diet030
+    chapters:
+      - file: Diet030-GNOF-ncwo1.ipynb
+  - caption: Extended Pairing Diet030
+    chapters:
+      - file: Diet030-GNOF-ncwomax.ipynb
