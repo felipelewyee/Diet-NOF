@@ -62,7 +62,7 @@ function get_nof_E(nof, filename, set_name, reaction_id)
     end
 
     println("Energy not found:", filename)
-    return 0, nothing
+    return 0, filename
 end
 
 function get_nof_ncwo(nof, filename, set_name, reaction_id)
@@ -137,7 +137,7 @@ for (reaction, reaction_data) in data
         prop["E_NOF"] = E_NOF
         prop["Ncwo"] = ncwo_NOF
         prop["Count"] = count
-        prop["Filename"] = filename
+        prop["Filename"] = filename * ".xyz"
         mol_data[mol_name] = prop
     end
 
