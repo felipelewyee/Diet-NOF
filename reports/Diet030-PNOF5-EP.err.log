@@ -1,0 +1,58 @@
+Traceback (most recent call last):
+  File "/home/jfhlewyee/anaconda3/envs/jb/lib/python3.13/site-packages/jupyter_cache/executors/utils.py", line 58, in single_nb_execution
+    executenb(
+    ~~~~~~~~~^
+        nb,
+        ^^^
+    ...<4 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "/home/jfhlewyee/anaconda3/envs/jb/lib/python3.13/site-packages/nbclient/client.py", line 1319, in execute
+    return NotebookClient(nb=nb, resources=resources, km=km, **kwargs).execute()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/home/jfhlewyee/anaconda3/envs/jb/lib/python3.13/site-packages/jupyter_core/utils/__init__.py", line 165, in wrapped
+    return loop.run_until_complete(inner)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "/home/jfhlewyee/anaconda3/envs/jb/lib/python3.13/asyncio/base_events.py", line 720, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/home/jfhlewyee/anaconda3/envs/jb/lib/python3.13/site-packages/nbclient/client.py", line 709, in async_execute
+    await self.async_execute_cell(
+        cell, index, execution_count=self.code_cells_executed + 1
+    )
+  File "/home/jfhlewyee/anaconda3/envs/jb/lib/python3.13/site-packages/nbclient/client.py", line 1062, in async_execute_cell
+    await self._check_raise_for_error(cell, cell_index, exec_reply)
+  File "/home/jfhlewyee/anaconda3/envs/jb/lib/python3.13/site-packages/nbclient/client.py", line 918, in _check_raise_for_error
+    raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)
+nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
+------------------
+nsets = len(list(data.items()))
+step = nsets
+for i in range(0, nsets, nsets):
+    data_n = dict(list(data.items())[i:min(i+step,nsets)])
+    tabs = plot_molecules(data_n)
+    display(tabs)
+------------------
+
+
+[0;31m---------------------------------------------------------------------------[0m
+[0;31mTypeError[0m                                 Traceback (most recent call last)
+Cell [0;32mIn[8], line 5[0m
+[1;32m      3[0m [38;5;28;01mfor[39;00m i [38;5;129;01min[39;00m [38;5;28mrange[39m([38;5;241m0[39m, nsets, nsets):
+[1;32m      4[0m     data_n [38;5;241m=[39m [38;5;28mdict[39m([38;5;28mlist[39m(data[38;5;241m.[39mitems())[i:[38;5;28mmin[39m(i[38;5;241m+[39mstep,nsets)])
+[0;32m----> 5[0m     tabs [38;5;241m=[39m [43mplot_molecules[49m[43m([49m[43mdata_n[49m[43m)[49m
+[1;32m      6[0m     display(tabs)
+
+Cell [0;32mIn[7], line 53[0m, in [0;36mplot_molecules[0;34m(data)[0m
+[1;32m     51[0m childrens [38;5;241m=[39m []
+[1;32m     52[0m [38;5;28;01mfor[39;00m j,specie [38;5;129;01min[39;00m [38;5;28menumerate[39m(data[[38;5;28mset[39m][system][[38;5;124m"[39m[38;5;124mSpecies[39m[38;5;124m"[39m]):
+[0;32m---> 53[0m     mol_name [38;5;241m=[39m [43mdata[49m[43m[[49m[38;5;28;43mset[39;49m[43m][49m[43m[[49m[43msystem[49m[43m][49m[43m[[49m[38;5;124;43m"[39;49m[38;5;124;43mSpecies[39;49m[38;5;124;43m"[39;49m[43m][49m[43m[[49m[43mspecie[49m[43m][49m[43m[[49m[38;5;124;43m"[39;49m[38;5;124;43mFilename[39;49m[38;5;124;43m"[39;49m[43m][49m[43m[[49m[38;5;241;43m0[39;49m[43m:[49m[38;5;241;43m-[39;49m[38;5;241;43m4[39;49m[43m][49m
+[1;32m     54[0m     url [38;5;241m=[39m [38;5;124m"[39m[38;5;124murl:https://raw.githubusercontent.com/felipelewyee/Diet-NOF/refs/heads/main/[39m[38;5;132;01m{}[39;00m[38;5;124m/[39m[38;5;132;01m{}[39;00m[38;5;124m-[39m[38;5;132;01m{}[39;00m[38;5;124m.xyz[39m[38;5;124m"[39m[38;5;241m.[39mformat(
+[1;32m     55[0m         benchmark, [38;5;28mset[39m, mol_name
+[1;32m     56[0m     )
+[1;32m     57[0m     viewer [38;5;241m=[39m py3Dmol[38;5;241m.[39mview(url, width[38;5;241m=[39m[38;5;241m280[39m, height[38;5;241m=[39m[38;5;241m300[39m)
+
+[0;31mTypeError[0m: 'NoneType' object is not subscriptable
+
