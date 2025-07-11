@@ -29,8 +29,8 @@ Traceback (most recent call last):
 nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
 ------------------
 from myst_nb import glue
-MAD_P30 = get_total_MAD_of_whole_set(data)
-glue("MAD_P30", "{:.2f}".format(MAD_P30), display=False)
+MAD_Diet = get_total_MAD_of_whole_set(data)
+glue("MAD_Diet", "{:.2f}".format(MAD_Diet), display=False)
 glue("benchmark", benchmark, display=False)
 glue("nof", nof, display=False)
 ------------------
@@ -43,8 +43,8 @@ Warning: MAD value is too high for system 55 in set BH76 and was excluded
 [0;31mTypeError[0m                                 Traceback (most recent call last)
 Cell [0;32mIn[3], line 2[0m
 [1;32m      1[0m [38;5;28;01mfrom[39;00m[38;5;250m [39m[38;5;21;01mmyst_nb[39;00m[38;5;250m [39m[38;5;28;01mimport[39;00m glue
-[0;32m----> 2[0m MAD_P30 [38;5;241m=[39m [43mget_total_MAD_of_whole_set[49m[43m([49m[43mdata[49m[43m)[49m
-[1;32m      3[0m glue([38;5;124m"[39m[38;5;124mMAD_P30[39m[38;5;124m"[39m, [38;5;124m"[39m[38;5;132;01m{:.2f}[39;00m[38;5;124m"[39m[38;5;241m.[39mformat(MAD_P30), display[38;5;241m=[39m[38;5;28;01mFalse[39;00m)
+[0;32m----> 2[0m MAD_Diet [38;5;241m=[39m [43mget_total_MAD_of_whole_set[49m[43m([49m[43mdata[49m[43m)[49m
+[1;32m      3[0m glue([38;5;124m"[39m[38;5;124mMAD_Diet[39m[38;5;124m"[39m, [38;5;124m"[39m[38;5;132;01m{:.2f}[39;00m[38;5;124m"[39m[38;5;241m.[39mformat(MAD_Diet), display[38;5;241m=[39m[38;5;28;01mFalse[39;00m)
 [1;32m      4[0m glue([38;5;124m"[39m[38;5;124mbenchmark[39m[38;5;124m"[39m, benchmark, display[38;5;241m=[39m[38;5;28;01mFalse[39;00m)
 
 Cell [0;32mIn[2], line 6[0m, in [0;36mget_total_MAD_of_whole_set[0;34m(data)[0m
