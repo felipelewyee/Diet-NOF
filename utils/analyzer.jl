@@ -51,9 +51,21 @@ function get_nof_E(nof, filename, set_name, reaction_id)
     fileparts = split(pwd(), "/")[2:end-2]
     rootdir = join(fileparts, "/")
 
-    # Look exact filename in all sets
+    # Look exact filename for a specfic reaction in all benchmarks
+    # (in case we have moved the Ncwo of a molecule in a specific reaction)
     for benchname in benchnames
-        dir = build_path(rootdir, benchname, nof, set_name * "-" * filename) # end-4 to remove xyz
+        dir = build_path(rootdir, benchname, nof, set_name * "-" * reaction_id * "-" * filename)
+        Emol = get_data_fromfile(dir, phrase, idx)
+        Emol = parse(Float64, Emol)
+        if Emol < 0
+            return Emol, filename
+        end
+    end
+
+    # Look exact filename in all benchmarks
+    # (this is the general case, one molecule is generally shared by many reactions)
+    for benchname in benchnames
+        dir = build_path(rootdir, benchname, nof, set_name * "-" * filename)
         Emol = get_data_fromfile(dir, phrase, idx)
         Emol = parse(Float64, Emol)
         if Emol < 0
@@ -76,14 +88,29 @@ function get_nof_ncwo(nof, filename, set_name, reaction_id)
     fileparts = split(pwd(), "/")[2:end-2]
     rootdir = join(fileparts, "/")
 
-    # Look exact filename in all sets
+    # Look exact filename for a specfic reaction in all benchmarks
+    # (in case we have moved the Ncwo of a molecule in a specific reaction)
+    for benchname in benchnames
+        dir = build_path(rootdir, benchname, nof, set_name * "-" * reaction_id * "-" * filename) 
+        ncwo = get_data_fromfile(dir, phrase, idx)
+        ncwo = parse(Int32, ncwo)
+        if ncwo > 0
+            return ncwo, filename
+        end
+    end
+
+    # Look exact filename in all benchmarks
+    # (this is the general case, one molecule is generally shared by many reactions)
     for benchname in benchnames
         dir = build_path(rootdir, benchname, nof, set_name * "-" * filename)
         ncwo = get_data_fromfile(dir, phrase, idx)
-        return ncwo, filename
+        ncwo = parse(Int32, ncwo)
+        if ncwo > 0
+            return ncwo, filename
+        end
     end
 
-    return 0, nothing
+    return 0, filename
 
 end
 
@@ -103,6 +130,7 @@ for (reaction, reaction_data) in data
     results[set_name] = Dict()
 end
 
+notfound = []
 ADs = Dict()  #Absolute Deviations
 APDs = Dict() #Absolute Percentual Deviation
 # Check each reaction in the Data Set
@@ -127,6 +155,9 @@ for (reaction, reaction_data) in data
         charge, mult = split(readlines(path_to_xyz)[2])
 
         E_NOF,filename = get_nof_E(nof, mol_name, set_name, reaction_id)
+	if E_NOF == 0
+            push!(notfound, set_name * "-" * filename)
+	end
         ncwo_NOF,_ = get_nof_ncwo(nof, mol_name, set_name, reaction_id)
         @printf(" %-20s %3d %10.4f\n", mol_name, count, E_NOF)
 
@@ -172,3 +203,8 @@ end
 @printf("MAD = %.1f\n", mean(values(ADs)))
 
 YAML.write_file(benchmark*"-"*nof*"-"*ncwo*".yaml", results)
+
+println("Not Found")
+for mol in notfound
+    print(mol, " ")
+end
