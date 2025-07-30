@@ -24,7 +24,7 @@ bset,p = DoNOF.molecule(mol,"def2-qzvp",spherical=true)
 
 p.title = "BHROT27-bithiophene_anti"
 
-p.ipnof = 8
+p.ipnof = 5
 
 p.RI = true
 p.maxit = 40

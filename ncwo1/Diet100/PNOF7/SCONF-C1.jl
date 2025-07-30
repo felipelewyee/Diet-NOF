@@ -34,7 +34,7 @@ bset,p = DoNOF.molecule(mol,"def2-qzvp",spherical=true)
 
 p.title = "SCONF-C1"
 
-p.ipnof = 8
+p.ipnof = 7
 
 p.RI = true
 p.maxit = 40

@@ -1,7 +1,8 @@
 YBDE18:12:
   - 42.81
-  - [1, "nme3-ch2.xyz"]
+  - [-1, "nme3-ch2.xyz"]
   - [1, "nme3.xyz"]
+  - [1, "ch2.xyz"]
 Amino20x4:13:
   - 0.157
   - [-1, "ASP_xaz.xyz"]
@@ -214,8 +215,9 @@ RG18:14:
   - [1, "c2h2.xyz"]
 YBDE18:11:
   - 42.11
-  - [1, "nme3-cbh22.xyz"]
+  - [-1, "nme3-cbh22.xyz"]
   - [1, "nme3.xyz"]
+  - [1, "cbh22.xyz"]
 S66:39:
   - 3.58
   - [1, "39A.xyz"]
