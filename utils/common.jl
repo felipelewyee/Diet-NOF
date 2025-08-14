@@ -39,41 +39,41 @@ repeated = []
 if benchmark == "Diet050"
     mols_50_in_30 = intersect(mols_50, mols_30)
     repeated = vcat(repeated, mols_50_in_30)
-    println("Repeated with 030:")
-    println(mols_50_in_30)
+    #println("Repeated with 030:")
+    #println(mols_50_in_30)
 end
 
 if benchmark == "Diet100"
     mols_100_in_30 = intersect(mols_100, mols_30)
     repeated = vcat(repeated, mols_100_in_30)
-    println("Repeated with 030:")
-    println(mols_100_in_30)
+    #println("Repeated with 030:")
+    #println(mols_100_in_30)
 
     mols_100_in_50 = intersect(mols_100, mols_50)
     repeated = vcat(repeated, mols_100_in_50)
-    println("Repeated with 050:")
-    println(mols_100_in_50)
+    #println("Repeated with 050:")
+    #println(mols_100_in_50)
 end
 
 if benchmark == "Diet150"
     mols_150_in_30 = intersect(mols_150, mols_30)
     repeated = vcat(repeated, mols_150_in_30)
-    println("Repeated with 030:")
-    println(mols_150_in_30)
+    #println("Repeated with 030:")
+    #println(mols_150_in_30)
 
     mols_150_in_50 = intersect(mols_150, mols_50)
     repeated = vcat(repeated, mols_150_in_50)
-    println("Repeated with 050:")
-    println(mols_150_in_50)
+    #println("Repeated with 050:")
+    #println(mols_150_in_50)
 
     mols_150_in_100 = intersect(mols_150, mols_100)
     repeated = vcat(repeated, mols_150_in_100)
-    println("Repeated with 100:")
-    println(mols_150_in_100)
+    #println("Repeated with 100:")
+    #println(mols_150_in_100)
 end
 
 for molecule_name in repeated
-    println(string(molecule_name))
+    #println(string(molecule_name))
     rm(string(molecule_name)*".jl", force=true)
     rm(string(molecule_name)*".jld2", force=true)
     rm(string(molecule_name)*".fchk", force=true)
