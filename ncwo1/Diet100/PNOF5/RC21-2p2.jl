@@ -16,7 +16,7 @@ bset,p = DoNOF.molecule(mol,"def2-qzvp",spherical=true)
 
 p.title = "RC21-2p2"
 
-p.ipnof = 8
+p.ipnof = 5
 
 p.RI = true
 p.maxit = 40

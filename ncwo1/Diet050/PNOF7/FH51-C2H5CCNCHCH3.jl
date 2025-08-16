@@ -24,7 +24,7 @@ bset,p = DoNOF.molecule(mol,"def2-qzvp",spherical=true)
 
 p.title = "FH51-C2H5CCNCHCH3"
 
-p.ipnof = 8
+p.ipnof = 7
 
 p.RI = true
 p.maxit = 40

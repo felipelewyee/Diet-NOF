@@ -40,7 +40,7 @@ bset,p = DoNOF.molecule(mol,"def2-qzvp",spherical=true)
 
 p.title = "Amino20x4-PHE_xar"
 
-p.ipnof = 8
+p.ipnof = 5
 
 p.RI = true
 p.maxit = 40

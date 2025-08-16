@@ -10,7 +10,7 @@ bset,p = DoNOF.molecule(mol,"def2-qzvp",spherical=true)
 
 p.title = "AHB21-15A"
 
-p.ipnof = 8
+p.ipnof = 5
 
 p.RI = true
 p.maxit = 40

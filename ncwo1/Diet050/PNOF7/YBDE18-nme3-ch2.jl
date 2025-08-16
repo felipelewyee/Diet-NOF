@@ -24,7 +24,7 @@ bset,p = DoNOF.molecule(mol,"def2-qzvp",spherical=true)
 
 p.title = "YBDE18-nme3-ch2"
 
-p.ipnof = 8
+p.ipnof = 7
 
 p.RI = true
 p.maxit = 40
