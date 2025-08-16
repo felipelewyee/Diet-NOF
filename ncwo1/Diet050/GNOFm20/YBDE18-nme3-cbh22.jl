@@ -30,7 +30,6 @@ p.title = "YBDE18-nme3-cbh22"
 
 p.ipnof = 8
 p.ista = 1
-p.h_cut = 0.02 * sqrt(2)
 
 p.RI = true
 p.maxit = 40
