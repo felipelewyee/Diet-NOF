@@ -11,7 +11,7 @@ bset,p = DoNOF.molecule(mol,"def2-qzvp",spherical=true)
 
 p.title = "DIPCS10-h2s"
 
-p.ipnof = 5
+p.ipnof = 8
 
 p.RI = true
 p.maxit = 40

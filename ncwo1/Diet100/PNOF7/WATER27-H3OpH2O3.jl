@@ -21,7 +21,7 @@ bset,p = DoNOF.molecule(mol,"def2-qzvp",spherical=true)
 
 p.title = "WATER27-H3OpH2O3"
 
-p.ipnof = 7
+p.ipnof = 8
 
 p.RI = true
 p.maxit = 40

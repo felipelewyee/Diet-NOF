@@ -67,7 +67,7 @@ bset,p = DoNOF.molecule(mol,"def2-qzvp",spherical=true)
 
 p.title = "UPU23-5z"
 
-p.ipnof = 7
+p.ipnof = 8
 
 p.RI = true
 p.maxit = 40

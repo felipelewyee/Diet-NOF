@@ -14,7 +14,7 @@ bset,p = DoNOF.molecule(mol,"def2-qzvp",spherical=true)
 
 p.title = "CARBHB12-3O"
 
-p.ipnof = 5
+p.ipnof = 8
 
 p.RI = true
 p.maxit = 40

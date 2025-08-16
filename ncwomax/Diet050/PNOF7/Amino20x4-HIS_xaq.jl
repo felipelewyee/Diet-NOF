@@ -37,14 +37,14 @@ bset,p = DoNOF.molecule(mol,"def2-qzvp",spherical=true)
 
 p.title = "Amino20x4-HIS_xaq"
 
-p.ipnof = 7
+p.ipnof = 8
 
 p.RI = true
 p.maxit = 40
 
 p.maxloop = 10
 
-#DoNOF.set_ncwo(p,1)
+DoNOF.set_ncwo(p,1)
 
 C = DoNOF.read_C(title=p.title)
 n = DoNOF.read_n(title=p.title)

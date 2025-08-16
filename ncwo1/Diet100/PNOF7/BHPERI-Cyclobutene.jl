@@ -18,7 +18,7 @@ bset,p = DoNOF.molecule(mol,"def2-qzvp",spherical=true)
 
 p.title = "BHPERI-Cyclobutene"
 
-p.ipnof = 7
+p.ipnof = 8
 
 p.RI = true
 p.maxit = 40

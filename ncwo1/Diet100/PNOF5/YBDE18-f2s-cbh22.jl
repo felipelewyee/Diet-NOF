@@ -18,7 +18,7 @@ bset,p = DoNOF.molecule(mol,"def2-qzvp",spherical=true)
 
 p.title = "YBDE18-f2s-cbh22"
 
-p.ipnof = 5
+p.ipnof = 8
 
 p.RI = true
 p.maxit = 40

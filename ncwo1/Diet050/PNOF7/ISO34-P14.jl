@@ -14,7 +14,7 @@ bset,p = DoNOF.molecule(mol,"def2-qzvp",spherical=true)
 
 p.title = "ISO34-P14"
 
-p.ipnof = 7
+p.ipnof = 8
 
 p.RI = true
 p.maxit = 40
