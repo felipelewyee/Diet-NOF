@@ -5,16 +5,16 @@ SCONF:
         Charge: "0"
         E_NOF: -649.1025567
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: -1
-        Filename: "C1"
+        Filename: "C1.xyz"
       C11:
         Charge: "0"
         E_NOF: -649.1018452
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: 1
-        Filename: "C11"
+        Filename: "C11.xyz"
     dE_NOF: 0.44646624999586493
     APD: 92.09794247794929
     AD: 5.203533750004135
@@ -26,16 +26,16 @@ INV24:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: -1
-        Filename: ~
+        Filename: "Dibenzocycloheptene.xyz"
       Dibenzocycloheptene_TS:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: 1
-        Filename: ~
+        Filename: "Dibenzocycloheptene_TS.xyz"
     dE_NOF: 0.0
     APD: 100.0
     AD: 10.3
@@ -46,16 +46,16 @@ INV24:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 21
         Count: 1
-        Filename: ~
+        Filename: "BN_Corannulene_TS.xyz"
       BN_Corannulene:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 21
         Count: -1
-        Filename: ~
+        Filename: "BN_Corannulene.xyz"
     dE_NOF: 0.0
     APD: 100.0
     AD: 6.2
@@ -66,16 +66,16 @@ INV24:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: -1
-        Filename: ~
+        Filename: "BN_Sumanene.xyz"
       BN_Sumanene_TS:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: 1
-        Filename: ~
+        Filename: "BN_Sumanene_TS.xyz"
     dE_NOF: 0.0
     APD: 100.0
     AD: 27.2
@@ -87,16 +87,16 @@ CDIE20:
         Charge: "0"
         E_NOF: -193.3226312
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 24
         Count: -1
-        Filename: "R21"
+        Filename: "R21.xyz"
       P20:
         Charge: "0"
         E_NOF: -193.3196467
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 24
         Count: 1
-        Filename: "P20"
+        Filename: "P20.xyz"
     dE_NOF: 1.8727737500012154
     APD: 57.4369602272451
     AD: 2.527226249998785
@@ -107,16 +107,16 @@ CDIE20:
         Charge: "0"
         E_NOF: -271.689199
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 25
         Count: 1
-        Filename: "P48"
+        Filename: "P48.xyz"
       R48:
         Charge: "0"
         E_NOF: -271.6906306
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 25
         Count: -1
-        Filename: "R48"
+        Filename: "R48.xyz"
     dE_NOF: 0.8983290000178386
     APD: 79.5834318177764
     AD: 3.501670999982162
@@ -128,23 +128,23 @@ ALKBDE10:
         Charge: "0"
         E_NOF: -99.5444503
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 13
         Count: 1
-        Filename: "f"
+        Filename: "f.xyz"
       bef:
         Charge: "0"
         E_NOF: -114.3232455
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 14
         Count: -1
-        Filename: "bef"
+        Filename: "bef.xyz"
       be:
         Charge: "0"
         E_NOF: -14.6469515
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 17
         Count: 1
-        Filename: "be"
+        Filename: "be.xyz"
     dE_NOF: 82.7319217500044
     APD: 40.35189491708406
     AD: 55.968078249995585
@@ -156,16 +156,16 @@ RG18:
         Charge: "0"
         E_NOF: -128.6508751
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 10
         Count: 2
-        Filename: "ne"
+        Filename: "ne.xyz"
       ne2:
         Charge: "0"
         E_NOF: -257.3016275
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 10
         Count: -1
-        Filename: "ne2"
+        Filename: "ne2.xyz"
     dE_NOF: -0.07699425000464544
     APD: 196.24281250580682
     AD: 0.15699425000464545
@@ -176,26 +176,26 @@ RG18:
         Charge: "0"
         E_NOF: -128.6508751
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 10
         Count: 1
-        Filename: "ne"
+        Filename: "ne.xyz"
       c2h6:
         Charge: "0"
-        E_NOF: -79.5295689
+        E_NOF: -79.5298514
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 31
         Count: 1
-        Filename: "c2h6"
+        Filename: "c2h6.xyz"
       c2h6Ne:
         Charge: "0"
         E_NOF: -208.1808527
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 24
         Count: -1
-        Filename: "c2h6Ne"
-    dE_NOF: 0.25645924999844283
-    APD: 6.858020832684517
-    AD: 0.016459249998442838
+        Filename: "c2h6Ne.xyz"
+    dE_NOF: 0.07919050000054995
+    APD: 67.00395833310418
+    AD: 0.16080949999945005
     dE_Ref: 0.24
 ACONF:
   5:
@@ -204,16 +204,16 @@ ACONF:
         Charge: "0"
         E_NOF: -236.1850422
         Multiplicity: "1"
-        Ncwo: "29"
+        Ncwo: 29
         Count: -1
-        Filename: "H_ttt"
+        Filename: "H_ttt.xyz"
       H_gtt:
         Charge: "0"
         E_NOF: -236.1832329
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 29
         Count: 1
-        Filename: "H_gtt"
+        Filename: "H_gtt.xyz"
     dE_NOF: 1.1353357500047423
     APD: 90.812731093234
     AD: 0.5403357500047423
@@ -224,16 +224,16 @@ ACONF:
         Charge: "0"
         E_NOF: -197.0195036
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 29
         Count: 1
-        Filename: "P_TG"
+        Filename: "P_TG.xyz"
       P_TT:
         Charge: "0"
         E_NOF: -197.021198
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 29
         Count: -1
-        Filename: "P_TT"
+        Filename: "P_TT.xyz"
     dE_NOF: 1.0632360000017798
     APD: 73.16547231299346
     AD: 0.44923600000177977
@@ -244,16 +244,16 @@ ACONF:
         Charge: "0"
         E_NOF: -236.1850422
         Multiplicity: "1"
-        Ncwo: "29"
+        Ncwo: 29
         Count: -1
-        Filename: "H_ttt"
+        Filename: "H_ttt.xyz"
       H_gtg:
         Charge: "0"
         E_NOF: -236.1819282
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 29
         Count: 1
-        Filename: "H_gtg"
+        Filename: "H_gtg.xyz"
     dE_NOF: 1.9540350000024773
     APD: 65.87733446540555
     AD: 0.7760350000024774
@@ -265,16 +265,16 @@ ISO34:
         Charge: "0"
         E_NOF: -270.5554474
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 24
         Count: -1
-        Filename: "E12"
+        Filename: "E12.xyz"
       P12:
         Charge: "0"
         E_NOF: -270.4902947
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 24
         Count: 1
-        Filename: "P12"
+        Filename: "P12.xyz"
     dE_NOF: 40.883319249987835
     APD: 10.441797918975167
     AD: 4.7666807500121635
@@ -285,16 +285,16 @@ ISO34:
         Charge: "0"
         E_NOF: -155.4390601
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 26
         Count: -1
-        Filename: "E7"
+        Filename: "E7.xyz"
       P7:
         Charge: "0"
         E_NOF: -155.404853
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 26
         Count: 1
-        Filename: "P7"
+        Filename: "P7.xyz"
     dE_NOF: 21.464955250005005
     APD: 92.51080941708524
     AD: 10.314955250005005
@@ -306,23 +306,23 @@ BSR36:
         Charge: "0"
         E_NOF: -40.3664379
         Multiplicity: "1"
-        Ncwo: "34"
+        Ncwo: 34
         Count: -4
-        Filename: "ch4"
+        Filename: "ch4.xyz"
       c2h6:
         Charge: "0"
         E_NOF: -79.5296068
         Multiplicity: "1"
-        Ncwo: "31"
+        Ncwo: 31
         Count: 5
-        Filename: "c2h6"
+        Filename: "c2h6.xyz"
       h4:
         Charge: "0"
         E_NOF: -236.1812205
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 29
         Count: -1
-        Filename: "h4"
+        Filename: "h4.xyz"
     dE_NOF: -0.6663422499987064
     APD: 107.52929096043735
     AD: 9.516342249998706
@@ -333,23 +333,23 @@ BSR36:
         Charge: "0"
         E_NOF: -40.3664379
         Multiplicity: "1"
-        Ncwo: "34"
+        Ncwo: 34
         Count: -7
-        Filename: "ch4"
+        Filename: "ch4.xyz"
       c2h6:
         Charge: "0"
         E_NOF: -79.5296068
         Multiplicity: "1"
-        Ncwo: "31"
+        Ncwo: 31
         Count: 7
-        Filename: "c2h6"
+        Filename: "c2h6.xyz"
       r6:
         Charge: "0"
         E_NOF: -274.1418424
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 28
         Count: -1
-        Filename: "r6"
+        Filename: "r6.xyz"
     dE_NOF: -0.21328724999330007
     APD: 102.18085122692536
     AD: 9.9932872499933
@@ -361,23 +361,23 @@ FH51:
         Charge: "0"
         E_NOF: -287.7367867
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 24
         Count: 1
-        Filename: "dimethylpyrrole"
+        Filename: "dimethylpyrrole.xyz"
       methylpyridine:
         Charge: "0"
         E_NOF: -286.5592151
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 23
         Count: -1
-        Filename: "methylpyridine"
+        Filename: "methylpyridine.xyz"
       H2:
         Charge: "0"
         E_NOF: -1.1731806
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 59
         Count: -1
-        Filename: "H2"
+        Filename: "H2.xyz"
     dE_NOF: -2.7553524999821093
     APD: 86.4067464233739
     AD: 17.51464750001789
@@ -389,23 +389,23 @@ BH76:
         Charge: "0"
         E_NOF: -155.0631201
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 28
         Count: 1
-        Filename: "RKT09"
+        Filename: "RKT09.xyz"
       H2O:
         Charge: "0"
         E_NOF: -76.2017884
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: -1
-        Filename: "H2O"
+        Filename: "H2O.xyz"
       C2H5:
         Charge: "0"
         E_NOF: -78.8945222
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 31
         Count: -1
-        Filename: "C2H5"
+        Filename: "C2H5.xyz"
     dE_NOF: 20.827038750008796
     APD: 2.0933272059254793
     AD: 0.42703875000879776
@@ -416,23 +416,23 @@ BH76:
         Charge: "0"
         E_NOF: -460.2503916
         Multiplicity: "1"
-        Ncwo: "10"
+        Ncwo: 10
         Count: -1
-        Filename: "hcl"
+        Filename: "hcl.xyz"
       hclhts:
         Charge: "0"
         E_NOF: -460.7235724
         Multiplicity: "2"
-        Ncwo: "13"
+        Ncwo: 13
         Count: 1
-        Filename: "hclhts"
+        Filename: "hclhts.xyz"
       h:
         Charge: "0"
         E_NOF: -0.4999833
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 0
         Count: -1
-        Filename: "h"
+        Filename: "h.xyz"
     dE_NOF: 16.818568749993574
     APD: 5.513658707901274
     AD: 0.9814312500064268
@@ -443,26 +443,26 @@ BH76:
         Charge: "0"
         E_NOF: -39.7263364
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 35
         Count: -1
-        Filename: "ch3"
+        Filename: "ch3.xyz"
       NH3:
         Charge: "0"
         E_NOF: -56.3681924
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 28
         Count: -1
-        Filename: "NH3"
+        Filename: "NH3.xyz"
       RKT21:
         Charge: "0"
-        E_NOF: -96.0561961
+        E_NOF: -96.0561979
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 31
         Count: 1
-        Filename: "RKT21"
-    dE_NOF: 24.053769250007463
-    APD: 42.329995562174346
-    AD: 7.153769250007464
+        Filename: "RKT21.xyz"
+    dE_NOF: 24.0526397499998
+    APD: 42.32331213017633
+    AD: 7.1526397499998
     dE_Ref: 16.9
   18:
     Species:
@@ -470,23 +470,23 @@ BH76:
         Charge: "0"
         E_NOF: -499.4096793
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 15
         Count: -1
-        Filename: "ch3cl"
+        Filename: "ch3cl.xyz"
       cl-:
         Charge: "-1"
         E_NOF: -459.6987976
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 6
         Count: -1
-        Filename: "cl-"
+        Filename: "cl-.xyz"
       clch3clts:
         Charge: "-1"
         E_NOF: -959.0896564
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 12
         Count: 1
-        Filename: "clch3clts"
+        Filename: "clch3clts.xyz"
     dE_NOF: 11.80986374989152
     APD: 372.3945499956608
     AD: 9.30986374989152
@@ -496,28 +496,28 @@ G2RC:
     Species:
       1:
         Charge: "0"
-        E_NOF: 0
+        E_NOF: -1.1731559
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 59
         Count: -3
-        Filename: ~
+        Filename: "1.xyz"
       34:
         Charge: "0"
         E_NOF: -109.2044782
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 15
         Count: -1
-        Filename: "34"
+        Filename: "34.xyz"
       11:
         Charge: "0"
         E_NOF: -343.1888341
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 25
         Count: 2
-        Filename: "11"
-    dE_NOF: -362176.176725
-    APD: 918429.4870022826
-    AD: 362136.74672500003
+        Filename: "11.xyz"
+    dE_NOF: -359967.71074325003
+    APD: 912828.5080985292
+    AD: 359928.28074325004
     dE_Ref: -39.43
 RC21:
   4:
@@ -526,23 +526,23 @@ RC21:
         Charge: "0"
         E_NOF: -153.9028416
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 25
         Count: 1
-        Filename: "2p2"
+        Filename: "2p2.xyz"
       2e:
         Charge: "1"
         E_NOF: -232.5461008
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 28
         Count: -1
-        Filename: "2e"
+        Filename: "2e.xyz"
       2p3:
         Charge: "1"
         E_NOF: -78.5811294
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 32
         Count: 1
-        Filename: "2p3"
+        Filename: "2p3.xyz"
     dE_NOF: 38.986449500029266
     APD: 34.41041470385386
     AD: 20.45355049997073
@@ -554,61 +554,61 @@ MB16-43:
         Charge: "0"
         E_NOF: -149.9223048
         Multiplicity: "3"
-        Ncwo: "0"
+        Ncwo: 15
         Count: 1
-        Filename: "O2"
+        Filename: "O2.xyz"
       BH3:
         Charge: "0"
-        E_NOF: -26.5243533
+        E_NOF: -26.5243823
         Multiplicity: "1"
-        Ncwo: "35"
+        Ncwo: 35
         Count: 6
-        Filename: "BH3"
+        Filename: "BH3.xyz"
       CH4:
         Charge: "0"
-        E_NOF: -40.3667474
+        E_NOF: -40.3667758
         Multiplicity: "1"
-        Ncwo: "34"
+        Ncwo: 34
         Count: 2
-        Filename: "CH4"
+        Filename: "CH4.xyz"
       AlH3:
         Charge: "0"
         E_NOF: -243.8038162
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 19
         Count: 2
-        Filename: "AlH3"
+        Filename: "AlH3.xyz"
       04:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: -2
-        Filename: ~
+        Filename: "04.xyz"
       F2:
         Charge: "0"
         E_NOF: -199.0571197
         Multiplicity: "1"
-        Ncwo: "11"
+        Ncwo: 11
         Count: 1
-        Filename: "F2"
+        Filename: "F2.xyz"
       SiH4:
         Charge: "0"
         E_NOF: -291.4496946
         Multiplicity: "1"
-        Ncwo: "20"
+        Ncwo: 20
         Count: 4
-        Filename: "SiH4"
+        Filename: "SiH4.xyz"
       H2:
         Charge: "0"
         E_NOF: -1.1732232
         Multiplicity: "1"
-        Ncwo: "59"
+        Ncwo: 59
         Count: -17
-        Filename: "H2"
-    dE_NOF: -1.3945062113262499e6
-    APD: 390884.2612378348
-    AD: 1.39486305942625e6
+        Filename: "H2.xyz"
+    dE_NOF: -1.39450635615325e6
+    APD: 390884.30182289047
+    AD: 1.39486320425325e6
     dE_Ref: 356.8481
   31:
     Species:
@@ -616,68 +616,68 @@ MB16-43:
         Charge: "0"
         E_NOF: -149.9223048
         Multiplicity: "3"
-        Ncwo: "0"
+        Ncwo: 15
         Count: 1
-        Filename: "O2"
+        Filename: "O2.xyz"
       BH3:
         Charge: "0"
-        E_NOF: -26.5243533
+        E_NOF: -26.5243823
         Multiplicity: "1"
-        Ncwo: "35"
+        Ncwo: 35
         Count: 4
-        Filename: "BH3"
+        Filename: "BH3.xyz"
       CH4:
         Charge: "0"
-        E_NOF: -40.3667474
+        E_NOF: -40.3667758
         Multiplicity: "1"
-        Ncwo: "34"
+        Ncwo: 34
         Count: 2
-        Filename: "CH4"
+        Filename: "CH4.xyz"
       AlH3:
         Charge: "0"
         E_NOF: -243.8038162
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 19
         Count: 2
-        Filename: "AlH3"
+        Filename: "AlH3.xyz"
       31:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: -2
-        Filename: ~
+        Filename: "31.xyz"
       P2:
         Charge: "0"
         E_NOF: -681.7768039
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 8
         Count: 4
-        Filename: "P2"
+        Filename: "P2.xyz"
       F2:
         Charge: "0"
         E_NOF: -199.0571197
         Multiplicity: "1"
-        Ncwo: "11"
+        Ncwo: 11
         Count: 1
-        Filename: "F2"
+        Filename: "F2.xyz"
       Cl2:
         Charge: "0"
         E_NOF: -919.2676893
         Multiplicity: "1"
-        Ncwo: "7"
+        Ncwo: 7
         Count: 1
-        Filename: "Cl2"
+        Filename: "Cl2.xyz"
       H2:
         Charge: "0"
         E_NOF: -1.1732232
         Multiplicity: "1"
-        Ncwo: "59"
+        Ncwo: 59
         Count: -8
-        Filename: "H2"
-    dE_NOF: -2.9244054453355e6
-    APD: 546819.7242804874
-    AD: 2.9249403456355e6
+        Filename: "H2.xyz"
+    dE_NOF: -2.9244055537675004e6
+    APD: 546819.7445519287
+    AD: 2.9249404540675003e6
     dE_Ref: 534.9003
 PCONF21:
   7:
@@ -686,16 +686,16 @@ PCONF21:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: -1
-        Filename: ~
+        Filename: "99.xyz"
       412:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: 1
-        Filename: ~
+        Filename: "412.xyz"
     dE_NOF: 0.0
     APD: 100.0
     AD: 2.18
@@ -706,16 +706,16 @@ PCONF21:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: -1
-        Filename: ~
+        Filename: "SER_ab.xyz"
       SER_b:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: 1
-        Filename: ~
+        Filename: "SER_b.xyz"
     dE_NOF: 0.0
     APD: 100.0
     AD: 2.74
@@ -726,16 +726,16 @@ PCONF21:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: -1
-        Filename: ~
+        Filename: "99.xyz"
       691:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: 1
-        Filename: ~
+        Filename: "691.xyz"
     dE_NOF: 0.0
     APD: 100.0
     AD: 1.61
@@ -747,16 +747,16 @@ Amino20x4:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: -1
-        Filename: ~
+        Filename: "GLN_xai.xyz"
       GLN_xap:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: 1
-        Filename: ~
+        Filename: "GLN_xap.xyz"
     dE_NOF: 0.0
     APD: 100.0
     AD: 4.045
@@ -767,16 +767,16 @@ Amino20x4:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 23
         Count: -1
-        Filename: ~
+        Filename: "LYS_xap.xyz"
       LYS_xat:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 23
         Count: 1
-        Filename: ~
+        Filename: "LYS_xat.xyz"
     dE_NOF: 0.0
     APD: 100.0
     AD: 0.54
@@ -787,16 +787,16 @@ Amino20x4:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: 1
-        Filename: ~
+        Filename: "PHE_xal.xyz"
       PHE_xaw:
         Charge: "0"
         E_NOF: -724.3233045
         Multiplicity: "1"
-        Ncwo: "22"
+        Ncwo: 22
         Count: -1
-        Filename: "PHE_xaw"
+        Filename: "PHE_xaw.xyz"
     dE_NOF: 454512.87357374997
     APD: 2.4060930893263627e7
     AD: 454510.98457374994
@@ -808,16 +808,16 @@ ADIM6:
         Charge: "0"
         E_NOF: -118.6942266
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 30
         Count: 2
-        Filename: "AM3"
+        Filename: "AM3.xyz"
       AD3:
         Charge: "0"
         E_NOF: -237.3863024
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 30
         Count: -1
-        Filename: "AD3"
+        Filename: "AD3.xyz"
     dE_NOF: -1.3496269999886863
     APD: 167.820452260738
     AD: 3.3396269999886865
@@ -829,30 +829,30 @@ RSE43:
         Charge: "0"
         E_NOF: -40.3666722
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 34
         Count: 1
-        Filename: "E1"
+        Filename: "E1.xyz"
       E45:
         Charge: "0"
         E_NOF: -197.0233539
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 29
         Count: -1
-        Filename: "E45"
+        Filename: "E45.xyz"
       P1:
         Charge: "0"
         E_NOF: -39.7263861
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 35
         Count: -1
-        Filename: "P1"
+        Filename: "P1.xyz"
       P45:
         Charge: "0"
         E_NOF: -196.3885923
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 29
         Count: 1
-        Filename: "P45"
+        Filename: "P45.xyz"
     dE_NOF: -3.466623750005965
     APD: 50.722771739389806
     AD: 1.1666237500059653
@@ -863,30 +863,30 @@ RSE43:
         Charge: "0"
         E_NOF: -228.3265949
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 20
         Count: -1
-        Filename: "E30"
+        Filename: "E30.xyz"
       E1:
         Charge: "0"
         E_NOF: -40.3666722
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 34
         Count: 1
-        Filename: "E1"
+        Filename: "E1.xyz"
       P1:
         Charge: "0"
         E_NOF: -39.7263861
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 35
         Count: -1
-        Filename: "P1"
+        Filename: "P1.xyz"
       P30:
         Charge: "0"
         E_NOF: -227.6887884
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 20
         Count: 1
-        Filename: "P30"
+        Filename: "P30.xyz"
     dE_NOF: -1.5559490000014193
     APD: 74.067516666643
     AD: 4.444050999998581
@@ -897,30 +897,30 @@ RSE43:
         Charge: "0"
         E_NOF: -114.7149785
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 24
         Count: 1
-        Filename: "P32"
+        Filename: "P32.xyz"
       E32:
         Charge: "0"
         E_NOF: -115.3540036
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 25
         Count: -1
-        Filename: "E32"
+        Filename: "E32.xyz"
       E1:
         Charge: "0"
         E_NOF: -40.3666722
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 34
         Count: 1
-        Filename: "E1"
+        Filename: "E1.xyz"
       P1:
         Charge: "0"
         E_NOF: -39.7263861
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 35
         Count: -1
-        Filename: "P1"
+        Filename: "P1.xyz"
     dE_NOF: -0.7912775000004331
     APD: 81.59819767440854
     AD: 3.5087224999995668
@@ -932,16 +932,16 @@ BHROT27:
         Charge: "0"
         E_NOF: -79.5289057
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 31
         Count: -1
-        Filename: "ethane_st"
+        Filename: "ethane_st.xyz"
       ethane_ecl:
         Charge: "0"
         E_NOF: -79.5247974
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 31
         Count: 1
-        Filename: "ethane_ecl"
+        Filename: "ethane_ecl.xyz"
     dE_NOF: 2.577958250003576
     APD: 5.56929487166389
     AD: 0.15204174999642417
@@ -952,16 +952,16 @@ BHROT27:
         Charge: "0"
         E_NOF: -1102.6294718
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 17
         Count: -1
-        Filename: "bithiophene_anti"
+        Filename: "bithiophene_anti.xyz"
       bithiophene_TS:
         Charge: "0"
         E_NOF: -1102.6320078
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 17
         Count: 1
-        Filename: "bithiophene_TS"
+        Filename: "bithiophene_TS.xyz"
     dE_NOF: -1.5913400001591071
     APD: 189.40112360444422
     AD: 3.3713400001591074
@@ -972,19 +972,19 @@ BHROT27:
         Charge: "0"
         E_NOF: -796.5330716
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 10
         Count: 1
-        Filename: "h2s2_cis"
+        Filename: "h2s2_cis.xyz"
       h2s2:
         Charge: "0"
-        E_NOF: -796.5433687
+        E_NOF: -796.5443609
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 10
         Count: -1
-        Filename: "h2s2"
-    dE_NOF: 6.461430250026751
-    APD: 19.53386986268055
-    AD: 1.568569749973248
+        Filename: "h2s2.xyz"
+    dE_NOF: 7.084035750012845
+    APD: 11.780376712168799
+    AD: 0.9459642499871546
     dE_Ref: 8.03
 ISOL24:
   13:
@@ -993,16 +993,16 @@ ISOL24:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: -1
-        Filename: ~
+        Filename: "i13e.xyz"
       i13p:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: 1
-        Filename: ~
+        Filename: "i13p.xyz"
     dE_NOF: 0.0
     APD: 100.0
     AD: 33.02
@@ -1014,23 +1014,23 @@ SIE4x4:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: 1
-        Filename: ~
+        Filename: "nh3.xyz"
       nh3+:
         Charge: "1"
         E_NOF: -56.0578614
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 35
         Count: 1
-        Filename: "nh3+"
+        Filename: "nh3+.xyz"
       nh32+_1.25:
         Charge: "1"
         E_NOF: -112.448876
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 31
         Count: -1
-        Filename: "nh32+_1.25"
+        Filename: "nh32+_1.25.xyz"
     dE_NOF: 35385.36166149999
     APD: 136523.01799806947
     AD: 35359.46166149999
@@ -1039,56 +1039,56 @@ SIE4x4:
     Species:
       he+:
         Charge: "1"
-        E_NOF: 0
+        E_NOF: -1.9998322
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 0
         Count: 1
-        Filename: ~
+        Filename: "he+.xyz"
       he2+_1.5:
         Charge: "1"
-        E_NOF: -4.9573652
+        E_NOF: -4.9573922
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 58
         Count: -1
-        Filename: "he2+_1.5"
+        Filename: "he2+_1.5.xyz"
       he:
         Charge: "0"
-        E_NOF: -2.90181
+        E_NOF: -2.9018192
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 29
         Count: 1
-        Filename: "he"
-    dE_NOF: 1289.860888
-    APD: 4020.9613035143766
-    AD: 1258.560888
+        Filename: "he.xyz"
+    dE_NOF: 34.97735200000079
+    APD: 11.74872843450732
+    AD: 3.6773520000007913
     dE_Ref: 31.3
 HAL59:
   1:
     Species:
       PCH:
         Charge: "0"
-        E_NOF: -379.4075462
+        E_NOF: -379.40986
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 13
         Count: 1
-        Filename: "PCH"
+        Filename: "PCH.xyz"
       PCH_PhBr:
         Charge: "0"
         E_NOF: -3182.7876798
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 13
         Count: -1
-        Filename: "PCH_PhBr"
+        Filename: "PCH_PhBr.xyz"
       PhBr:
         Charge: "0"
         E_NOF: -2803.3834053
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 13
         Count: 1
-        Filename: "PhBr"
-    dE_NOF: -2.052991749951616
-    APD: 341.52844117077836
-    AD: 2.902991749951616
+        Filename: "PhBr.xyz"
+    dE_NOF: -3.5049012498930097
+    APD: 512.3413235168246
+    AD: 4.354901249893009
     dE_Ref: 0.85
   21:
     Species:
@@ -1096,23 +1096,23 @@ HAL59:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: 1
-        Filename: ~
+        Filename: "NH3.xyz"
       FCl:
         Charge: "0"
         E_NOF: -559.167366
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 8
         Count: 1
-        Filename: "FCl"
+        Filename: "FCl.xyz"
       NH3_FCl:
         Charge: "0"
         E_NOF: -615.5364949
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 14
         Count: -1
-        Filename: "NH3_FCl"
+        Filename: "NH3_FCl.xyz"
     dE_NOF: 35371.62838474993
     APD: 335494.19719876593
     AD: 35361.08838474993
@@ -1123,23 +1123,23 @@ HAL59:
         Charge: "0"
         E_NOF: -5259.3496554
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 6
         Count: -1
-        Filename: "BrBr_OCH2"
+        Filename: "BrBr_OCH2.xyz"
       BrBr:
         Charge: "0"
         E_NOF: -5145.1805427
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 3
         Count: 1
-        Filename: "BrBr"
+        Filename: "BrBr.xyz"
       OCH2:
         Charge: "0"
         E_NOF: -114.1608741
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 20
         Count: 1
-        Filename: "OCH2"
+        Filename: "OCH2.xyz"
     dE_NOF: 5.169721500351443
     APD: 17.22724490592841
     AD: 0.7597215003514428
@@ -1150,23 +1150,23 @@ HAL59:
         Charge: "0"
         E_NOF: -247.3865324
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: 1
-        Filename: "pyr"
+        Filename: "pyr.xyz"
       MeI:
         Charge: "0"
         E_NOF: -2478.5620403
         Multiplicity: "1"
-        Ncwo: "6"
+        Ncwo: 6
         Count: 1
-        Filename: "MeI"
+        Filename: "MeI.xyz"
       MeI_pyr:
         Charge: "0"
         E_NOF: -2727.2989473
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 12
         Count: -1
-        Filename: "MeI_pyr"
+        Filename: "MeI_pyr.xyz"
     dE_NOF: 847.3600615000178
     APD: 23372.577880886918
     AD: 843.7500615000178
@@ -1177,23 +1177,23 @@ HAL59:
         Charge: "0"
         E_NOF: -2843.7227101
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 16
         Count: -1
-        Filename: "27_CH3Br-benAB"
+        Filename: "27_CH3Br-benAB.xyz"
       27_CH3Br-benB:
         Charge: "0"
         E_NOF: -2612.3628868
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 9
         Count: 1
-        Filename: "27_CH3Br-benB"
+        Filename: "27_CH3Br-benB.xyz"
       27_CH3Br-benA:
         Charge: "0"
         E_NOF: -231.3887663
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 23
         Count: 1
-        Filename: "27_CH3Br-benA"
+        Filename: "27_CH3Br-benA.xyz"
     dE_NOF: -18.16173249995336
     APD: 1103.4106353565392
     AD: 19.971732499953358
@@ -1204,26 +1204,26 @@ HAL59:
         Charge: "0"
         E_NOF: -2670.7108736
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 11
         Count: 1
-        Filename: "PhI"
+        Filename: "PhI.xyz"
       NCH:
         Charge: "0"
-        E_NOF: -93.1292741
+        E_NOF: -93.1295976
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 19
         Count: 1
-        Filename: "NCH"
+        Filename: "NCH.xyz"
       NCH_PhI:
         Charge: "0"
-        E_NOF: 0
+        E_NOF: -2764.5464095
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 12
         Count: -1
-        Filename: ~
-    dE_NOF: -1.73430969268175e6
-    APD: 9.274393383324867e7
-    AD: 1.7343115626817502e6
+        Filename: "NCH_PhI.xyz"
+    dE_NOF: 442.97628325014375
+    APD: 23588.571296799128
+    AD: 441.10628325014375
     dE_Ref: 1.87
 CARBHB12:
   4:
@@ -1232,23 +1232,23 @@ CARBHB12:
         Charge: "0"
         E_NOF: -303.6729579
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 23
         Count: 1
-        Filename: "4O_A"
+        Filename: "4O_A.xyz"
       4O_B:
         Charge: "0"
         E_NOF: -76.2015048
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: 1
-        Filename: "4O_B"
+        Filename: "4O_B.xyz"
       4O:
         Charge: "0"
         E_NOF: -379.8796678
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 23
         Count: -1
-        Filename: "4O"
+        Filename: "4O.xyz"
     dE_NOF: 3.2662002500219387
     APD: 67.229856024662
     AD: 6.700799749978062
@@ -1259,23 +1259,23 @@ CARBHB12:
         Charge: "0"
         E_NOF: -593.6392956
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 19
         Count: -1
-        Filename: "2N"
+        Filename: "2N.xyz"
       2N_A:
         Charge: "0"
         E_NOF: -56.3682263
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 28
         Count: 1
-        Filename: "2N_A"
+        Filename: "2N_A.xyz"
       2N_B:
         Charge: "0"
         E_NOF: -537.2712608
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 16
         Count: 1
-        Filename: "2N_B"
+        Filename: "2N_B.xyz"
     dE_NOF: -0.12016625003889203
     APD: 103.97769778347872
     AD: 3.141166250038892
@@ -1286,23 +1286,23 @@ CARBHB12:
         Charge: "0"
         E_NOF: -750.4432941
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 12
         Count: -1
-        Filename: "3CL"
+        Filename: "3CL.xyz"
       3CL_A:
         Charge: "0"
         E_NOF: -460.2480281
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 10
         Count: 1
-        Filename: "3CL_A"
+        Filename: "3CL_A.xyz"
       3CL_B:
         Charge: "0"
         E_NOF: -290.1942769
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 15
         Count: 1
-        Filename: "3CL_B"
+        Filename: "3CL_B.xyz"
     dE_NOF: 0.6206602500751615
     APD: 80.84973001927919
     AD: 2.6203397499248386
@@ -1313,23 +1313,23 @@ CARBHB12:
         Charge: "0"
         E_NOF: -366.3965247
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 18
         Count: -1
-        Filename: "3O"
+        Filename: "3O.xyz"
       3O_B:
         Charge: "0"
         E_NOF: -290.1942102
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 15
         Count: 1
-        Filename: "3O_B"
+        Filename: "3O_B.xyz"
       3O_A:
         Charge: "0"
         E_NOF: -76.2016967
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: 1
-        Filename: "3O_A"
+        Filename: "3O_A.xyz"
     dE_NOF: 0.3876694999926258
     APD: 83.98721602673996
     AD: 2.033330500007374
@@ -1341,23 +1341,23 @@ HEAVY28:
         Charge: "0"
         E_NOF: -2690.9294346
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 6
         Count: -1
-        Filename: "teh2_h2s"
+        Filename: "teh2_h2s.xyz"
       h2s:
         Charge: "0"
         E_NOF: -398.8743057
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 13
         Count: 1
-        Filename: "h2s"
+        Filename: "h2s.xyz"
       teh2:
         Charge: "0"
         E_NOF: -2291.9141597
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 4
         Count: 1
-        Filename: "teh2"
+        Filename: "teh2.xyz"
     dE_NOF: 88.45817300013732
     APD: 18328.786041695275
     AD: 87.97817300013732
@@ -1368,23 +1368,23 @@ HEAVY28:
         Charge: "0"
         E_NOF: -7045.5573966
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 3
         Count: -1
-        Filename: "bih3_hbr"
+        Filename: "bih3_hbr.xyz"
       hbr:
         Charge: "0"
         E_NOF: -2573.1938457
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 4
         Count: 1
-        Filename: "hbr"
+        Filename: "hbr.xyz"
       bih3:
         Charge: "0"
         E_NOF: -4471.8473628
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 3
         Count: 1
-        Filename: "bih3"
+        Filename: "bih3.xyz"
     dE_NOF: 323.90803275001235
     APD: 32951.840076531866
     AD: 322.92803275001233
@@ -1396,16 +1396,16 @@ UPU23:
         Charge: "-1"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: -1
-        Filename: ~
+        Filename: "2p.xyz"
       1p:
         Charge: "-1"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: 1
-        Filename: ~
+        Filename: "1p.xyz"
     dE_NOF: 0.0
     APD: 100.0
     AD: 2.02
@@ -1417,16 +1417,16 @@ BUT14DIOL:
         Charge: "0"
         E_NOF: -307.8403376
         Multiplicity: "1"
-        Ncwo: "24"
+        Ncwo: 24
         Count: -1
-        Filename: "B1"
+        Filename: "B1.xyz"
       B40:
         Charge: "0"
         E_NOF: -307.8404781
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 24
         Count: 1
-        Filename: "B40"
+        Filename: "B40.xyz"
     dE_NOF: -0.08816374998423271
     APD: 102.84399193497524
     AD: 3.188163749984233
@@ -1437,16 +1437,16 @@ BUT14DIOL:
         Charge: "0"
         E_NOF: -307.8377577
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 24
         Count: 1
-        Filename: "B64"
+        Filename: "B64.xyz"
       B1:
         Charge: "0"
         E_NOF: -307.8403376
         Multiplicity: "1"
-        Ncwo: "24"
+        Ncwo: 24
         Count: -1
-        Filename: "B1"
+        Filename: "B1.xyz"
     dE_NOF: 1.6188872500206344
     APD: 62.43881090439363
     AD: 2.6911127499793652
@@ -1457,16 +1457,16 @@ BUT14DIOL:
         Charge: "0"
         E_NOF: -307.8403376
         Multiplicity: "1"
-        Ncwo: "24"
+        Ncwo: 24
         Count: -1
-        Filename: "B1"
+        Filename: "B1.xyz"
       B29:
         Charge: "0"
         E_NOF: -307.8400688
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 24
         Count: 1
-        Filename: "B29"
+        Filename: "B29.xyz"
     dE_NOF: 0.1686720000288915
     APD: 94.03985865622292
     AD: 2.6613279999711086
@@ -1478,23 +1478,23 @@ DC13:
         Charge: "0"
         E_NOF: -224.8071404
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 13
         Count: -1
-        Filename: "o3"
+        Filename: "o3.xyz"
       o3_c2h4_add:
         Charge: "0"
         E_NOF: -303.1577976
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 19
         Count: 1
-        Filename: "o3_c2h4_add"
+        Filename: "o3_c2h4_add.xyz"
       c2h4:
         Charge: "0"
         E_NOF: -78.3157644
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 28
         Count: -1
-        Filename: "c2h4"
+        Filename: "c2h4.xyz"
     dE_NOF: -21.89523199998075
     APD: 62.699775127801104
     AD: 36.80476800001925
@@ -1505,16 +1505,16 @@ DC13:
         Charge: "0"
         E_NOF: -566.4856012
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 16
         Count: 1
-        Filename: "carbooxo1"
+        Filename: "carbooxo1.xyz"
       carbooxo2:
         Charge: "0"
         E_NOF: -566.347713
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 16
         Count: -1
-        Filename: "carbooxo2"
+        Filename: "carbooxo2.xyz"
     dE_NOF: -86.524845500011
     APD: 236.67255058370037
     AD: 60.824845500010994
@@ -1526,30 +1526,30 @@ BH76RC:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 0
         Count: -1
-        Filename: ~
+        Filename: "ch3.xyz"
       CH4:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: 1
-        Filename: ~
+        Filename: "CH4.xyz"
       h:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 0
         Count: 1
-        Filename: ~
+        Filename: "h.xyz"
       H2:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: -1
-        Filename: ~
+        Filename: "H2.xyz"
     dE_NOF: 0.0
     APD: 100.0
     AD: 3.11
@@ -1561,16 +1561,16 @@ PArel:
         Charge: "1"
         E_NOF: -1914.6800981
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 9
         Count: -1
-        Filename: "c2cl43"
+        Filename: "c2cl43.xyz"
       c2cl41:
         Charge: "1"
         E_NOF: -1914.6846307
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 9
         Count: 1
-        Filename: "c2cl41"
+        Filename: "c2cl41.xyz"
     dE_NOF: -2.844206500099972
     APD: 232.28867442325455
     AD: 4.994206500099972
@@ -1581,16 +1581,16 @@ PArel:
         Charge: "1"
         E_NOF: -649.4390505
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: 1
-        Filename: "sugar2"
+        Filename: "sugar2.xyz"
       sugar0:
         Charge: "1"
         E_NOF: -649.437519
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: -1
-        Filename: "sugar0"
+        Filename: "sugar0.xyz"
     dE_NOF: -0.9610162500175647
     APD: 132.24886745025387
     AD: 3.9410162500175647
@@ -1601,16 +1601,16 @@ PArel:
         Charge: "1"
         E_NOF: -452.9232064
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 20
         Count: 1
-        Filename: "T3"
+        Filename: "T3.xyz"
       T1:
         Charge: "1"
         E_NOF: -452.9205615
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 20
         Count: -1
-        Filename: "T1"
+        Filename: "T1.xyz"
     dE_NOF: -1.659674750000704
     APD: 123.08309805286099
     AD: 8.849674750000705
@@ -1621,16 +1621,16 @@ PArel:
         Charge: "1"
         E_NOF: -452.9159433
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 20
         Count: 1
-        Filename: "T0"
+        Filename: "T0.xyz"
       T1:
         Charge: "1"
         E_NOF: -452.9205615
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 20
         Count: -1
-        Filename: "T1"
+        Filename: "T1.xyz"
     dE_NOF: 2.8979205000796355
     APD: 1.4312755074953882
     AD: 0.042079499920364416
@@ -1640,21 +1640,21 @@ G21EA:
     Species:
       EA_21n:
         Charge: "0"
-        E_NOF: -129.5433208
+        E_NOF: -129.5434339
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 15
         Count: 1
-        Filename: "EA_21n"
+        Filename: "EA_21n.xyz"
       EA_21:
         Charge: "-1"
         E_NOF: -129.5230025
         Multiplicity: "3"
-        Ncwo: "0"
+        Ncwo: 15
         Count: -1
-        Filename: "EA_21"
-    dE_NOF: -12.749733250006102
-    APD: 6274.866625003051
-    AD: 12.549733250006103
+        Filename: "EA_21.xyz"
+    dE_NOF: -12.820703500008676
+    APD: 6310.351750004338
+    AD: 12.620703500008677
     dE_Ref: -0.2
   5:
     Species:
@@ -1662,16 +1662,16 @@ G21EA:
         Charge: "-1"
         E_NOF: -340.8628895
         Multiplicity: "3"
-        Ncwo: "0"
+        Ncwo: 8
         Count: -1
-        Filename: "EA_p-"
+        Filename: "EA_p-.xyz"
       EA_p:
         Charge: "0"
         E_NOF: -340.8778455
         Multiplicity: "4"
-        Ncwo: "0"
+        Ncwo: 10
         Count: 1
-        Filename: "EA_p"
+        Filename: "EA_p.xyz"
     dE_NOF: -9.384889999986626
     APD: 154.24791907506722
     AD: 26.684889999986627
@@ -1680,21 +1680,21 @@ G21EA:
     Species:
       EA_25n:
         Charge: "0"
-        E_NOF: -919.2704639
+        E_NOF: -919.270671
         Multiplicity: "1"
-        Ncwo: "7"
+        Ncwo: 7
         Count: 1
-        Filename: "EA_25n"
+        Filename: "EA_25n.xyz"
       EA_25:
         Charge: "-1"
-        E_NOF: -919.3612906
+        E_NOF: -919.3628683
         Multiplicity: "2"
-        Ncwo: "7"
+        Ncwo: 7
         Count: -1
-        Filename: "EA_25"
-    dE_NOF: 56.99375424999744
-    APD: 4.193335009136077
-    AD: 2.293754249997434
+        Filename: "EA_25.xyz"
+    dE_NOF: 57.85380575002637
+    APD: 5.765641224911087
+    AD: 3.1538057500263648
     dE_Ref: 54.7
 BHPERI:
   1:
@@ -1703,16 +1703,16 @@ BHPERI:
         Charge: "0"
         E_NOF: -155.3698907
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 26
         Count: 1
-        Filename: "TS1"
+        Filename: "TS1.xyz"
       Cyclobutene:
         Charge: "0"
         E_NOF: -155.4053947
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 26
         Count: -1
-        Filename: "Cyclobutene"
+        Filename: "Cyclobutene.xyz"
     dE_NOF: 22.278759999986505
     APD: 36.887365439131706
     AD: 13.021240000013492
@@ -1723,23 +1723,23 @@ BHPERI:
         Charge: "0"
         E_NOF: -551.917041
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 18
         Count: -1
-        Filename: "09r"
+        Filename: "09r.xyz"
       00r:
         Charge: "0"
         E_NOF: -78.3160501
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 28
         Count: -1
-        Filename: "00r"
+        Filename: "00r.xyz"
       09ts:
         Charge: "0"
         E_NOF: -630.1564563
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 20
         Count: 1
-        Filename: "09ts"
+        Filename: "09ts.xyz"
     dE_NOF: 48.08833700005198
     APD: 53.63685942508619
     AD: 16.78833700005198
@@ -1750,23 +1750,23 @@ BHPERI:
         Charge: "0"
         E_NOF: -247.5297231
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 23
         Count: 1
-        Filename: "13ts_7a"
+        Filename: "13ts_7a.xyz"
       13r_7:
         Charge: "0"
         E_NOF: -169.2528023
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 20
         Count: -1
-        Filename: "13r_7"
+        Filename: "13r_7.xyz"
       13_c2h4:
         Charge: "0"
         E_NOF: -78.3162705
         Multiplicity: "1"
-        Ncwo: "28"
+        Ncwo: 28
         Count: -1
-        Filename: "13_c2h4"
+        Filename: "13_c2h4.xyz"
     dE_NOF: 24.691936749994056
     APD: 88.48806679384776
     AD: 11.591936749994057
@@ -1777,23 +1777,23 @@ BHPERI:
         Charge: "0"
         E_NOF: -209.3983296
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 23
         Count: -1
-        Filename: "05r"
+        Filename: "05r.xyz"
       06ts:
         Charge: "0"
         E_NOF: -287.647743
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 24
         Count: 1
-        Filename: "06ts"
+        Filename: "06ts.xyz"
       00r:
         Charge: "0"
         E_NOF: -78.3160501
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 28
         Count: -1
-        Filename: "00r"
+        Filename: "00r.xyz"
     dE_NOF: 41.81452924999758
     APD: 50.411975719415736
     AD: 14.014529249997576
@@ -1805,23 +1805,23 @@ IL16:
         Charge: "-1"
         E_NOF: -524.7530858
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 13
         Count: -1
-        Filename: "147B"
+        Filename: "147B.xyz"
       147:
         Charge: "0"
         E_NOF: -659.9779707
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 18
         Count: 1
-        Filename: "147"
+        Filename: "147.xyz"
       147A:
         Charge: "1"
         E_NOF: -135.0594181
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 30
         Count: -1
-        Filename: "147A"
+        Filename: "147A.xyz"
     dE_NOF: -103.83041699999012
     APD: 11.18773672056272
     AD: 13.079583000009876
@@ -1833,23 +1833,23 @@ AHB21:
         Charge: "-1"
         E_NOF: -99.5742018
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 10
         Count: -1
-        Filename: "1A"
+        Filename: "1A.xyz"
       1:
         Charge: "-1"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: 1
-        Filename: ~
+        Filename: "1.xyz"
       1B:
         Charge: "0"
         E_NOF: -56.3665063
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 28
         Count: -1
-        Filename: "1B"
+        Filename: "1B.xyz"
     dE_NOF: 97852.79433275
     APD: 550143.813000281
     AD: 97870.58433274999
@@ -1860,23 +1860,23 @@ AHB21:
         Charge: "-1"
         E_NOF: -454.6668481
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 16
         Count: 1
-        Filename: "15"
+        Filename: "15.xyz"
       15A:
         Charge: "-1"
         E_NOF: -398.2900621
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 10
         Count: -1
-        Filename: "15A"
+        Filename: "15A.xyz"
       15B:
         Charge: "0"
         E_NOF: -56.3678718
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 28
         Count: -1
-        Filename: "15B"
+        Filename: "15B.xyz"
     dE_NOF: -5.593660499966063
     APD: 35.108346868143116
     AD: 3.026339500033936
@@ -1888,23 +1888,23 @@ W4-11:
         Charge: "0"
         E_NOF: -37.8251356
         Multiplicity: "3"
-        Ncwo: "0"
+        Ncwo: 26
         Count: 3
-        Filename: "c"
+        Filename: "c.xyz"
       propyne:
         Charge: "0"
         E_NOF: -116.2381699
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 25
         Count: -1
-        Filename: "propyne"
+        Filename: "propyne.xyz"
       h:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 0
         Count: 4
-        Filename: ~
+        Filename: "h.xyz"
     dE_NOF: 1733.6338452500058
     APD: 145.6946656061119
     AD: 1028.0288452500058
@@ -1915,23 +1915,23 @@ W4-11:
         Charge: "0"
         E_NOF: -833.3072867
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 9
         Count: -1
-        Filename: "cs2"
+        Filename: "cs2.xyz"
       c:
         Charge: "0"
         E_NOF: -37.8251356
         Multiplicity: "3"
-        Ncwo: "0"
+        Ncwo: 26
         Count: 1
-        Filename: "c"
+        Filename: "c.xyz"
       s:
         Charge: "0"
         E_NOF: -397.6790125
         Multiplicity: "3"
-        Ncwo: "0"
+        Ncwo: 8
         Count: 2
-        Filename: "s"
+        Filename: "s.xyz"
     dE_NOF: 77.8891277500079
     APD: 72.25953324334246
     AD: 202.88887224999212
@@ -1942,23 +1942,23 @@ W4-11:
         Charge: "0"
         E_NOF: -53.0732154
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 35
         Count: -1
-        Filename: "b2h6"
+        Filename: "b2h6.xyz"
       b:
         Charge: "0"
         E_NOF: -24.6289912
         Multiplicity: "2"
-        Ncwo: "27"
+        Ncwo: 27
         Count: 2
-        Filename: "b"
+        Filename: "b.xyz"
       h:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 0
         Count: 6
-        Filename: ~
+        Filename: "h.xyz"
     dE_NOF: 2394.0587074999967
     APD: 294.3934097225305
     AD: 1787.0357074999965
@@ -1969,16 +1969,16 @@ W4-11:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: -1
-        Filename: ~
+        Filename: "o3.xyz"
       o:
         Charge: "0"
         E_NOF: -74.955845
         Multiplicity: "3"
-        Ncwo: "17"
+        Ncwo: 17
         Count: 3
-        Filename: "o"
+        Filename: "o.xyz"
     dE_NOF: -141104.37821249999
     APD: 95810.7050305912
     AD: 141251.8062125
@@ -1989,23 +1989,23 @@ W4-11:
         Charge: "0"
         E_NOF: -459.6402667
         Multiplicity: "2"
-        Ncwo: "7"
+        Ncwo: 7
         Count: 2
-        Filename: "cl"
+        Filename: "cl.xyz"
       becl2:
         Charge: "0"
         E_NOF: -934.125877
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 8
         Count: -1
-        Filename: "becl2"
+        Filename: "becl2.xyz"
       be:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: 1
-        Filename: ~
+        Filename: "be.xyz"
     dE_NOF: 9315.453108999995
     APD: 4035.1656689187366
     AD: 9090.179108999995
@@ -2016,23 +2016,23 @@ W4-11:
         Charge: "0"
         E_NOF: -37.8251356
         Multiplicity: "3"
-        Ncwo: "0"
+        Ncwo: 26
         Count: 1
-        Filename: "c"
+        Filename: "c.xyz"
       o:
         Charge: "0"
         E_NOF: -74.955845
         Multiplicity: "3"
-        Ncwo: "17"
+        Ncwo: 17
         Count: 2
-        Filename: "o"
+        Filename: "o.xyz"
       co2:
         Charge: "0"
         E_NOF: -187.9765743
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 14
         Count: -1
-        Filename: "co2"
+        Filename: "co2.xyz"
     dE_NOF: 150.44230925000738
     APD: 61.438990198413556
     AD: 239.69869074999264
@@ -2043,23 +2043,23 @@ W4-11:
         Charge: "0"
         E_NOF: -37.8251356
         Multiplicity: "3"
-        Ncwo: "0"
+        Ncwo: 26
         Count: 2
-        Filename: "c"
+        Filename: "c.xyz"
       ch2ch:
         Charge: "0"
         E_NOF: -77.6655012
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 28
         Count: -1
-        Filename: "ch2ch"
+        Filename: "ch2ch.xyz"
       h:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 0
         Count: 3
-        Filename: ~
+        Filename: "h.xyz"
     dE_NOF: 1264.5568249999997
     APD: 183.4814361068953
     AD: 818.4758249999996
@@ -2070,23 +2070,23 @@ W4-11:
         Charge: "0"
         E_NOF: -459.6402667
         Multiplicity: "2"
-        Ncwo: "7"
+        Ncwo: 7
         Count: 1
-        Filename: "cl"
+        Filename: "cl.xyz"
       o:
         Charge: "0"
         E_NOF: -74.955845
         Multiplicity: "3"
-        Ncwo: "17"
+        Ncwo: 17
         Count: 2
-        Filename: "o"
+        Filename: "o.xyz"
       cloo:
         Charge: "0"
         E_NOF: -609.5336113
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 10
         Count: -1
-        Filename: "cloo"
+        Filename: "cloo.xyz"
     dE_NOF: -11.511738500063075
     APD: 109.1084689639301
     AD: 137.89673850006307
@@ -2097,19 +2097,19 @@ W4-11:
         Charge: "0"
         E_NOF: -109.2055386
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 15
         Count: -1
-        Filename: "n2"
+        Filename: "n2.xyz"
       n:
         Charge: "0"
-        E_NOF: -54.5376613
+        E_NOF: -54.5377851
         Multiplicity: "4"
-        Ncwo: "0"
+        Ncwo: 26
         Count: 2
-        Filename: "n"
-    dE_NOF: 81.71054000000004
-    APD: 64.23811628772128
-    AD: 146.77445999999998
+        Filename: "n.xyz"
+    dE_NOF: 81.55517099999997
+    APD: 64.30611593758891
+    AD: 146.92982900000004
     dE_Ref: 228.485
 PNICO23:
   17:
@@ -2118,23 +2118,23 @@ PNICO23:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: 1
-        Filename: ~
+        Filename: "17a.xyz"
       17:
         Charge: "0"
         E_NOF: -498.0510139
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 17
         Count: -1
-        Filename: "17"
+        Filename: "17.xyz"
       17b:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: 1
-        Filename: ~
+        Filename: "17b.xyz"
     dE_NOF: 312527.01122225
     APD: 4.401688890454226e6
     AD: 312519.91122225
@@ -2145,23 +2145,23 @@ PNICO23:
         Charge: "0"
         E_NOF: -155.2921234
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 18
         Count: 1
-        Filename: "13a"
+        Filename: "13a.xyz"
       13b:
         Charge: "0"
         E_NOF: -155.2920717
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 18
         Count: 1
-        Filename: "13b"
+        Filename: "13b.xyz"
       13:
         Charge: "0"
         E_NOF: -310.5859262
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 18
         Count: -1
-        Filename: "13"
+        Filename: "13.xyz"
     dE_NOF: 1.0862652500218246
     APD: 72.7069032657833
     AD: 2.8937347499781754
@@ -2173,19 +2173,26 @@ YBDE18:
         Charge: "0"
         E_NOF: -596.8077296
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 9
         Count: 1
-        Filename: "f2s"
+        Filename: "f2s.xyz"
       f2s-cbh22:
         Charge: "0"
         E_NOF: -686.6396747
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 16
+        Count: -1
+        Filename: "f2s-cbh22.xyz"
+      cbh22:
+        Charge: "0"
+        E_NOF: 0
+        Multiplicity: "1"
+        Ncwo: 0
         Count: 1
-        Filename: "f2s-cbh22"
-    dE_NOF: -805363.24619825
-    APD: 1.4088165404902047e6
-    AD: 805420.41619825
+        Filename: "cbh22.xyz"
+    dE_NOF: 56369.54555024998
+    APD: 98499.86977479444
+    AD: 56312.375550249984
     dE_Ref: 57.17
 WATER27:
   20:
@@ -2194,23 +2201,23 @@ WATER27:
         Charge: "-1"
         E_NOF: -75.5475253
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 16
         Count: 1
-        Filename: "OHm"
+        Filename: "OHm.xyz"
       H2O:
         Charge: "0"
         E_NOF: -76.2017884
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: 1
-        Filename: "H2O"
+        Filename: "H2O.xyz"
       OHmH2O:
         Charge: "-1"
         E_NOF: -151.7770829
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 19
         Count: -1
-        Filename: "OHmH2O"
+        Filename: "OHmH2O.xyz"
     dE_NOF: 17.42517300000327
     APD: 34.70538839133935
     AD: 9.261826999996732
@@ -2221,23 +2228,23 @@ WATER27:
         Charge: "0"
         E_NOF: -76.2017884
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: 3
-        Filename: "H2O"
+        Filename: "H2O.xyz"
       H3Op:
         Charge: "1"
         E_NOF: -76.484357
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 28
         Count: 1
-        Filename: "H3Op"
+        Filename: "H3Op.xyz"
       H3OpH2O3:
         Charge: "1"
         E_NOF: -305.180959
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 23
         Count: -1
-        Filename: "H3OpH2O3"
+        Filename: "H3OpH2O3.xyz"
     dE_NOF: 57.25109199999133
     APD: 25.41060256661933
     AD: 19.503908000008664
@@ -2249,16 +2256,16 @@ MCONF:
         Charge: "0"
         E_NOF: -762.2456667
         Multiplicity: "1"
-        Ncwo: "22"
+        Ncwo: 22
         Count: -1
-        Filename: "1"
+        Filename: "1.xyz"
       8:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: 1
-        Filename: ~
+        Filename: "8.xyz"
     dE_NOF: 478309.15585425
     APD: 1.6380350542953767e7
     AD: 478306.23585425003
@@ -2269,16 +2276,16 @@ MCONF:
         Charge: "0"
         E_NOF: -762.2456667
         Multiplicity: "1"
-        Ncwo: "22"
+        Ncwo: 22
         Count: -1
-        Filename: "1"
+        Filename: "1.xyz"
       43:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: 1
-        Filename: ~
+        Filename: "43.xyz"
     dE_NOF: 478309.15585425
     APD: 6.534178085440573e6
     AD: 478301.83585425
@@ -2289,16 +2296,16 @@ MCONF:
         Charge: "0"
         E_NOF: -762.2456667
         Multiplicity: "1"
-        Ncwo: "22"
+        Ncwo: 22
         Count: -1
-        Filename: "1"
+        Filename: "1.xyz"
       23:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: 1
-        Filename: ~
+        Filename: "23.xyz"
     dE_NOF: 478309.15585425
     APD: 9.00760538331921e6
     AD: 478303.84585425
@@ -2309,16 +2316,16 @@ MCONF:
         Charge: "0"
         E_NOF: -762.2456667
         Multiplicity: "1"
-        Ncwo: "22"
+        Ncwo: 22
         Count: -1
-        Filename: "1"
+        Filename: "1.xyz"
       31:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: 1
-        Filename: ~
+        Filename: "31.xyz"
     dE_NOF: 478309.15585425
     APD: 9.841652178070989e6
     AD: 478304.29585425
@@ -2330,23 +2337,23 @@ S66:
         Charge: "0"
         E_NOF: -462.7753518
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 23
         Count: -1
-        Filename: "24"
+        Filename: "24.xyz"
       24A:
         Charge: "0"
         E_NOF: -231.3885095
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 23
         Count: 1
-        Filename: "24A"
+        Filename: "24A.xyz"
       24B:
         Charge: "0"
         E_NOF: -231.3891864
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 23
         Count: 1
-        Filename: "24B"
+        Filename: "24B.xyz"
     dE_NOF: -1.470922749955207
     APD: 152.16038120408538
     AD: 4.290922749955207
@@ -2357,23 +2364,23 @@ S66:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: -1
-        Filename: ~
+        Filename: "17.xyz"
       17A:
         Charge: "0"
         E_NOF: -413.4102136
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 18
         Count: 1
-        Filename: "17A"
+        Filename: "17A.xyz"
       17B:
         Charge: "0"
         E_NOF: -413.4101141
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 18
         Count: 1
-        Filename: "17B"
+        Filename: "17B.xyz"
     dE_NOF: -518829.75563175
     APD: 3.02006365326979e6
     AD: 518846.93563175
@@ -2384,23 +2391,23 @@ S66:
         Charge: "0"
         E_NOF: -413.4116751
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 18
         Count: 1
-        Filename: "31A"
+        Filename: "31A.xyz"
       31:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: -1
-        Filename: ~
+        Filename: "31.xyz"
       31B:
         Charge: "0"
         E_NOF: -78.3164338
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 28
         Count: 1
-        Filename: "31B"
+        Filename: "31B.xyz"
     dE_NOF: -308559.38833475
     APD: 9.129075986235207e6
     AD: 308562.76833475
@@ -2411,23 +2418,23 @@ S66:
         Charge: "0"
         E_NOF: -274.0861244
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 28
         Count: -1
-        Filename: "45"
+        Filename: "45.xyz"
       45A:
         Charge: "0"
         E_NOF: -77.0660634
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 23
         Count: 1
-        Filename: "45A"
+        Filename: "45A.xyz"
       45B:
         Charge: "0"
         E_NOF: -197.0210582
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 29
         Count: 1
-        Filename: "45B"
+        Filename: "45B.xyz"
     dE_NOF: -0.6257430000114255
     APD: 135.75674285779573
     AD: 2.3757430000114255
@@ -2438,23 +2445,23 @@ S66:
         Charge: "0"
         E_NOF: -247.6672967
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 23
         Count: 1
-        Filename: "11B"
+        Filename: "11B.xyz"
       11:
         Charge: "0"
         E_NOF: 0
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 0
         Count: -1
-        Filename: ~
+        Filename: "11.xyz"
       11A:
         Charge: "0"
         E_NOF: -95.5219169
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 28
         Count: 1
-        Filename: "11A"
+        Filename: "11A.xyz"
     dE_NOF: -215351.231534
     APD: 3.9733699545018454e6
     AD: 215356.651534
@@ -2466,16 +2473,16 @@ ICONF:
         Charge: "0"
         E_NOF: -1209.3887284
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 13
         Count: 1
-        Filename: "H4P2O7_3"
+        Filename: "H4P2O7_3.xyz"
       H4P2O7_1:
         Charge: "0"
         E_NOF: -1209.384923
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 13
         Count: -1
-        Filename: "H4P2O7_1"
+        Filename: "H4P2O7_1.xyz"
     dE_NOF: -2.387888499884866
     APD: 165.2428551881111
     AD: 6.047888499884866
@@ -2487,23 +2494,23 @@ CHB6:
         Charge: "1"
         E_NOF: -7.2687907
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 34
         Count: -1
-        Filename: "22A"
+        Filename: "22A.xyz"
       22:
         Charge: "1"
         E_NOF: -83.525248
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 24
         Count: 1
-        Filename: "22"
+        Filename: "22.xyz"
       22B:
         Charge: "0"
         E_NOF: -76.2016023
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 22
         Count: -1
-        Filename: "22B"
+        Filename: "22B.xyz"
     dE_NOF: -34.42151250000461
     APD: 0.024651466730728055
     AD: 0.008487499995389669
@@ -2515,16 +2522,16 @@ G21IP:
         Charge: "0"
         E_NOF: -78.316017
         Multiplicity: "1"
-        Ncwo: "0"
+        Ncwo: 28
         Count: -1
-        Filename: "26"
+        Filename: "26.xyz"
       IP_72:
         Charge: "1"
         E_NOF: -77.9773029
         Multiplicity: "2"
-        Ncwo: "0"
+        Ncwo: 32
         Count: 1
-        Filename: "IP_72"
+        Filename: "IP_72.xyz"
     dE_NOF: 212.54309775000002
     APD: 12.788162213951882
     AD: 31.165902249999988

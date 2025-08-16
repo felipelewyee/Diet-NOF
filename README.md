@@ -8,7 +8,7 @@ for ncwo in ncwo1 ncwomax; do
     for set in Diet030 Diet050 Diet100; do
         echo $set
         cd $set
-        for nof in PNOF5 PNOF7 GNOF GNOFm; do
+        for nof in PNOF5 PNOF7 GNOF GNOFm20; do
             echo $nof 
             cd $nof
             julia --project=@analyzer ../../../utils/common.jl
