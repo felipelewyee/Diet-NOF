@@ -26,7 +26,7 @@ Para propagar notebooks
 ``` bash
 for set in Diet030 Diet050 Diet100; do
     echo $set
-    for method in PNOF5 PNOF7 GNOF GNOFm; do
+    for method in PNOF5 PNOF7 GNOF GNOFm20; do
         echo $method
         cp Diet030-GNOF-PP.ipynb ${set}-${method}-PP.ipynb 
         cp Diet030-GNOF-EP.ipynb ${set}-${method}-EP.ipynb
