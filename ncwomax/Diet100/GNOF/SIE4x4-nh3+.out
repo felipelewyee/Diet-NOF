@@ -2,7 +2,7 @@ Computing Integrals
 Basis Set                                            = def2-qzvp
 Auxiliary Basis Set                                  = def2-universal-jkfit
 Gaussian Type                                        = Spherical
-Elapsed time:    2.72 Seconds
+Elapsed time:    2.96 Seconds
 
 Number of basis functions                   (NBF)    = 147
 Number of auxiliary basis functions         (NBFAUX) = 131
@@ -30,20 +30,7 @@ PNOF8/ADABelief Calculation
 ==================
  
   Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    MaxGrad_orb  Grad_occ
-     1      10    2.2e+01   24    2.5e+01   -67.91686136   -56.10958208 -10066.91686136   0.021301   8.5e-02   2.0e-04 0.02
-     2      20    2.9e+00   12    3.1e-01   -67.93975260   -56.13247331    -0.02289123   0.012338   4.9e-02   1.9e-04 0.02
-     3      20    2.5e+00    6    1.9e-01   -67.94370873   -56.13642944    -0.00395613   0.015034   6.0e-02   1.8e-04 0.02
-     4      20    2.2e+00    4    8.6e-02   -67.94561669   -56.13833740    -0.00190796   0.010227   4.1e-02   2.1e-04 0.02
-     5      20    2.6e+00    6    1.2e-01   -67.94614825   -56.13886896    -0.00053156   0.015167   6.1e-02   2.9e-04 0.02
-     6      20    2.6e+00   10    2.2e-01   -67.94696860   -56.13968931    -0.00082035   0.015940   6.4e-02   2.3e-04 0.02
-     7      20    2.3e+00    2    5.4e-02   -67.94773515   -56.14045586    -0.00076655   0.011860   4.7e-02   1.7e-04 0.02
-     8      20    2.4e+00    3    1.0e-01   -67.94800062   -56.14072133    -0.00026547   0.013846   5.5e-02   1.5e-04 0.02
-     9      20    2.4e+00    3    7.1e-02   -67.94819998   -56.14092070    -0.00019936   0.012823   5.1e-02   1.5e-04 0.02
-    10      20    2.2e+00    3    6.4e-02   -67.94827568   -56.14099639    -0.00007570   0.013796   5.5e-02   1.9e-04 0.02
-    11      20    2.6e+00    1    4.2e-02   -67.94830510   -56.14102582    -0.00002942   0.013218   5.3e-02   2.3e-04 0.02
-    12      20    2.6e+00    2    5.9e-02   -67.94839843   -56.14111914    -0.00009333   0.010561   4.2e-02   1.4e-04 0.02
-    13      20    2.2e+00    0    3.0e-02   -67.94840722   -56.14112793    -0.00000879   0.010561   4.2e-02   1.4e-04 0.02
-    14      39    4.7e+00    2    6.9e-02   -67.94866810   -56.14138882    -0.00026088   0.000476   1.9e-03   1.7e-04 0.02
+     1      10    2.3e+01    0    2.5e+01   -67.94867306   -56.14139378 -10066.94867306   0.000476   1.9e-03   1.7e-04 0.02
  
 RESULTS OF THE OCCUPATION OPTIMIZATION
 ========================================
@@ -196,12 +183,12 @@ RESULTS OF THE OCCUPATION OPTIMIZATION
 ----------------
  Final Energies 
 ----------------
-Final NOF Total Energy =     -56.1413888
+Final NOF Total Energy =     -56.1413938
  
-Total Orbital Internal Iterations = 289
-Total Occupation Internal Iterations = 78
+Total Orbital Internal Iterations = 10
+Total Occupation Internal Iterations = 0
  
-Elapsed time:   99.40 Seconds
+Elapsed time:   63.09 Seconds
 
 ---------------------------------
    Lowdin Population Analysis    

@@ -2,7 +2,7 @@ Computing Integrals
 Basis Set                                            = def2-qzvp
 Auxiliary Basis Set                                  = def2-universal-jkfit
 Gaussian Type                                        = Spherical
-Elapsed time:    8.00 Seconds
+Elapsed time:    8.83 Seconds
 
 Number of basis functions                   (NBF)    = 475
 Number of auxiliary basis functions         (NBFAUX) = 579
@@ -36,12 +36,7 @@ PNOF5/ADABelief Calculation
 ==================
  
   Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    MaxGrad_orb  Grad_occ
-     1      10    1.2e+01    2    1.2e+01  -976.24426741  -686.33339593 -10975.24426741   0.005960   2.4e-02   1.8e-04 0.01
-     2      20    6.9e+00    2    1.2e-01  -976.24547459  -686.33460312    -0.00120718   0.022786   9.1e-02   2.0e-04 0.02
-     3      20    5.8e+00    0    1.1e-01  -976.24579997  -686.33492849    -0.00032538   0.022786   9.1e-02   2.0e-04 0.02
-     4      40    1.2e+01    2    1.1e-01  -976.25553382  -686.34466234    -0.00973385   0.002073   8.3e-03   1.2e-04 0.02
-     5      40    1.1e+01    0    1.3e-01  -976.25560610  -686.34473463    -0.00007228   0.002073   8.3e-03   1.2e-04 0.02
-     6      60    1.9e+01    1    1.1e-01  -976.25573561  -686.34486413    -0.00012951   0.000746   3.0e-03   2.3e-04 0.02
+     1      10    1.2e+01    0    1.2e+01  -976.25574817  -686.34487669 -10975.25574817   0.000746   3.0e-03   2.3e-04 0.02
  
 RESULTS OF THE OCCUPATION OPTIMIZATION
 ========================================
@@ -103,12 +98,12 @@ RESULTS OF THE OCCUPATION OPTIMIZATION
 ----------------
  Final Energies 
 ----------------
-Final NOF Total Energy =    -686.3448641
+Final NOF Total Energy =    -686.3448767
  
-Total Orbital Internal Iterations = 190
-Total Occupation Internal Iterations = 7
+Total Orbital Internal Iterations = 10
+Total Occupation Internal Iterations = 0
  
-Elapsed time:   90.77 Seconds
+Elapsed time:   30.99 Seconds
 
 ---------------------------------
    Lowdin Population Analysis    

@@ -1,7 +1,8 @@
-SIE4x4-he+_C.jld2 not found
-SIE4x4-he+_n.jld2 not found
 Computing Integrals
-Elapsed time:    4.25 Seconds
+Basis Set                                            = def2-qzvp
+Auxiliary Basis Set                                  = def2-universal-jkfit
+Gaussian Type                                        = Spherical
+Elapsed time:    1.47 Seconds
 
 Number of basis functions                   (NBF)    = 30
 Number of auxiliary basis functions         (NBFAUX) = 23
@@ -22,11 +23,11 @@ He       0.0000000       0.0000000       0.0000000
 No violations of the orthonormality
 No violations of the orthonormality
  
-PNOF9/ADABelief Calculation
+PNOF8/ADABelief Calculation
 ==================
  
   Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    MaxGrad_orb  Grad_occ
-     1      10    2.4e+01    0    6.4e+00    -1.99983222    -1.99983222 -10000.99983222   0.000000   5.8e-15   0.0e+00 0.00
+     1      10    9.1e+00    0    9.5e-01    -1.99983222    -1.99983222 -10000.99983222   0.000000   8.9e-15   0.0e+00 0.00
  
 RESULTS OF THE OCCUPATION OPTIMIZATION
 ========================================
@@ -40,7 +41,7 @@ Final NOF Total Energy =      -1.9998322
 Total Orbital Internal Iterations = 10
 Total Occupation Internal Iterations = 0
  
-Elapsed time:   92.32 Seconds
+Elapsed time:   26.15 Seconds
 
 ---------------------------------
    Lowdin Population Analysis    

@@ -1,7 +1,8 @@
-W4-11-h_C.jld not found
-W4-11-h_n.jld not found
 Computing Integrals
-Elapsed time:    1.33 Seconds
+Basis Set                                            = def2-qzvp
+Auxiliary Basis Set                                  = def2-universal-jkfit
+Gaussian Type                                        = Spherical
+Elapsed time:    1.56 Seconds
 
 Number of basis functions                   (NBF)    = 30
 Number of auxiliary basis functions         (NBFAUX) = 18
@@ -26,9 +27,7 @@ PNOF8/ADABelief Calculation
 ==================
  
   Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    MaxGrad_orb  Grad_occ
-     1      10    4.4e+00    0    1.7e-01    -0.49929057    -0.49929057 -9999.49929057   0.014526   5.8e-02   0.0e+00 0.00
-     2      20    8.6e-04    0    1.3e-05    -0.49998330    -0.49998330    -0.00069273   0.000025   1.0e-04   0.0e+00 0.00
-     3      16    6.4e-04    0    1.1e-05    -0.49998330    -0.49998330    -0.00000000   0.000010   4.1e-05   0.0e+00 0.00
+     1      10    8.9e+00    0    9.7e-01    -0.49998330    -0.49998330 -9999.49998330   0.000000   3.1e-15   0.0e+00 0.00
  
 RESULTS OF THE OCCUPATION OPTIMIZATION
 ========================================
@@ -39,17 +38,17 @@ RESULTS OF THE OCCUPATION OPTIMIZATION
 ----------------
 Final NOF Total Energy =      -0.4999833
  
-Total Orbital Internal Iterations = 46
+Total Orbital Internal Iterations = 10
 Total Occupation Internal Iterations = 0
  
-Elapsed time:   29.11 Seconds
+Elapsed time:   25.92 Seconds
 
 ---------------------------------
    Lowdin Population Analysis    
 ---------------------------------
  Idx  Atom   Population   Charge 
 ---------------------------------
-  1     H     1.000      -0.000
+  1     H     1.000       0.000
 
 ---------------------------------
    M Diagnostic: 0.00

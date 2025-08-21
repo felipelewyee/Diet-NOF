@@ -1,5 +1,8 @@
 Computing Integrals
-Elapsed time:    5.53 Seconds
+Basis Set                                            = def2-qzvp
+Auxiliary Basis Set                                  = def2-universal-jkfit
+Gaussian Type                                        = Spherical
+Elapsed time:    1.86 Seconds
 
 Number of basis functions                   (NBF)    = 56
 Number of auxiliary basis functions         (NBFAUX) = 160
@@ -20,28 +23,11 @@ Geometry
 No violations of the orthonormality
 No violations of the orthonormality
  
-PNOF5/ADAM Calculation
+PNOF5/ADABelief Calculation
 ==================
  
-  Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    Grad_orb  Grad_occ
-0.005416081655164717
-0.009459291938520626
-     1      10    2.2e+01   11    4.0e+01  -599.20442342  -599.20442342 -10598.20442342   0.201707   2.0e+00   1.7e-04 0.01
-0.00015205031562637306
-0.0003329527444340182
-     2      30    1.9e-01    2    7.1e-03  -599.21895667  -599.21895667    -0.01453325   0.000873   7.7e-03   1.3e-04 0.01
-0.0
-0.0
-     3      30    1.3e-01    0    3.0e-03  -599.21907228  -599.21907228    -0.00011560   0.000279   1.9e-03   1.7e-04 0.01
-0.0
-0.0
-     4      40    1.5e-01    0    3.0e-03  -599.21909092  -599.21909092    -0.00001865   0.000115   9.9e-04   1.7e-04 0.01
-0.0
-0.0
-     5      50    1.9e-01    0    3.1e-03  -599.21910168  -599.21910168    -0.00001075   0.000120   6.6e-04   1.7e-04 0.01
-0.0
-0.0
-     6      41    1.6e-01    0    2.7e-03  -599.21910564  -599.21910564    -0.00000396   0.000098   7.5e-04   1.7e-04 0.01
+  Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    MaxGrad_orb  Grad_occ
+     1      10    9.6e+00    0    1.3e+01  -599.21910564  -599.21910564 -10598.21910564   0.000098   3.9e-04   1.7e-04 0.01
  
 RESULTS OF THE OCCUPATION OPTIMIZATION
 ========================================
@@ -106,10 +92,10 @@ RESULTS OF THE OCCUPATION OPTIMIZATION
 ----------------
 Final NOF Total Energy =    -599.2191056
  
-Total Orbital Internal Iterations = 201
-Total Occupation Internal Iterations = 13
+Total Orbital Internal Iterations = 10
+Total Occupation Internal Iterations = 0
  
-Elapsed time:  103.13 Seconds
+Elapsed time:   29.16 Seconds
 
 ---------------------------------
    Lowdin Population Analysis    

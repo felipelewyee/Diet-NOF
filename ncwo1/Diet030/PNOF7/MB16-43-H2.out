@@ -1,5 +1,8 @@
 Computing Integrals
-Elapsed time:    9.50 Seconds
+Basis Set                                            = def2-qzvp
+Auxiliary Basis Set                                  = def2-universal-jkfit
+Gaussian Type                                        = Spherical
+Elapsed time:    1.57 Seconds
 
 Number of basis functions                   (NBF)    = 60
 Number of auxiliary basis functions         (NBFAUX) = 36
@@ -15,33 +18,34 @@ Multiplicity                                         = 1
 
 Geometry
 ========
- H       0.0000000       0.0000000      -0.3717600
- H       0.0000000       0.0000000       0.3717600
+ H       0.0000000       0.0000000      -0.3717625
+ H       0.0000000       0.0000000       0.3717625
 
+Orthonormality violations 924, Maximum Violation 0.000307
+Trying to orthonormalize
 No violations of the orthonormality
 No violations of the orthonormality
  
 PNOF7/ADABelief Calculation
 ==================
  
-  Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    Grad_orb  Grad_occ
-     1      10    3.0e+01    0    1.2e+00    -1.86335533    -1.15163793 -10000.86335533   0.010152   1.7e-01   1.0e-04 0.02
-     2      23    1.3e-02    0    1.2e-04    -1.86384569    -1.15212828    -0.00049035   0.000048   8.4e-04   1.5e-05 0.02
+  Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    MaxGrad_orb  Grad_occ
+     1      10    9.1e+00    0    1.2e+01    -1.86384097    -1.15212835 -10000.86384097   0.000048   1.9e-04   1.4e-05 0.02
  
 RESULTS OF THE OCCUPATION OPTIMIZATION
 ========================================
-   1    1.9756958  -0.60317235
-   2    0.0243042  -0.01643673
+   1    1.9756958  -0.60317039
+   2    0.0243042  -0.01643680
  
 ----------------
  Final Energies 
 ----------------
 Final NOF Total Energy =      -1.1521283
  
-Total Orbital Internal Iterations = 33
+Total Orbital Internal Iterations = 10
 Total Occupation Internal Iterations = 0
  
-Elapsed time:  203.78 Seconds
+Elapsed time:   28.05 Seconds
 
 ---------------------------------
    Lowdin Population Analysis    

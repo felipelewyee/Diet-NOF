@@ -2,7 +2,7 @@ Computing Integrals
 Basis Set                                            = def2-qzvp
 Auxiliary Basis Set                                  = def2-universal-jkfit
 Gaussian Type                                        = Spherical
-Elapsed time:    3.24 Seconds
+Elapsed time:    3.35 Seconds
 
 Number of basis functions                   (NBF)    = 247
 Number of auxiliary basis functions         (NBFAUX) = 277
@@ -32,7 +32,7 @@ PNOF5/ADABelief Calculation
 ==================
  
   Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    MaxGrad_orb  Grad_occ
-     1      10    2.2e+01    0    2.5e+01  -499.14274448  -454.52266700 -10498.14274448   0.000488   2.0e-03   1.8e-04 0.02
+     1      10    9.9e+00    0    1.2e+01  -499.14274448  -454.52266700 -10498.14274448   0.000488   2.0e-03   1.8e-04 0.02
  
 RESULTS OF THE OCCUPATION OPTIMIZATION
 ========================================
@@ -73,7 +73,7 @@ Final NOF Total Energy =    -454.5226670
 Total Orbital Internal Iterations = 10
 Total Occupation Internal Iterations = 0
  
-Elapsed time:   61.48 Seconds
+Elapsed time:   28.16 Seconds
 
 ---------------------------------
    Lowdin Population Analysis    

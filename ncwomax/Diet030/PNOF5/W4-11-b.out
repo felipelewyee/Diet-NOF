@@ -2,7 +2,7 @@ Computing Integrals
 Basis Set                                            = def2-qzvp
 Auxiliary Basis Set                                  = def2-universal-jkfit
 Gaussian Type                                        = Spherical
-Elapsed time:    1.52 Seconds
+Elapsed time:    1.54 Seconds
 
 Number of basis functions                   (NBF)    = 57
 Number of auxiliary basis functions         (NBFAUX) = 75
@@ -27,12 +27,7 @@ PNOF5/ADABelief Calculation
 ==================
  
   Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    MaxGrad_orb  Grad_occ
-     1      10    8.9e+00   38    1.2e+01   -24.56958257   -24.56958257 -10023.56958257   0.009824   4.0e-02   1.2e-04 0.08
-     2      20    2.9e-02    2    3.3e-03   -24.58113245   -24.58113245    -0.01154988   0.003402   1.4e-02   1.6e-04 0.08
-     3      20    1.9e-02    0    1.0e-03   -24.58127977   -24.58127977    -0.00014731   0.004295   1.7e-02   2.0e-04 0.08
-     4      30    2.8e-02    4    4.4e-03   -24.58133852   -24.58133852    -0.00005876   0.002426   9.7e-03   1.9e-04 0.08
-     5      30    3.3e-02    0    9.5e-04   -24.58142476   -24.58142476    -0.00008623   0.003375   1.4e-02   1.6e-04 0.08
-     6      40    3.7e-02    1    2.6e-03   -24.58145373   -24.58145373    -0.00002898   0.000866   3.5e-03   1.4e-04 0.08
+     1      10    8.9e+00    0    1.2e+01   -24.58145484   -24.58145484 -10023.58145484   0.000866   3.5e-03   1.4e-04 0.08
  
 RESULTS OF THE OCCUPATION OPTIMIZATION
 ========================================
@@ -97,12 +92,12 @@ RESULTS OF THE OCCUPATION OPTIMIZATION
 ----------------
  Final Energies 
 ----------------
-Final NOF Total Energy =     -24.5814537
+Final NOF Total Energy =     -24.5814548
  
-Total Orbital Internal Iterations = 150
-Total Occupation Internal Iterations = 45
+Total Orbital Internal Iterations = 10
+Total Occupation Internal Iterations = 0
  
-Elapsed time:   26.70 Seconds
+Elapsed time:   26.65 Seconds
 
 ---------------------------------
    Lowdin Population Analysis    

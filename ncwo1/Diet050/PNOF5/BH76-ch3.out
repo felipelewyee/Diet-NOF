@@ -30,10 +30,7 @@ PNOF5/ADABelief Calculation
 ==================
  
   Nitext  Nit_orb  Time   Nit_occ  Time         Eelec          Etot           Ediff      maxdiff    MaxGrad_orb  Grad_occ
-     1      10    9.3e+00    1    1.2e+01   -49.32312843   -39.63077458 -10048.32312843   0.004252   1.7e-02   1.9e-04 0.01
-     2      20    8.1e-01    1    2.6e-02   -49.32411826   -39.63176441    -0.00098983   0.008055   3.2e-02   3.6e-05 0.02
-     3      20    7.0e-01    0    7.4e-03   -49.32412382   -39.63176997    -0.00000556   0.008055   3.2e-02   3.6e-05 0.02
-     4      38    1.7e+00    0    1.9e-02   -49.32424349   -39.63188964    -0.00011967   0.000490   2.0e-03   4.4e-05 0.02
+     1      10    9.3e+00    0    1.2e+01   -49.32424349   -39.63188964 -10048.32424349   0.000490   2.0e-03   4.4e-05 0.02
  
 RESULTS OF THE OCCUPATION OPTIMIZATION
 ========================================
@@ -52,10 +49,10 @@ RESULTS OF THE OCCUPATION OPTIMIZATION
 ----------------
 Final NOF Total Energy =     -39.6318896
  
-Total Orbital Internal Iterations = 88
-Total Occupation Internal Iterations = 2
+Total Orbital Internal Iterations = 10
+Total Occupation Internal Iterations = 0
  
-Elapsed time:   30.60 Seconds
+Elapsed time:   27.29 Seconds
 
 ---------------------------------
    Lowdin Population Analysis    

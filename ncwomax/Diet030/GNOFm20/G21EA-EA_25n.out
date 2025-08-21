@@ -2,7 +2,7 @@ Computing Integrals
 Basis Set                                            = def2-qzvp
 Auxiliary Basis Set                                  = def2-universal-jkfit
 Gaussian Type                                        = Spherical
-Elapsed time:    2.17 Seconds
+Elapsed time:    2.52 Seconds
 
 Number of basis functions                   (NBF)    = 140
 Number of auxiliary basis functions         (NBFAUX) = 256
@@ -177,7 +177,7 @@ Final NOF Total Energy =    -920.0776423
 Total Orbital Internal Iterations = 10
 Total Occupation Internal Iterations = 0
  
-Elapsed time:   28.50 Seconds
+Elapsed time:   28.68 Seconds
 
 ---------------------------------
    Lowdin Population Analysis    

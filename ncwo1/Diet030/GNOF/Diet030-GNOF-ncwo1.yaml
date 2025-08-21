@@ -10,21 +10,21 @@ DIPCS10:
         Filename: "h2s.xyz"
       h2s_2+:
         Charge: "2"
-        E_NOF: -397.9115299
+        E_NOF: -397.91153
         Multiplicity: "1"
         Ncwo: 1
         Count: 1
         Filename: "h2s_2+.xyz"
-    dE_NOF: 706.5998262500216
-    APD: 3.6016608117296616
-    AD: 26.40017374997842
+    dE_NOF: 706.5997635000094
+    APD: 3.6016693724407327
+    AD: 26.40023649999057
     dE_Ref: 733.0
 FH51:
   24:
     Species:
       H2O:
         Charge: "0"
-        E_NOF: -76.2487891
+        E_NOF: -76.248789
         Multiplicity: "1"
         Ncwo: 1
         Count: -1
@@ -43,9 +43,9 @@ FH51:
         Ncwo: 1
         Count: 1
         Filename: "butanediol.xyz"
-    dE_NOF: -20.387914249993628
-    APD: 9.1852371937923
-    AD: 2.0620857500063714
+    dE_NOF: -20.387976999976672
+    APD: 9.184957683845555
+    AD: 2.062023000023327
     dE_Ref: -22.45
   30:
     Species:
@@ -58,7 +58,7 @@ FH51:
         Filename: "C3H7NH2.xyz"
       H2O:
         Charge: "0"
-        E_NOF: -76.2487891
+        E_NOF: -76.248789
         Multiplicity: "1"
         Ncwo: 1
         Count: -1
@@ -77,9 +77,9 @@ FH51:
         Ncwo: 1
         Count: -1
         Filename: "C3H7NCO.xyz"
-    dE_NOF: -23.43298350000987
-    APD: 38.00343639581783
-    AD: 6.452983500009868
+    dE_NOF: -23.433046249992913
+    APD: 38.00380594813258
+    AD: 6.453046249992912
     dE_Ref: -16.98
 CDIE20:
   9:
@@ -156,7 +156,7 @@ BH76:
     Species:
       hcl:
         Charge: "0"
-        E_NOF: -460.4278169
+        E_NOF: -460.427817
         Multiplicity: "1"
         Ncwo: 1
         Count: -1
@@ -175,16 +175,16 @@ BH76:
         Ncwo: 0
         Count: -1
         Filename: "h.xyz"
-    dE_NOF: 36.03437574999407
-    APD: 102.44031320221387
-    AD: 18.23437574999407
+    dE_NOF: 36.03443850000622
+    APD: 102.440665730372
+    AD: 18.234438500006217
     dE_Ref: 17.8
 MB16-43:
   10:
     Species:
       N2:
         Charge: "0"
-        E_NOF: -109.2799914
+        E_NOF: -109.2799919
         Multiplicity: "1"
         Ncwo: 1
         Count: 1
@@ -219,14 +219,14 @@ MB16-43:
         Filename: "10.xyz"
       F2:
         Charge: "0"
-        E_NOF: -199.1462484
+        E_NOF: -199.1462491
         Multiplicity: "1"
         Ncwo: 1
         Count: 1
         Filename: "F2.xyz"
       Cl2:
         Charge: "0"
-        E_NOF: -919.6259311
+        E_NOF: -919.6259309
         Multiplicity: "1"
         Ncwo: 1
         Count: 1
@@ -240,14 +240,14 @@ MB16-43:
         Filename: "SiH4.xyz"
       H2:
         Charge: "0"
-        E_NOF: -1.1521283
+        E_NOF: -1.1521284
         Multiplicity: "1"
         Ncwo: 1
         Count: -14
         Filename: "H2.xyz"
-    dE_NOF: -84.4124922498595
-    APD: 282.28765712935
-    AD: 130.7197922498595
+    dE_NOF: -84.41224125016015
+    APD: 282.28711509882925
+    AD: 130.71954125016015
     dE_Ref: 46.3073
 Amino20x4:
   54:
@@ -302,14 +302,14 @@ BHROT27:
         Filename: "ethylthiourea_180.xyz"
       ethylthiourea_TS2:
         Charge: "0"
-        E_NOF: -625.7968123
+        E_NOF: -625.7968121
         Multiplicity: "1"
         Ncwo: 1
         Count: 1
         Filename: "ethylthiourea_TS2.xyz"
-    dE_NOF: 16.0618037499371
-    APD: 6.617420058505237
-    AD: 1.1381962500629008
+    dE_NOF: 16.061929249961395
+    APD: 6.616690407201189
+    AD: 1.1380707500386045
     dE_Ref: 17.2
   16:
     Species:
@@ -364,7 +364,7 @@ HAL59:
     Species:
       MeI:
         Charge: "0"
-        E_NOF: -2478.7665507
+        E_NOF: -2478.766542
         Multiplicity: "1"
         Ncwo: 1
         Count: 1
@@ -383,9 +383,9 @@ HAL59:
         Ncwo: 1
         Count: -1
         Filename: "MeI_OPH3.xyz"
-    dE_NOF: 523.4129354998004
-    APD: 15571.045973047916
-    AD: 520.0729354998003
+    dE_NOF: 523.4183947499841
+    APD: 15571.20942365222
+    AD: 520.0783947499841
     dE_Ref: 3.34
   57:
     Species:
@@ -454,14 +454,14 @@ BUT14DIOL:
         Filename: "B14.xyz"
       B1:
         Charge: "0"
-        E_NOF: -308.0355002
+        E_NOF: -308.0355001
         Multiplicity: "1"
         Ncwo: 1
         Count: -1
         Filename: "B1.xyz"
-    dE_NOF: 0.7319159999897238
-    APD: 67.03081081127371
-    AD: 1.4880840000102764
+    dE_NOF: 0.7318532499775756
+    APD: 67.0336373883975
+    AD: 1.4881467500224246
     dE_Ref: 2.22
 DC13:
   1:
@@ -496,20 +496,20 @@ G21EA:
         Filename: "EA_25n.xyz"
       EA_25:
         Charge: "-1"
-        E_NOF: -919.6482791
+        E_NOF: -919.648279
         Multiplicity: "2"
         Ncwo: 1
         Count: -1
         Filename: "EA_25.xyz"
-    dE_NOF: 14.916992750018835
-    APD: 72.7294465264738
-    AD: 39.78300724998117
+    dE_NOF: 14.916930000064895
+    APD: 72.72956124302578
+    AD: 39.78306999993511
     dE_Ref: 54.7
   14:
     Species:
       EA_14n:
         Charge: "0"
-        E_NOF: -289.6602233
+        E_NOF: -289.6602259
         Multiplicity: "2"
         Ncwo: 1
         Count: 1
@@ -521,9 +521,9 @@ G21EA:
         Ncwo: 1
         Count: -1
         Filename: "EA_14.xyz"
-    dE_NOF: 11.239277999993647
-    APD: 61.64068941981691
-    AD: 18.060722000006354
+    dE_NOF: 11.237646499997936
+    APD: 61.64625767918793
+    AD: 18.062353500002065
     dE_Ref: 29.3
 BHPERI:
   11:
@@ -544,14 +544,14 @@ BHPERI:
         Filename: "13r_1.xyz"
       13_c2h4:
         Charge: "0"
-        E_NOF: -78.3329491
+        E_NOF: -78.332949
         Multiplicity: "1"
         Ncwo: 1
         Count: -1
         Filename: "13_c2h4.xyz"
-    dE_NOF: 44.22419200002332
-    APD: 60.232579710229416
-    AD: 16.62419200002332
+    dE_NOF: 44.224129250011174
+    APD: 60.23235235511294
+    AD: 16.624129250011173
     dE_Ref: 27.6
 W4-11:
   57:
@@ -612,7 +612,7 @@ W4-11:
     Species:
       oclo:
         Charge: "0"
-        E_NOF: -609.7431437
+        E_NOF: -609.7431434
         Multiplicity: "2"
         Ncwo: 1
         Count: -1
@@ -631,9 +631,9 @@ W4-11:
         Ncwo: 1
         Count: 2
         Filename: "o.xyz"
-    dE_NOF: 116.47899725008756
-    APD: 9.086015259063725
-    AD: 11.641002749912445
+    dE_NOF: 116.4788089999929
+    APD: 9.086162191700826
+    AD: 11.641191000007098
     dE_Ref: 128.12
 PNICO23:
   16:
